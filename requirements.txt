@@ -1,2 +1,4 @@
-install jupyter
-install transformers
+datasets==2.20.0
+fireworks-ai
+jupyter
+transformers
