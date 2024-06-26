@@ -1,4 +1,6 @@
 datasets==2.20.0
 fireworks-ai
 jupyter
+pronouncing
+sentence-transformers
 transformers
