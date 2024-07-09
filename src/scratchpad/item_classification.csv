@@ -1,0 +1,1407 @@
+Scope,Class
+ COR - WB4S - CP Measurement described as STARBOARD WING BALLAST 4S located at PAZ/FPSOH/HSG/STRUC/HU-T_-8612D,Corrosion Monitoring
+ COR - WB6S - CP Measurement described as STARBOARD WING BALLAST 6S located at PAZ/FPSOH/HSG/STRUC/HU-T_-8612F,Corrosion Monitoring
+ COR - WB7S - CP Measurement described as STARBOARD WING BALLAST 7S located at PAZ/FPSOH/HSG/STRUC/HU-T_-8612G,Corrosion Monitoring
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/LOAD /IPN-_HL-TO25-04-D03P,Piping
+ Major Intrusive Inspection FO 90013 described as PORTSIDE SLOPTANK FLAME ARRESTOR located at PAZ/FPSOH/OIL/DRAIN/TO-FA-90013,Flame Arrestor
+ VIE described as MAIN TGB FUEL GAS SEPARATOR located at PAZ/FPSOT/ELE/PWG  /TO-VZ-6040B,Pressure Vessel (VIE)
+ VIE described as Cooling water piping group located at PAZ/FPSOT/COF/COOLW/IPN-_CW-TO76-01-B01,Piping
+ 06 MONTHLY INSPECTION CAMPAIGN described as Lifting equipment located at PAZ/FPSOH/COF/LIFT,Campaign
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPN-_HG-TO31-14-H21,Piping
+ Visual inspection of complete structure described as P4 Structural Module located at PAZ/FPSOT/HSG/STRUC/P4,Structure
+ Visual inspection of complete structure described as P5 Structural Module located at PAZ/FPSOT/HSG/STRUC/P5,Structure
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/SEP  /IPN-_HL-TO20-03-D03,Piping
+ VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/TRANS/IPN-_HC-TO23-11-J03,Piping
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOH/OIL/DRAIN/IPN-_HG-HU28-01-B03,Piping
+ VIE described as Closed drain piping group located at PAZ/FPSOT/OIL/DRAIN/IPN-_CD-TO28-19-H21,Piping
+ VIE described as CIP/EFM FILTER FILTER UNIT located at PAZ/FPSOT/WAT/WFLT /TO-VF-5120C,Pressure Vessel (VIE)
+ VIE described as Hydrate inhibitor piping group located at PAZ/FPSOH/COF/CHEM /IPN-_HI-HU75-01-_03,Piping
+ UTC + VIE described as Inert gas piping group located at PAZ/FPSOH/COF/INERT/IPN-_IG-HU74-03-_03,Piping
+ VIE described as Sounding piping group located at PAZ/FPSOH/HSG/STRUC/IPN-_AS-HU86-04-_92,Piping
+ VIE described as Acetylene piping group located at PAZ/FPSOH/HSG/WW   /IPN-_AC-HU84-01-_49,Piping
+ VIE described as Diesel oil piping group located at PAZ/FPSOH/COF/FO   /IPN-_DO-HU71-01-_03,Piping
+ VIE described as Waste water piping group located at PAZ/FPSOH/HSG/ACCOM/IPN-_WP-HU82-03-_90,Piping
+ VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/SEP  /IPN-_HC-TO20-03-B03,Piping
+ VIE described as ROOTS BLOWER A SILENCER located at PAZ/FPSOT/GAS/COMP /TO-VF-3170A2,Pressure Vessel (VIE)
+ VIE described as Demineralised water piping group located at PAZ/FPSOT/WAT/WFLT /IPN-_TW-TO51-01-D03,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/SDS  /IPN-_HL-TO29-04-H03,Piping
+ BV tasks & intrusive major inspection described as STARBOARD WING BALLAST 3S located at PAZ/FPSOH/HSG/STRUC/HU-T_-8612C,FU Items
+ Visual Inspec & Function Test described as S1 PROCESS DECK PEDESTAL CRANE located at PAZ/FPSOT/COF/LIFT /HU-JA-7801B,Lifting 
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/SEP  /IPN-_HL-TO20-02-B03,Piping
+ RB_PS-visual inspection of tertiary stru described as RISER BALCONY PORTSIDE located at PAZ/FPSOH/HSG/STRUC/RISER BALCONY PS,FU Items
+ RB_SB-visual inspection of tertiary stru described as RISER BALCONY STARBOARD located at PAZ/FPSOH/HSG/STRUC/RISER BALCONY SB,FU Items
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-03-B03,Piping
+ Non-Intrusive Intermediate Inspection described as HPU OIL TANK located at PAZ/FPSOH/CRS/SAFE /HU-TZ-020101,Non Structural Tank
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-01-B03,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/OWAT /IPN-_HL-HU27-02-B50,Piping
+ SCD + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-14-D49,Piping
+ VIE described as CIP/EFM FILTER FILTER UNIT located at PAZ/FPSOT/WAT/WFLT /TO-VF-5120D,Pressure Vessel (VIE)
+ Scrap/replace described as P8 CHILLED WATER PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/HVAC /TO-PSV-09951,Pressure Safety Device
+ HU-T_-2112A/FU Tank GVI described as DESALTING TANK 1P located at PAZ/FPSOH/OIL/STAB /HU-T_-2112A,FU Items
+ Non-Intrusive Major Inspection described as CORROSION INHIBITOR 1 STORAGE TANK located at PAZ/FPSOT/COF/CHEM /TO-TZ-7561,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC OIL TANK located at PAZ/FPSOT/COF/LIFT /HU-TZ-7801B,Non Structural Tank
+ VIE described as ROOTS BLOWER B SILENCER located at PAZ/FPSOT/GAS/COMP /TO-VF-3170B2,Pressure Vessel (VIE)
+ VIE described as Hot water piping group located at PAZ/FPSOH/COF/HEATL/IPC-_HW-HU72-01-_01,Piping
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC OIL TANK located at PAZ/FPSOT/COF/LIFT /HU-TZ-7801A,Non Structural Tank
+ SCD + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-26-H49,Piping
+ Overhaul described as OUTLET GAS COMPRESSOR PRES SAFETY VALV A located at PAZ/FPSOT/GAS/COMP /TO-PSV2-31330A,Pressure Safety Device
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-05-B03,Piping
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-31-B03,Piping
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STAB /IPN-_HL-HU21-03-B03,Piping
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STAB /IPN-_HL-HU21-04-B03,Piping
+ MACH SPACE LEVEL5/GVI described as Machinery space level -5 located at PAZ/FPSOH/HSG/STRUC/ MACH SPACE-LEVEL-5,FU Items
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STAB /IPN-_HL-HU21-02-B03,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-19-B03,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-23-B03,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/SDS  /IPN-_HL-TO29-01-B03,Piping
+ SCD + VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/TRANS/IPN-_HC-TO23-01-J70P,Piping
+ SCD + VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/TRANS/IPN-_HC-TO23-03-J70P,Piping
+ VIE described as Closed drain piping group located at PAZ/FPSOH/OIL/DRAIN/IPN-_CD-HU28-02-_03,Piping
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/SEP  /IPN-_HL-TO20-01-D03,Piping
+ UTC + VIE described as Hydraulic fluid piping group located at PAZ/FPSOH/CRS/AIR  /IPN-_HH-HU07-05-_69,Piping
+ SCD + VIE described as Flare cold piping group located at PAZ/FPSOT/GAS/FLARE/IPN-_FC-TO36-02-D49,Piping
+ BV Class Intermediate Survey described as STARBOARD WING BALLAST 5S located at PAZ/FPSOH/HSG/STRUC/HU-T_-8612E,FU Items
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/OWAT /IPN-_HL-HU27-04-B50,Piping
+ UTC + VIE described as Produced water piping group located at PAZ/FPSOH/OIL/OWAT /IPN-_PW-HU27-04-B03,Piping
+ VIE described as Produced water piping group located at PAZ/FPSOH/OIL/OWAT /IPN-_PW-HU27-13-B92,Piping
+ Non-Intrusive Intermediate Inspection described as HYPOCHLORITE STORAGE TANK located at PAZ/FPSOT/WAT/WFLT /TO-TR-5121,Non Structural Tank
+ VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/SEP  /IPC-_HC-TO20-05-B03,Piping
+ Visual inspection of tertiary structure described as P6 Structural Module located at PAZ/FPSOT/HSG/STRUC/P6,Structure
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOH/OIL/DRAIN/IPN-_HG-HU28-02-B03,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STAB /IPN-_HL-HU21-09-B03,Piping
+ VIE described as SRU MEMBRANE HOUSING TRAIN 1 located at PAZ/FPSOT/WAT/WDEOX/TO-VZ-5320A,Pressure Vessel (VIE)
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-13-D49,Piping
+ Overhaul described as PRESSURESAFETY VALVE located at PAZ/FPSOH/OIL/OWAT /HU-PSV-279404B,Pressure Safety Device
+ BV tasks & intrusive major inspection described as VOID 2 PORT located at PAZ/FPSOH/HSG/STRUC/HU-T_-8631A,FU Items
+ BUOY MOORING HAWSER PS/WEAR described as BUOY MOORING HAWSER PORT SIDE located at PAZ/BUOY /OIL/LOAD /MOORING HAWSER PS,FU Items
+ Visual inspection of complete structure described as R3 Structural Module located at PAZ/FPSOT/HSG/STRUC/R3,Structure
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/LOAD /IPN-_HL-TO25-08-B03,Piping
+ Intrusive Major Inspection described as PUMPING UNIT B LUB OIL TANK located at PAZ/FPSOT/OIL/SDS  /TO-TZ-2901B,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC STARTER TANK located at PAZ/FPSOA/CRS/EPWG /LQ-TZ-0512,Non Structural Tank
+ Scrap/replace described as PRESSURE SAFETY VALVE located at PAZ/FPSOH/OIL/OWAT /HU-PSV-279401A,Pressure Safety Device
+ Visual inspection of complete structure described as S5 Structural Module located at PAZ/FPSOT/HSG/STRUC/S5,Structure
+ UTC + VIE described as low pressure flare piping group located at PAZ/FPSOT/GAS/FLARE/IPN-_FL-TO36-01-B03,Piping
+ Non-Intrusive Intermediate Inspection described as AIR COMPRESSOR TANK located at PAZ/FPSOT/CRS/AIR  /TO-TZ-0701A,Non Structural Tank
+ TANKER MOORING HAWSER SB/WEAR MEASUR described as BUOY MOORING HAWSER STARBOARD located at PAZ/BUOY /OIL/LOAD /MOORING HAWSER SB,FU Items
+ SCD + VIE described as Produced water piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_PW-TO27-21-D49,Piping
+ MACH SPACE LEVEL1/GVI described as Machinery space level -1 located at PAZ/FPSOH/HSG/STRUC/ MACH SPACE-LEVEL 1,FU Items
+ Intrusive Major Inspection described as FUEL DAY TANK located at PAZ/FPSOH/CRS/FWAT /HU-TA-0101D,Non Structural Tank
+ Overhaul described as GLYCOL FILTER PRESSURE SAFETY VALVE located at PAZ/FPSOT/GAS/DEHYD/TO-PSV-300504,Pressure Safety Device
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/SDS  /IPC-_HL-TO29-01-B03,Piping
+ Overhaul described as AERATOR PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/SEP  /TO-PSV3-20036,Pressure Safety Device
+ Non-Intrusive Intermediate Inspection described as HIGH EXPANSION FOAM BLADDER TANK A located at PAZ/FPSOH/CRS/FWAT /HU-TZ-0121A,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HIGH EXPANSION FOAM BLADDER TANK B located at PAZ/FPSOH/CRS/FWAT /HU-TZ-0121B,Non Structural Tank
+ SCD + VIE described as High pressure flare piping group located at PAZ/FPSOT/GAS/FLARE/IPN-_FH-TO36-08-G49,Piping
+ UTC + VIE described as Hot water piping group located at PAZ/FPSOT/COF/HEATL/IPN-_HW-TO72-03-D01C,Piping
+ UTC + VIE described as Hot water piping group located at PAZ/FPSOT/COF/HEATL/IPC-_HW-TO72-01-D01,Piping
+ Non-Intrusive Intermediate Inspection described as SEPARATOR WASTE LIQUID TANK located at PAZ/FPSOT/ELE/PWG  /TO-TZ-6036D,Non Structural Tank
+ PAZ/TO-FA-6080E FLAME ARRESTOR described as Hydraulic starting system flame arrestor located at PAZ/FPSOT/ELE/PWG  /TO-FA-6080E,Flame Arrestor
+ VIE described as MAIN TGA FUEL GAS SEPARATOR located at PAZ/FPSOT/ELE/PWG  /TO-VZ-6040A,Pressure Vessel (VIE)
+ VIE described as CIP/EFM FILTER FILTER UNIT located at PAZ/FPSOT/WAT/WFLT /TO-VF-5120B,Pressure Vessel (VIE)
+ VIE described as CIP/EFM FILTER FILTER UNIT located at PAZ/FPSOT/WAT/WFLT /TO-VF-5120E,Pressure Vessel (VIE)
+ TEPA Hull Side Shell GVI described as HULL FOR FPSO located at PAZ/FPSOH/HSG/STRUC/HULL,FU Items
+ UTC + VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/TRANS/IPN-_HC-TO23-17-J03,Piping
+ VIE described as AIR-SEALWATER SEPARATOR A located at PAZ/FPSOT/WAT/WDEOX/TO-VZ-5312A,Pressure Vessel (VIE)
+ VIE described as AIR-SEALWATER SEPARATOR B located at PAZ/FPSOT/WAT/WDEOX/TO-VZ-5312B,Pressure Vessel (VIE)
+ Major Intrus.insp_TO-FA-90825 FL.ARREST described as SW DISPOSAL CAISSON FLAME ARRESTOR located at PAZ/FPSOH/OIL/OWAT /TO-FA-90825,Flame Arrestor
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPN-_HG-TO31-13-H21,Piping
+ Overhaul described as NITROGEN RECEIVER PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/INERT/TO-PSV-74002,Pressure Safety Device
+ VIE described as HULL CHILLED WATER EXPANSION TANK located at PAZ/FPSOH/CRS/HVAC /HU-VZ-0910,Pressure Vessel (VIE)
+ VIE described as HULL CHILLED WATER DOSING TANK located at PAZ/FPSOH/CRS/HVAC /HU-VZ-0911,Pressure Vessel (VIE)
+ VIE described as MAIN CHW UNIT B CONDENSER COOLING B located at PAZ/FPSOH/CRS/HVAC /HU-EL-0911B,Pressure Vessel (VIE)
+ VIE described as MAIN CHILLED WATER UNIT B EVAPORATOR B located at PAZ/FPSOH/CRS/HVAC /HU-EW-0911B,Pressure Vessel (VIE)
+ VIE described as MAIN CHW UNIT C CONDENSER COOLING C located at PAZ/FPSOH/CRS/HVAC /HU-EL-0911C,Pressure Vessel (VIE)
+ VIE described as MAIN CHILLED WATER UNIT C EVAPORATOR C located at PAZ/FPSOH/CRS/HVAC /HU-EW-0911C,Pressure Vessel (VIE)
+ VIE described as CHILLED WATER HEAT EXCHANGER located at PAZ/FPSOH/HSG/UPWAT/HU-EP-8521A,Pressure Vessel (VIE)
+ VIE described as CHILLED WATER HEAT EXCHANGER located at PAZ/FPSOH/HSG/UPWAT/HU-EP-8521B,Pressure Vessel (VIE)
+ VIE described as Corrosion inhibitor piping group located at PAZ/FPSOT/COF/CHEM /IPN-_CI-TO75-02-_50,Piping
+ VIE described as P8 CHILLED WAT UNIT CONDENSER COOLING located at PAZ/FPSOT/CRS/HVAC /TO-EL-0920B,Pressure Vessel (VIE)
+ VIE described as P8 CHILLED WATER UNIT B EVAPORATOR B located at PAZ/FPSOT/CRS/HVAC /TO-EW-00920B,Pressure Vessel (VIE)
+ VIE described as P1 CHILLED WATER EXPANSION TANK located at PAZ/FPSOT/CRS/HVAC /TO-VZ-0910,Pressure Vessel (VIE)
+ VIE described as P1 CHILLED WATER DOSING TANK located at PAZ/FPSOT/CRS/HVAC /TO-VZ-0911,Pressure Vessel (VIE)
+ VIE described as P1 CHILLED WATER BUFFER TANK located at PAZ/FPSOT/CRS/HVAC /TO-VZ-0912,Pressure Vessel (VIE)
+ VIE described as P1 CHILLED WAT UNIT CONDENSER COOLING located at PAZ/FPSOT/CRS/HVAC /TO-EL-0921A,Pressure Vessel (VIE)
+ VIE described as P1 CHILLED WATER UNIT A EVAPORATOR A located at PAZ/FPSOT/CRS/HVAC /TO-EW-0921A,Pressure Vessel (VIE)
+ VIE described as P1 CHILLED WAT UNIT CONDENSER COOLING located at PAZ/FPSOT/CRS/HVAC /TO-EL-0921B,Pressure Vessel (VIE)
+ VIE described as P1 CHILLED WATER UNIT B EVAPORATOR B located at PAZ/FPSOT/CRS/HVAC /TO-EW-0921B,Pressure Vessel (VIE)
+ VIE described as FLARE & HC BLANKET GAS PACKAGE SCRUBBER located at PAZ/FPSOT/GAS/COMP /TO-V_-3170,Pressure Vessel (VIE)
+ L1-Visual inspection of tertiary struc described as L1 Structural Module located at PAZ/FPSOT/HSG/STRUC/L1,Structure
+ L2-Visual inspection of tertiary struc described as L2 Structural Module located at PAZ/FPSOT/HSG/STRUC/L2,Structure
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOH/OIL/OWAT /IPN-_HG-HU27-01-B03,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPN-_HG-TO31-12-J21N,Piping
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/OWAT /IPN-_HL-HU27-01-B03,Piping
+ VIE described as Foam piping group located at PAZ/FPSOT/CRS/FWAT /IPN-_XN-TO01-75-_49,Piping
+ VIE described as Fuel gas piping group located at PAZ/FPSOT/COF/FG   /IPN-_FG-TO70-01-D01,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPN-_HG-TO31-08-B23,Piping
+ VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/STAB /IPC-_HC-TO21-02-B03,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-09-H03,Piping
+ VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/TRANS/IPN-_HC-TO23-13-J49,Piping
+ Visual inspection of tertiary structure described as SUPERSTRUCTURE located at PAZ/FPSOH/HSG/STRUC/SUPERSTRUCTURE,FU Items
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-11-H03,Piping
+ SCD + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-16-H49,Piping
+ VIE described as Fuel gas piping group located at PAZ/FPSOT/COF/FG   /IPN-_FG-TO70-02-D01,Piping
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOH/OIL/OWAT /IPN-_HG-HU27-02-B03,Piping
+ PAZ/TO-FA-6080A FLAME ARRESTOR described as Hydraulic starting system flame arrestor located at PAZ/FPSOT/ELE/PWG  /TO-FA-6080A,Flame Arrestor
+ Non-Intrusive Intermediate Inspection described as CHEMICAL INJECTION  UNIT TANK located at PAZ/FPSOT/GAS/DEHYD/TO-TZ-3001,Non Structural Tank
+ VIE described as DESICCANT VESSEL AIR INSTRUMENT CYLINDER located at PAZ/FPSOT/CRS/AIR  /TO-VA-0701A-1,Pressure Vessel (VIE)
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/OIL/STAB /IPN-_HG-TO21-03-D03,Piping
+ PAZ/TO-FA-6031D1 FLAME ARRESTOR described as FLAME ARRESTOR1 located at PAZ/FPSOT/ELE/PWG  /TO-FA-6031D1,Flame Arrestor
+ Visual inspection of tertiary structure described as Flare Structural Module located at PAZ/FPSOT/HSG/STRUC/FLARE,Structure
+ VIE described as Fuel gas piping group located at PAZ/FPSOT/COF/FG   /IPN-_FG-TO70-13-B01,Piping
+ VIE described as SEAWATER COARSE FILTRATION UNIT located at PAZ/FPSOT/WAT/WFLT /TO-VF-5110B,Pressure Vessel (VIE)
+ VIE described as DRINKING WATER STERILISER PRE FILTER located at PAZ/FPSOH/HSG/UPWAT/HU-PF-8523B,Pressure Vessel (VIE)
+ UTC + VIE described as Produced water piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_PW-TO27-18-B03,Piping
+ VIE described as TOPSIDE INSTRUMENT AIR RECEIVER located at PAZ/FPSOT/CRS/AIR  /TO-VA-0704,Pressure Vessel (VIE)
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/GAS/COMP /IPN-_HL-TO31-04-B49,Piping
+ UTC + VIE described as Fuel gas piping group located at PAZ/FPSOT/COF/FG   /IPN-_FG-TO70-04-F01,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/SEP  /IPC-_HL-TO20-01-B03,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/STAB /IPC-_HL-TO21-08-B03,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/STAB /IPC-_HL-TO21-09-B03,Piping
+ NDT + VIE  described as Produced water piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_PW-TO27-05-B03,Piping
+ VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/SEP  /IPC-_HC-TO20-04-D03,Piping
+ BV tasks & intrusive major inspection described as STARBOARD WING BALLAST 4S located at PAZ/FPSOH/HSG/STRUC/HU-T_-8612D,FU Items
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-03-B03,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/DEHYD/IPN-_HG-TO30-04-F03,Piping
+ Visual inspection of tertiary structure described as S2 Structural Module located at PAZ/FPSOT/HSG/STRUC/S2,Structure
+ Visual inspection of tertiary structure described as S3 Structural Module located at PAZ/FPSOT/HSG/STRUC/S3,Structure
+ Major Intrus.insp_TO-FA-90011 FL.ARREST described as HULL SW DISPOSAL CAISSON FLAME ARRESTOR located at PAZ/FPSOH/WAT/WFLT /TO-FA-90011,Flame Arrestor
+ SCD + VIE described as Fuel gas piping group located at PAZ/FPSOT/COF/FG   /IPC-_FG-TO70-02-F49,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/SEP  /IPN-_HL-TO20-04-D03,Piping
+ PAZ/TO-FA-3110 FLAME ARRESTOR described as OIL RESERVOIR FLAME ARRESTOR located at PAZ/FPSOT/GAS/COMP /TO-FA-3110,Flame Arrestor
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-29-B03,Piping
+ NDT + VIE  described as Produced water piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_PW-TO27-10-D03,Piping
+ SCD + VIE described as low pressure flare piping group located at PAZ/FPSOT/GAS/FLARE/IPN-_FL-TO36-03-B49,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/GAS/FLARE/IPN-_HL-TO36-06-D49,Piping
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/LOAD /IPN-_HL-TO25-06-D03,Piping
+ UTC + VIE described as Produced water piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_PW-TO27-06-D03,Piping
+ VIE described as Flare cold piping group located at PAZ/FPSOT/GAS/FLARE/IPN-_FC-TO36-04-F49,Piping
+ Lifting Inspection & test /HU-JZ-7892 described as BOW CRANE located at PAZ/FPSOH/COF/LIFT /HU-JZ-7892,Lifting 
+ Non-Intrusive Intermediate Inspection described as OIL TANK located at PAZ/FPSOH/COF/LIFT /HU-TZ-7891A,Non Structural Tank
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-12-F03,Piping
+ UTC + VIE described as Produced water piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_PW-TO27-19-B03,Piping
+ Non-Intrusive Intermediate Inspection described as OIL COOLING WATER TANK located at PAZ/FPSOA/CRS/EPWG /LQ-TZ-0513,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HULL C.W CHEMICAL DOSING TANK located at PAZ/FPSOH/COF/COOLW/HU-TZ-7601,Non Structural Tank
+ Major Instrus.insp_TO-FA-6015B1 F.ARREST described as TO LIQUID FUEL SYSTEM FLAME ARRESTOR1 located at PAZ/FPSOT/ELE/PWG  /TO-FA-6015B1,Flame Arrestor
+ Major Intrus.insp_TO-FA-6015B2 FL.ARREST described as TO LIQUID FUEL SYSTEM FLAME ARRESTOR2 located at PAZ/FPSOT/ELE/PWG  /TO-FA-6015B2,Flame Arrestor
+ VIE described as CRUDE OIL OFFLOADING TANDEM located at PAZ/FPSOT/OIL/LOAD /TO-V_-2501,Pressure Vessel (VIE)
+ Non-Intrusive Intermediate Inspection described as HPU OIL TANK located at PAZ/FPSOH/CRS/SAFE /HU-TZ-0202A,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HPU OIL TANK located at PAZ/FPSOH/CRS/SAFE /HU-TZ-0202C,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HPU OIL TANK located at PAZ/FPSOH/CRS/SAFE /HU-TZ-0202D,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HPU OIL TANK located at PAZ/FPSOH/CRS/SAFE /HU-TZ-0202E,Non Structural Tank
+ SCD + VIE described as Flare cold piping group located at PAZ/FPSOT/GAS/FLARE/IPN-_FC-TO36-05-L49,Piping
+ Visual inspection of tertiary structure described as S7 Structural Module located at PAZ/FPSOT/HSG/STRUC/S7,Structure
+ VISUAL INSPECTION FWD-BALCONY TER_STR described as STRUCTURE OF FORWARD BALCONIES located at PAZ/FPSOH/HSG/STRUC/FORWARD BALCONIES,Structure
+ UTC + VIE described as Starting air piping group located at PAZ/FPSOH/CRS/AIR  /IPN-_UA-HU07-02-_03,Piping
+ Non-Intrusive Intermediate Inspection described as HPU OIL TANK located at PAZ/FPSOH/CRS/SAFE /HU-TZ-0202B,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HPU OIL TANK located at PAZ/FPSOH/CRS/SAFE /HU-TZ-0202F,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as OIL TANK located at PAZ/FPSOH/CRS/SAFE /HU-TZ-0203,Non Structural Tank
+ VIE described as LLP1 GAS CONDENSER located at PAZ/FPSOT/GAS/COMP /TO-ES-3111,Pressure Vessel (VIE)
+ TANKER CHAFFING CHAIN SB/WEAR MEASUR described as SB MOORING TANKER SIDE located at PAZ/BUOY /OIL/LOAD /SB MOORING TANKER,FU Items
+ Non-Intrusive Intermediate Inspection described as AIR COMPRESSOR TANK located at PAZ/FPSOT/CRS/AIR  /TO-TZ-0701B,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as AIR COMPRESSOR TANK located at PAZ/FPSOT/CRS/AIR  /TO-TZ-0701C,Non Structural Tank
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/STAB /IPN-_HL-TO21-02-F03,Piping
+ BV Class Intermediate Survey described as PORT WING BALLAST 2P located at PAZ/FPSOH/HSG/STRUC/HU-T_-8611B,FU Items
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-01-B03,Piping
+ Visual inspection of tertiary structure described as R4 Structural Module located at PAZ/FPSOT/HSG/STRUC/R4,Structure
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-18-D03,Piping
+ Visual inspection of tertiary structure described as R8 Structural Module located at PAZ/FPSOT/HSG/STRUC/R8,Structure
+ Visual inspection of tertiary structure described as HELIDECK located at PAZ/FPSOH/HSG/STRUC/HELIDECK,FU Items
+ VIE described as Desalinated water piping group located at PAZ/FPSOT/WAT/WDEOX/IPN-_RW-TO53-02-D03,Piping
+ VIE described as Drinking water piping group located at PAZ/FPSOH/HSG/UPWAT/IPN-_DW-HU85-02-_92,Piping
+ Visual inspection of tertiary structure described as P8 Structural Module located at PAZ/FPSOT/HSG/STRUC/P8,Structure
+ PAZ/BUOY COMPART_INTRUSIVE described as PAZ STRUTURAL COMPARTMENT located at PAZ/BUOY /HSG/STRUC/TURRET,FU Items
+ SCD + VIE described as Flare cold piping group located at PAZ/FPSOT/GAS/FLARE/IPN-_FC-TO36-07-J49,Piping
+ Visual inspection of tertiary structure described as R1 Structural Module located at PAZ/FPSOT/HSG/STRUC/R1,Structure
+ Visual inspection of tertiary structure described as R6 Structural Module located at PAZ/FPSOT/HSG/STRUC/R6,Structure
+ Visual inspection of tertiary structure described as P1 Structural Module located at PAZ/FPSOT/HSG/STRUC/P1,Structure
+ UTC + VIE described as Produced water piping group located at PAZ/FPSOH/OIL/OWAT /IPN-_PW-HU27-05-B03,Piping
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC POWER UNIT RESERVE TANK located at PAZ/FPSOH/CRS/AIR  /HU-TR-0712A,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC POWER UNIT RETURN TANK located at PAZ/FPSOH/CRS/AIR  /HU-TR-0712B,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as AUXILIARY HYDRAULIC UNIT A HYDR OIL TANK located at PAZ/FPSOH/CRS/AIR  /HU-TZ-0713A,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC OIL TANK located at PAZ/FPSOH/CRS/AIR  /HU-TZ-0713B,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC OIL TANK located at PAZ/FPSOH/CRS/AIR  /HU-TZ-0713C,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC OIL TANK located at PAZ/FPSOH/CRS/AIR  /HU-TZ-0713D,Non Structural Tank
+ VIE described as Sounding piping group located at PAZ/FPSOH/OIL/STAB /IPN-_AS-HU21-01-_03,Piping
+ VIE described as Closed drain piping group located at PAZ/FPSOT/OIL/DRAIN/IPN-_CD-TO28-17-F01,Piping
+ Non-Intrusive Intermediate Inspection described as ESDG LUB OIL SERVICE TANK located at PAZ/FPSOH/CRS/EPWG /HU-T_-7305,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC OIL TANK located at PAZ/FPSOH/CRS/FWAT /HU-TZ-0101A2,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC OIL TANK located at PAZ/FPSOH/CRS/FWAT /HU-TZ-0101B2,Non Structural Tank
+ CVI of FPSO deck described as DECK FOR FPSO located at PAZ/FPSOH/HSG/STRUC/HU-DECK,FU Items
+ Visual Inspec & Function Test described as P1 PROC. MEZZ UPPER DECK PEDESTAL CRANE located at PAZ/FPSOT/COF/LIFT /HU-JA-7801A,Lifting 
+ Visual Inspec & Function Test described as P1 PROC. MEZZ UPPER DECK PEDESTAL CRANE located at PAZ/FPSOT/COF/LIFT /HU-JA-7801A,Lifting 
+ Non-Intrusive Intermediate Inspection described as LUB OIL TREATMENT TANK located at PAZ/FPSOH/CRS/EPWG /HU-T_-73505A,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as LUB OIL TREATMENT TANK located at PAZ/FPSOH/CRS/EPWG /HU-T_-73505B,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC OIL START SYSTEM TANK located at PAZ/FPSOH/CRS/FWAT /HU-TZ-0101A4,Non Structural Tank
+ Overhaul described as PRESSURE SAFETY VALVE 1 located at PAZ/FPSOT/GAS/COMP /TO-PSV1-31111,Pressure Safety Device
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC OIL START SYSTEM TANK located at PAZ/FPSOH/CRS/FWAT /HU-TZ-0101B4,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC OIL START SYSTEM TANK located at PAZ/FPSOH/CRS/FWAT /HU-TZ-0101C4,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC OIL START SYSTEM TANK located at PAZ/FPSOH/CRS/FWAT /HU-TZ-0101D4,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC OIL TANK located at PAZ/FPSOH/CRS/FWAT /HU-TZ-0101D2,Non Structural Tank
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC OIL TANK located at PAZ/FPSOH/CRS/FWAT /HU-TZ-0101C2,Non Structural Tank
+ Visual inspection of tertiary structure described as S4 Structural Module located at PAZ/FPSOT/HSG/STRUC/S4,Structure
+ BV tasks & intrusive major inspection described as VOID 1 CENTRE located at PAZ/FPSOH/HSG/STRUC/HU-T_-8633,FU Items
+ TANKER CHAFFING CHAIN PS/WEAR MEASUR described as PS MOORING TANKER SIDE located at PAZ/BUOY /OIL/LOAD /PS MOORING TANKER,FU Items
+ BV Class Intermediate Survey described as PORTSIDE SLOP TANK located at PAZ/FPSOH/OIL/DRAIN/HU-T_-2801A,FU Items
+ Non-Intrusive Intermediate Inspection described as HYDRAULIC UNIT OIL TANK located at PAZ/FPSOH/COF/LIFT /RP-TR-7801A,Non Structural Tank
+ Replace/Scrap described as LIMIT PILOT GAS PRESSURE SAFETY VALVE A located at PAZ/FPSOT/GAS/COMP /TO-PSV-314547A,Pressure Safety Device
+ Visual inspection of tertiary structure described as S1 Structural Module located at PAZ/FPSOT/HSG/STRUC/S1,Structure
+ Replace/Scrap described as PRESSURE SAFETY VALVE located at PAZ/FPSOH/CRS/AIR  /HU-PSV-07103B,Pressure Safety Device
+ Scrap/replace described as SINGLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-010801B,Pressure Safety Device
+ TO-PSV-250530A-Replace/Scrap described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/LOAD /TO-PSV-250530A,Pressure Safety Device
+ Scrap/replace described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/LOAD /TO-PSV-250531A,Pressure Safety Device
+ HU-T_-2112C/FU Tank GVI described as DESALTING TANK 1S located at PAZ/FPSOH/OIL/STAB /HU-T_-2112C,FU Items
+ Replace/Scrap described as TO TO-V_-2113A INLET PSV located at PAZ/FPSOT/COF/CHEM /TO-PSV-751544H,Pressure Safety Device
+ UTC + VIE described as Cooling water piping group located at PAZ/FPSOT/COF/COOLW/IPN-_CW-TO76-02-B01,Piping
+ Replace/Scrap described as NDE SEAL ACCUMULATOR PRESS. SAFETY VALVE located at PAZ/FPSOT/WAT/WINJ /TO-PSV-543505A,Pressure Safety Device
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-15-H03P,Piping
+ Overhaul described as 1ST STAGE OUTLET PRESSURE SAFETY VALVE located at PAZ/FPSOH/CRS/AIR  /HU-PSV-07101B,Pressure Safety Device
+ Scrap/replace described as AIR START PRESSURE SAFETY VALVE located at PAZ/FPSOH/CRS/FWAT /HU-PSV-016069D,Pressure Safety Device
+ Overhaul described as TRANSFERT MANIFOLD THERMAL SAFETY VALVE located at PAZ/FPSOH/OIL/STORE/TO-TSV-23001,Pressure Safety Device
+ VIE described as Fuel gas piping group located at PAZ/FPSOT/COF/FG   /IPN-_FG-TO70-06-B01,Piping
+ VII described as O9 P40 FLN 1 PIG TRAP A located at PAZ/FPSOT/OIL/SEP  /TO-VP-2001A,Pressure Vessel (VII)
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-17-H03P,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-19-H03P,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-21-H03P,Piping
+ Overhaul described as SEA WATER DESAL. PRESSURE SAFETY VALVE located at PAZ/FPSOH/HSG/UPWAT/HU-PSV-851102A,Pressure Safety Device
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-23-H03P,Piping
+ UTC + VIE described as Produced water piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_PW-TO27-28-D03,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-25-H03P,Piping
+ UTC + VIE described as Sea water piping group located at PAZ/FPSOT/WAT/WINJ /IPN-_SW-TO54-04-J03A,Piping
+ major intrus.insp_OB-FA-2551 FL.ARREST described as OLT SWIVEL LEAK SYSTEM FLAME ARRESTOR located at PAZ/BUOY /OIL/LOAD /OB-FA-2551,Flame Arrestor
+ Major Intrus.Insp_OB-FA-2521 FL.ARREST described as SURGE RELIEF TANK FLAME ARRESTOR located at PAZ/BUOY /OIL/LOAD /OB-FA-2521,Flame Arrestor
+ Major intrus.insp_OB-FA-2522 FL.ARREST described as SURGE RELIEF TANK FLAME ARRESTOR located at PAZ/BUOY /OIL/LOAD /OB-FA-2522,Flame Arrestor
+ Major Instrus.insp_LQ-FLR-0511 FL.ARREST described as EMDG FLAME ARRESTOR located at PAZ/FPSOA/CRS/EPWG /LQ-FLR-0511,Flame Arrestor
+ PAZ/TO-FA-6031B1 FLAME ARRESTOR described as FLAME ARRESTOR1 located at PAZ/FPSOT/ELE/PWG  /TO-FA-6031B1,Flame Arrestor
+ PAZ/TO-FA-6031E1 FLAME ARRESTOR described as FLAME ARRESTOR1 located at PAZ/FPSOT/ELE/PWG  /TO-FA-6031E1,Flame Arrestor
+ PAZ/TO-FA-6015E1 FLAME ARRESTOR described as TO LIQUID FUEL SYSTEM FLAME ARRESTOR1 located at PAZ/FPSOT/ELE/PWG  /TO-FA-6015E1,Flame Arrestor
+ PAZ/TO-FA-6015E2 FLAME ARRESTOR described as TO LIQUID FUEL SYSTEM FLAME ARRESTOR2 located at PAZ/FPSOT/ELE/PWG  /TO-FA-6015E2,Flame Arrestor
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPN-_HG-TO31-02-B03,Piping
+ SCD + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-22-H49,Piping
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/STAB /IPN-_HL-TO21-04-B03,Piping
+ UTC + VIE described as Sea water piping group located at PAZ/FPSOT/WAT/WDEOX/IPN-_SW-TO53-10-B03,Piping
+ CLASS PSV-Overhaul described as MEOH STOR TK PRESS VACUUM SAFETY VALVE located at PAZ/FPSOH/COF/CHEM /HU-PVSV-75014,Pressure Safety Device
+ VIE described as AIR START GAS VESSEL D6 located at PAZ/FPSOH/CRS/FWAT /HU-VB-0101D6,Pressure Vessel (VIE)
+ COR - WB3S - CP Measurement described as STARBOARD WING BALLAST 3S located at PAZ/FPSOH/HSG/STRUC/HU-T_-8612C,Corrosion Monitoring
+ UTC + VIE described as Sea water piping group located at PAZ/FPSOT/WAT/WINJ /IPN-_SW-TO54-07-D03,Piping
+ Overhaul described as AIR GENERATION PRESSURE SAFETY VALVE located at PAZ/FPSOH/CRS/AIR  /HU-PSV-07054,Pressure Safety Device
+ Scrap/replace described as PRESSURE SAFETY VALVE located at PAZ/FPSOH/OIL/OWAT /HU-PSV-279402A,Pressure Safety Device
+ Scrap/replace described as PRESSURE SAFETY VALVE located at PAZ/FPSOH/OIL/OWAT /HU-PSV-279402B,Pressure Safety Device
+ Scrap/replace described as STBY COOLER WATER SIDE TSV located at PAZ/FPSOT/ELE/PWG  /TO-TSV-602559B,Pressure Safety Device
+ Overhaul described as HEATER THERMAL SAFETY VALVE located at PAZ/FPSOT/OIL/SDS  /TO-TSV-29005,Pressure Safety Device
+ Overhaul described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/STAB /TO-PSV-21015A2,Pressure Safety Device
+ Scrap/Replacement described as OUTLET FILTER UNIT THERMAL SAFETY VALVE located at PAZ/FPSOT/WAT/WFLT /TO-TSV-510505A,Pressure Safety Device
+ VISUAL INSPECTION AFT-BALCONY TER_STR described as STRUCTURE OF AFTER BALCONIES located at PAZ/FPSOH/HSG/STRUC/AFT BALCONIES,Structure
+ Overhaul described as WASH WATER SYSTEM DEMINERALISATION PSV located at PAZ/FPSOT/WAT/WDEOX/TO-PSV-534506A,Pressure Safety Device
+ VII described as ESSENTIAL SW FILTER UNIT located at PAZ/FPSOT/WAT/WFLT /TO-VF-5111B,Pressure Vessel (VII)
+ Replace/Scrap described as INJ. DOSING PUMP PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/CHEM /TO-PSV-753546,Pressure Safety Device
+ Overhaul described as DEGASSING DRUM PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/OWAT /TO-PSV2-27023,Pressure Safety Device
+ Replace/Scrap described as OIL PH CONTROLLER PUMPING UNIT PSV located at PAZ/FPSOT/COF/CHEM /TO-PSV-751544F,Pressure Safety Device
+ Scrap/Replace described as TO CRUDE OIL COOLERS A-B-C-D PSV located at PAZ/FPSOT/COF/CHEM /TO-PSV-751544C,Pressure Safety Device
+ Replace/Scrap described as TO TO-V_2113B INLET PSV located at PAZ/FPSOT/COF/CHEM /TO-PSV-751544G,Pressure Safety Device
+ Replace/Scrap described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/CHEM /TO-PSV-752543,Pressure Safety Device
+ Scrap/replace described as TEG REGENERATION INTERFACE TSV located at PAZ/FPSOT/GAS/DEHYD/TO-TSV-30051,Pressure Safety Device
+ Overhaul described as O9 P.W DEGASSING PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/OWAT /TO-PSV1-27083,Pressure Safety Device
+ Major Non-Intrusive Inspection described as CIP STORAGE TANK located at PAZ/FPSOH/OIL/OWAT /HU-TR-2721,Non Structural Tank
+ Major Non-Intrusive Inspection described as LUBE OILSTORAGE TANK located at PAZ/FPSOH/OIL/OWAT /HU-TR-2721A,Non Structural Tank
+ Major Non-Intrusive Inspection described as LUBE OILSTORAGE TANK located at PAZ/FPSOH/OIL/OWAT /HU-TR-2721B,Non Structural Tank
+ Scrap/replace described as WATER SIDE TSV located at PAZ/FPSOT/ELE/PWG  /TO-TSV-602575B,Pressure Safety Device
+ Scrap/replace described as STBY COOLER WATER SIDE TSV located at PAZ/FPSOT/ELE/PWG  /TO-TSV-602559C,Pressure Safety Device
+ Scrap/replace described as STBY COOLER WATER SIDE TSV located at PAZ/FPSOT/ELE/PWG  /TO-TSV-602559E,Pressure Safety Device
+ Scrap/Replace described as SCALE INHIBITOR 2 PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/CHEM /TO-PSV-751549A,Pressure Safety Device
+ Scrap/Replace described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/CHEM /TO-PSV-755544,Pressure Safety Device
+ Non-Intrusive Intermediate Inspection described as SEPARATOR WASTE LIQUID TANK located at PAZ/FPSOT/ELE/PWG  /TO-TZ-6036B,Non Structural Tank
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_HG-TO27-02-B03,Piping
+ Visual Inspec & Function Test described as S1 PROCESS DECK PEDESTAL CRANE located at PAZ/FPSOT/COF/LIFT /HU-JA-7801B,Lifting 
+ Replace/Scrap described as WATER SIDE TSV located at PAZ/FPSOT/ELE/PWG  /TO-TSV-602584A,Pressure Safety Device
+ UTC + VIE described as Sea water piping group located at PAZ/FPSOT/WAT/WATLF/IPN-_SW-TO50-09-B92,Piping
+ PROD-LOOP-P40 - Int Pigging / 60M described as Production Line located at PAZ/SUB  /EXT/EWELL/PROD-LOOP-P40,Intelligent Pigging
+ Replace/Scrap described as AIR START PRESSURE SAFETY VALVE located at PAZ/FPSOH/CRS/FWAT /HU-PSV-016072B,Pressure Safety Device
+ VII described as DESICCANT VESSEL AIR INSTRUMENT CYLINDER located at PAZ/FPSOT/CRS/AIR  /TO-VA-0701A-2,Pressure Vessel (VII)
+ Overhaul described as 2ND STAGE OUTLET PRESSURE SAFETY VALVE 1 located at PAZ/FPSOT/GAS/COMP /TO-PSV1-31229,Pressure Safety Device
+ UTC + VIE described as Sea water piping group located at PAZ/FPSOT/WAT/WATLF/IPN-_SW-TO50-10-B92,Piping
+ Overhaul described as GAS & VENT GAS UNIT PRES SFTY VALVE 1 located at PAZ/FPSOT/GAS/COMP /TO-PSV1-317551,Pressure Safety Device
+ UTC + VIE described as Sea water piping group located at PAZ/FPSOT/WAT/WINJ /IPN-_SW-TO54-02-J03A,Piping
+ Non-Intrusive Intermediate Inspection described as OIL TANK located at PAZ/FPSOH/OIL/LOAD /HU-TZ-2518,Non Structural Tank
+ Overhaul described as MANIFOLD PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/CHEM /TO-PSV1-75104B,Pressure Safety Device
+ Overhaul described as HP FLARE KO CENTRIFUGAL PUMP B PSV located at PAZ/FPSOT/GAS/FLARE/TO-PSV-36008B,Pressure Safety Device
+ VIE described as Cooling water piping group located at PAZ/FPSOT/CRS/HVAC /IPC-_CW-TO09-08-B01,Piping
+ Scrap/Replace described as SCALE INHIBITOR 2 PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/CHEM /TO-PSV-751549B,Pressure Safety Device
+ Overhaul described as TO HP WARM FLARE PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/FG   /TO-PSV-70033B,Pressure Safety Device
+ Overhaul described as GLYC MAKE-UP FACILITIE PRES SAFETY VALVE located at PAZ/FPSOT/GAS/DEHYD/TO-PSV-300510,Pressure Safety Device
+ VIE described as Closed drain piping group located at PAZ/FPSOT/OIL/DRAIN/IPN-_CD-TO28-01-B03,Piping
+ UTC + VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/GAS/COMP /IPN-_HG-TO31-18-J21N,Piping
+ 06 MONTHLY INSPECTION CAMPAIGN described as Lifting equipment located at PAZ/FPSOH/COF/LIFT,Campaign
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-26-L23N,Piping
+ VIE described as CIP/EFM FILTER FILTER UNIT located at PAZ/FPSOT/WAT/WFLT /TO-VF-5120A,Pressure Vessel (VIE)
+ UTC + VIE described as Sea water piping group located at PAZ/FPSOT/WAT/WINJ /IPN-_SW-TO54-05-J03A,Piping
+ SCD + VIE described as Fuel gas piping group located at PAZ/FPSOT/COF/FG   /IPN-_FG-TO70-08-B49,Piping
+ VIE described as Cooling water piping group located at PAZ/FPSOT/CRS/HVAC /IPC-_CW-TO09-05-B01,Piping
+ Non-Intrusive Intermediate Inspection described as DIESEL TANK located at PAZ/FPSOH/COF/LIFT /RP-TR-7802A,Non Structural Tank
+ Overhaul described as S.W PRESSURE SAFETY VALVE 2 located at PAZ/FPSOH/COF/COOLW/HU-PSV2-76107,Pressure Safety Device
+ PAZ/ Flexible hoses inspection Campaign described as PAZFLOR Topsides located at PAZ/FPSOT,Campaign
+ Non-Intrusive Intermediate Inspection described as BLACK START AIR COMP LUB SYSTEM TANK located at PAZ/FPSOH/CRS/AIR  /HU-TZ-0706,Non Structural Tank
+ COR - WBAP - CP Measurement described as AFT PEAK TANK PORT located at PAZ/FPSOH/HSG/STRUC/HU-T_-8603,Corrosion Monitoring
+ COR - WBAC - CP Measurement described as AFT PEAK TANK CENTRAL located at PAZ/FPSOH/HSG/STRUC/HU-T_-8604,Corrosion Monitoring
+ COR - WBAS - CP Measurement described as AFT PEAK TANK STARBOARD located at PAZ/FPSOH/HSG/STRUC/HU-T_-8605,Corrosion Monitoring
+ COR - WBFP - CP Measurement described as FORE PEAK TANK PORT located at PAZ/FPSOH/HSG/STRUC/HU-T_-8606,Corrosion Monitoring
+ COR - WBFC - CP Measurement described as FORE PEAK TANK CENTRAL located at PAZ/FPSOH/HSG/STRUC/HU-T_-8607,Corrosion Monitoring
+ COR - WBFS - CP Measurement described as FORE PEAK TANK STARBOARD located at PAZ/FPSOH/HSG/STRUC/HU-T_-8608,Corrosion Monitoring
+ COR - WB1P - CP Measurement described as PORT WING BALLAST 1P located at PAZ/FPSOH/HSG/STRUC/HU-T_-8611A,Corrosion Monitoring
+ COR - WB2P - CP Measurement described as PORT WING BALLAST 2P located at PAZ/FPSOH/HSG/STRUC/HU-T_-8611B,Corrosion Monitoring
+ COR - WB3P - CP Measurement described as PORT WING BALLAST 3P located at PAZ/FPSOH/HSG/STRUC/HU-T_-8611C,Corrosion Monitoring
+ COR - WB4P - CP Measurement described as PORT WING BALLAST 4P located at PAZ/FPSOH/HSG/STRUC/HU-T_-8611D,Corrosion Monitoring
+ COR - WB5P - CP Measurement described as PORT WING BALLAST 5P located at PAZ/FPSOH/HSG/STRUC/HU-T_-8611E,Corrosion Monitoring
+ COR - WB7P - CP Measurement described as PORT WING BALLAST 7P located at PAZ/FPSOH/HSG/STRUC/HU-T_-8611G,Corrosion Monitoring
+ COR - WB1S - CP Measurement described as STARBOARD WING BALLAST 1S located at PAZ/FPSOH/HSG/STRUC/HU-T_-8612A,Corrosion Monitoring
+ COR - WB2S - CP Measurement described as STARBOARD WING BALLAST 2S located at PAZ/FPSOH/HSG/STRUC/HU-T_-8612B,Corrosion Monitoring
+ VIE described as Sea water piping group located at PAZ/FPSOH/WAT/WFLT /IPN-_SW-HU51-03-_92,Piping
+ VIE described as Anti Foam Chemical piping group located at PAZ/FPSOT/COF/CHEM /IPN-_AF-TO75-01-_50,Piping
+ VIE described as Anti Foam Chemical piping group located at PAZ/FPSOT/COF/CHEM /IPN-_AF-TO75-02-_50,Piping
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-21-H21,Piping
+ Overhaul described as COOLING WATER PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/OWAT /TO-PSV2-27015,Pressure Safety Device
+ SCD + VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/STAB /IPC-_HC-TO21-04-B49,Piping
+ Replace/Scrap described as DISTRIB THERMAL SAFETY VALVE located at PAZ/FPSOT/WAT/WINJ /TO-TSV-54051A,Pressure Safety Device
+ VIE described as Sounding piping group located at PAZ/FPSOH/COF/CHEM /IPN-_AS-HU75-01-_03,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-20-B03,Piping
+ VIE described as CRUDE OIL METERING FILTER located at PAZ/FPSOT/OIL/METER/TO-VZ-2601B,Pressure Vessel (VIE)
+ VIE described as CRUDE OIL METERING FILTER located at PAZ/FPSOT/OIL/METER/TO-VZ-2601C,Pressure Vessel (VIE)
+ VIE described as CRUDE OIL METERING FILTER located at PAZ/FPSOT/OIL/METER/TO-VZ-2601D,Pressure Vessel (VIE)
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-18-B03,Piping
+ VIE described as High pressure flare piping group located at PAZ/FPSOT/GAS/FLARE/IPN-_FH-TO36-04-D03,Piping
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/DRAIN/IPN-_HL-HU28-05-B05,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-16-B03,Piping
+ BP_SB-visual inspection of tertiary stru described as BOATLANDING PLATFORM STARBOARD AFT located at PAZ/FPSOH/HSG/STRUC/BOATLANDING STBD AFT,FU Items
+ BOATLANDING INSPECT. BALCONY BP STARBOAR described as BOATLANDING PLATFORM STARBOARD AFT located at PAZ/FPSOH/HSG/STRUC/BOATLANDING STBD AFT,FU Items
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-24-B03,Piping
+ VIE described as Produced water piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_PW-TO27-17-B03,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-30-B03,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-32-B03,Piping
+ VIE described as CRUDE OIL METERING FILTER located at PAZ/FPSOT/OIL/METER/TO-VZ-2601A,Pressure Vessel (VIE)
+ SCD + VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/TRANS/IPN-_HC-TO23-15-J49,Piping
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-12-H49P,Piping
+ Overhaul described as FLARE SYSTEM PRESSURE SAFETY VALVE located at PAZ/FPSOT/GAS/EXP  /TO-PSV-35028,Pressure Safety Device
+ Overhaul described as GLYCOL REBOILER PRESSURE SAFETY VALVE located at PAZ/FPSOT/GAS/DEHYD/TO-PSV-300505,Pressure Safety Device
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-26-B03,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-28-B03,Piping
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOH/COF/INERT/IPN-_HG-HU74-01-B03,Piping
+ VII described as HP FUEL GAS FILTER located at PAZ/FPSOT/COF/FG   /TO-VF-7001B,Pressure Vessel (VII)
+ Overhaul described as PIG TRAP B PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/SEP  /TO-PSV-20007B,Pressure Safety Device
+ BP_PS-Visual inspection of complete stru described as BOATLANDING PLATFORM PORTSIDE AFT located at PAZ/FPSOH/HSG/STRUC/BOATLANDING PORT AFT,FU Items
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_HL-TO27-01-B03,Piping
+ VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/TRANS/IPN-_HC-TO23-04-J03P,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-22-B03,Piping
+ UTC + VIE described as Closed drain piping group located at PAZ/FPSOT/OIL/DRAIN/IPN-_CD-TO28-02-B03,Piping
+ VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/TRANS/IPN-_HC-TO23-08-J03P,Piping
+ VIE described as WASH WATER HEATER A located at PAZ/FPSOT/WAT/WDEOX/TO-ES-5321A,Pressure Vessel (VIE)
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/LOAD /IPN-_HL-TO25-02-D03,Piping
+ SCD + VIE described as Sea water piping group located at PAZ/FPSOT/WAT/WDEOX/IPN-_SW-TO53-11-H49,Piping
+ Overhaul described as WASH WATER SYSTEM DEMINERALISATION PSV located at PAZ/FPSOT/WAT/WDEOX/TO-PSV-534506B,Pressure Safety Device
+ SCD + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/GAS/COMP /IPN-_HL-TO31-01-B49,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-13-H03,Piping
+ Visual inspection of tertiary structure described as R2 Structural Module located at PAZ/FPSOT/HSG/STRUC/R2,Structure
+ VIE described as Sodium hypochlorite piping group located at PAZ/FPSOT/WAT/ELCL /IPN-_HY-TO52-01-B86,Piping
+ VISUAL INSPECTION L2-BALCONY TER_STR described as STRUCTURE OF BALCONIES L2 located at PAZ/FPSOH/HSG/STRUC/BALCONIES L2,Structure
+ VIE described as HP COMPRESSOR AFTER COOLER located at PAZ/FPSOT/GAS/COMP /TO-ES-3155,Pressure Vessel (VIE)
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/STAB /IPN-_HL-TO21-03-B03,Piping
+ UTC + VIE described as Hot water piping group located at PAZ/FPSOH/COF/HEATL/IPN-_HW-HU72-01-_01,Piping
+ Overhaul described as TO HP WARM FLARE PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/SEP  /TO-PSV-20184,Pressure Safety Device
+ Machinery space Stringer No. 3/GVI described as Machinery space Stringer No. 3 located at PAZ/FPSOH/HSG/STRUC/ MACH SPACE-NO3 STR,FU Items
+ PAZ Gas Cylinders & Accumulators Campaig described as PAZ-GAS CYLINDERS & ACCUMULATORS located at PAZ/FPSOT/CRS/SAFE /GC-ACC,Campaign
+ BV tasks & intrusive major inspection described as PORT CENTRAL BALLAST 1P located at PAZ/FPSOH/HSG/STRUC/HU-T_-8609A,FU Items
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/OIL/SEP  /IPN-_HG-TO20-03-D03,Piping
+ SCD + VIE described as Hydraulic fluid piping group located at PAZ/BUOY /CRS/AIR  /IPN-_HH-OB07-01-H49,Piping
+ SCD + VIE described as Hydraulic fluid piping group located at PAZ/BUOY /CRS/AIR  /IPN-_HH-OB07-02-D49,Piping
+ NDT + VIE  described as Produced water piping group located at PAZ/FPSOH/OIL/OWAT /IPN-_PW-HU27-06-B03,Piping
+ VIE described as Service air piping group located at PAZ/FPSOT/CRS/AIR  /IPN-_SA-TO07-01-B10,Piping
+ SCD + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/GAS/FLARE/IPN-_HL-TO36-05-B49,Piping
+ PAZ-FLOR_X-RAY YEARLY CAMPAIGN described as PAZFLOR Topsides located at PAZ/FPSOT,Campaign
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-15-D03,Piping
+ MACH SPACE TANK TOP/GVI described as Machinery space Tank top located at PAZ/FPSOH/HSG/STRUC/ MACH SPACE-TANK TOP,FU Items
+ VISUAL INSPECT L1 BALCONY COMPLETE _STR described as STRUCTURE OF BALCONIES L1 located at PAZ/FPSOH/HSG/STRUC/BALCONIES L1,Structure
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/SEP  /IPC-_HL-TO20-04-D03,Piping
+ UTC + VIE described as Desalinated water piping group located at PAZ/FPSOT/WAT/WDEOX/IPN -_RW-TO53-01-B03,Piping
+ Visual inspection of tertiary structure described as R5 Structural Module located at PAZ/FPSOT/HSG/STRUC/R5,Structure
+ Visual inspection of tertiary structure described as R7 Structural Module located at PAZ/FPSOT/HSG/STRUC/R7,Structure
+ VIE described as Closed drain piping group located at PAZ/FPSOT/OIL/DRAIN/IPC-_CD-TO28-01-F49,Piping
+ PAZ/BOUY-DECK/TEPA GVI described as DECK FOR OFFLOADING BUOY located at PAZ/BUOY /HSG/STRUC/DECK,FU Items
+ COR - WB6P - CP Measurement described as PORT WING BALLAST 6P located at PAZ/FPSOH/HSG/STRUC/HU-T_-8611F,Corrosion Monitoring
+ Overhaul described as FROM UM GAS MANI PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/SEP  /TO-PSV3-20330,Pressure Safety Device
+ UTC + VIE described as Produced water piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_PW-TO27-24-D03,Piping
+ UTC + VIE described as Lube oil piping group located at PAZ/FPSOH/COF/HTOIL/IPN-_LO-HU73-02-_06,Piping
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/STAB /IPC-_HL-TO21-01-D03,Piping
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-14-B03,Piping
+ Overhaul described as DEGASSING DRUM PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/OWAT /TO-PSV1-27023,Pressure Safety Device
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STORE/IPN-_HL-HU24-21-B03,Piping
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-06-H49P,Piping
+ Overhaul described as S.W INLET PRESSURE SAFETY VALVE 1 located at PAZ/FPSOH/COF/COOLW/HU-PSV1-76105,Pressure Safety Device
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STAB /IPN-_HL-HU21-06-B03,Piping
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/OWAT /IPN-_HL-HU27-05-B06,Piping
+ Visual inspection of tertiary structure described as P7 Structural Module located at PAZ/FPSOT/HSG/STRUC/P7,Structure
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-08-D03,Piping
+ Replace/Scrap described as GLYCOL REBOILER PRESSURE SAFETY VALVE located at PAZ/FPSOT/GAS/DEHYD/TO-PSV-300515,Pressure Safety Device
+ Replace/Scrap described as GLYC MAKE-UP FACILITIE PRES SAFETY VALVE located at PAZ/FPSOT/GAS/DEHYD/TO-PSV-300512,Pressure Safety Device
+ Overhaul described as CRUDE OIL METERING PRESS.SAFETY VALVE located at PAZ/FPSOT/OIL/METER/TO-PSV-26015,Pressure Safety Device
+ Overhaul described as DEGASSING DRUM PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/OWAT /TO-PSV3-27023,Pressure Safety Device
+ UTC + VIE described as Produced water piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_PW-TO27-01-D03,Piping
+ VIE described as GLYCOL FLASH DRUM FILTERS UNIT B located at PAZ/FPSOT/GAS/DEHYD/TO-VF-3003B,Pressure Vessel (VIE)
+ COR - WBC2P - CP Measurement described as PORT CENTRAL BALLAST 2P located at PAZ/FPSOH/HSG/STRUC/HU-T_-8609B,Corrosion Monitoring
+ COR - WBC2S - CP Measurement described as STARBOARD CENTRAL BALLAST 2S located at PAZ/FPSOH/HSG/STRUC/HU-T_-8610B,Corrosion Monitoring
+ Overhaul described as FLOW LOOP FLW2 PRESSURE SAFETY VALVE 1 located at PAZ/FPSOT/OIL/SDS  /TO-PSV1-29017,Pressure Safety Device
+ Scrap/replace described as AIR START PRESSURE SAFETY VALVE located at PAZ/FPSOH/CRS/FWAT /HU-PSV-016072D,Pressure Safety Device
+ Scrap/replace described as START PUMP PRESSURE SAFETY VALVE located at PAZ/FPSOH/CRS/FWAT /HU-PSV-016085D,Pressure Safety Device
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/GAS/FLARE/IPN-_HL-TO36-01-B49,Piping
+ BUOY CHAFFING CHAIN SB/WEAR MEASUR described as SB MOORING BUOY SIDE located at PAZ/BUOY /OIL/LOAD /SB MOORING BUOY,FU Items
+ BUOY CHAFFING CHAIN PS/WEAR MEASUR described as PS MOORING BUOY SIDE located at PAZ/BUOY /OIL/LOAD /PS MOORING BUOY,FU Items
+ MACH SPACE LEVEL2/GVI described as Machinery space level -2 located at PAZ/FPSOH/HSG/STRUC/ MACH SPACE-LEVEL 2,FU Items
+ Overhaul described as PRESSURE SAFETY VALVE 2 located at PAZ/FPSOT/GAS/COMP /TO-PSV2-31111,Pressure Safety Device
+ Visual inspection of tertiary structure described as R9 Structural Module located at PAZ/FPSOT/HSG/STRUC/R9,Structure
+ BV tasks & external inspection described as HULL SIDE TREATED DIESEL SERVICE TANK located at PAZ/FPSOH/COF/FO   /HU-T_-7104A,FU Items
+ VIE described as Sea water piping group located at PAZ/FPSOT/WAT/WDEOX/IPN-_SW-TO53-08-D49,Piping
+ Visual inspection of tertiary structure described as S6 Structural Module located at PAZ/FPSOT/HSG/STRUC/S6,Structure
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/LOAD /IPN-_HL-TO25-07-B01,Piping
+ VII described as CRUDE INLET HEATER A located at PAZ/FPSOT/OIL/SEP  /TO-ES-2011A,Pressure Vessel (VII)
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPN-_HG-TO31-17-L23N,Piping
+ PAZ - Buoy Hull GVI described as HULL FOR OFFLOADING BUOY located at PAZ/BUOY /HSG/STRUC/HULL,FU Items
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/IWELL/IPN-_HG-TO37-01-J21N,Piping
+ Visual inspection of tertiary structure described as S8 Structural Module located at PAZ/FPSOT/HSG/STRUC/S8,Structure
+ Visual inspection of tertiary structure described as P2 Structural Module located at PAZ/FPSOT/HSG/STRUC/P2,Structure
+ Visual inspection of tertiary structure described as P3 Structural Module located at PAZ/FPSOT/HSG/STRUC/P3,Structure
+ VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/STAB /IPN-_HC-TO21-01-B03,Piping
+ VIE described as Cooling water piping group located at PAZ/FPSOT/COF/COOLW/IPN-_CW-TO76-06-B01,Piping
+ VIE described as Cooling water piping group located at PAZ/FPSOT/COF/COOLW/IPN-_CW-TO76-07-B01,Piping
+ VIE described as Cooling water piping group located at PAZ/FPSOT/COF/COOLW/IPN-_CW-TO76-08-B01,Piping
+ VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/SEP  /IPN-_HC-TO20-01-D03,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/SDS  /IPN-_HL-HU29-01-B03,Piping
+ Overhaul described as TO LP FLARE PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/STAB /TO-PSV1-21044B,Pressure Safety Device
+ Replace/Scrap described as DAMPER SEALING AIR RESERVOIR PSV located at PAZ/FPSOT/ELE/PWG  /TO-PSV-720513E,Pressure Safety Device
+ Overhaul described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/STAB /TO-PSV-21015A1,Pressure Safety Device
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/IWELL/IPN-_HG-TO37-02-J21N,Piping
+ Overhaul described as PIG TRAP PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/SEP  /TO-PSV-20057,Pressure Safety Device
+ Overhaul described as WATER MIST CABINET PRESS SAFETY VALVE A located at PAZ/FPSOH/CRS/FWAT /HU-PSV-016133A,Pressure Safety Device
+ Overhaul described as WATER MIST CABINET PRESS SAFETY VALVE B located at PAZ/FPSOH/CRS/FWAT /HU-PSV-016133B,Pressure Safety Device
+ Overhaul described as WATER MIST CABINET PRESS SAFETY VALVE C located at PAZ/FPSOH/CRS/FWAT /HU-PSV-016133C,Pressure Safety Device
+ Overhaul described as WATER MIST CABINET PRESS SAFETY VALVE D located at PAZ/FPSOH/CRS/FWAT /HU-PSV-016133D,Pressure Safety Device
+ SCD + VIE described as Fuel gas piping group located at PAZ/FPSOT/COF/FG   /IPN-_FG-TO70-11-F49,Piping
+ VII described as HULL C.W EXP DRUM located at PAZ/FPSOH/COF/COOLW/HU-V_-7605,Pressure Vessel (VII)
+ Overhaul described as OUTLET WATER THERMAL SAFETY VALVE B located at PAZ/FPSOT/GAS/COMP /TO-TSV-31414B,Pressure Safety Device
+ Replace/Scrap described as INERT GAS GENERATOR SKID DRUM B PSV located at PAZ/FPSOT/COF/INERT/TO-PSV-740505B,Pressure Safety Device
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPN-_HG-TO31-01-B03,Piping
+ Overhaul described as BALLAST PRESSURE SAFETY VALVE B located at PAZ/FPSOH/HSG/STRUC/HU-PSV-86002B,Pressure Safety Device
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/LOAD /IPN-_HL-HU25-01-B01,Piping
+ Overhaul described as MANIFOLD PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/CHEM /TO-PSV1-75104C,Pressure Safety Device
+ VIE described as Hot water piping group located at PAZ/FPSOT/COF/HEATL/IPN-_HW-TO72-02-D01C,Piping
+ SCD + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/GAS/FLARE/IPN-_HL-TO36-03-D70,Piping
+ Intrusive Major Inspection described as FUEL DAY TANK located at PAZ/FPSOH/CRS/FWAT /HU-TA-0101A,Non Structural Tank
+ Intrusive Major Inspection described as FUEL DAY TANK located at PAZ/FPSOH/CRS/FWAT /HU-TA-0101B,Non Structural Tank
+ Intrusive Major Inspection described as FUEL DAY TANK located at PAZ/FPSOH/CRS/FWAT /HU-TA-0101C,Non Structural Tank
+ VIE described as CRUDE-OIL HEATER A1 located at PAZ/FPSOT/OIL/STAB /TO-ES-2112A1,Pressure Vessel (VIE)
+ UTC + VIE described as Tank measuring piping group located at PAZ/FPSOH/OIL/DRAIN/IPN-_TM-HU28-01-_03,Piping
+ Overhaul described as PRESSURE SAFETY VALVE located at PAZ/FPSOH/OIL/OWAT /HU-PSV-279404A,Pressure Safety Device
+ UTC + VIE described as Hot water piping group located at PAZ/FPSOT/COF/HEATL/IPN-_HW-TO72-03-D01,Piping
+ VII described as TOPSIDE INSTRUMENT AIR RECEIVER located at PAZ/FPSOT/CRS/AIR  /TO-VA-0704,Pressure Vessel (VII)
+ VIE described as Tank measuring piping group located at PAZ/FPSOH/COF/CHEM /IPN-_TM-HU75-01-_03,Piping
+ UTC + VIE described as Tank measuring piping group located at PAZ/FPSOH/OIL/STAB /IPN-_TM-HU21-03-_03,Piping
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/OIL/SEP  /IPN-_HG-TO20-05-B03,Piping
+ Overhaul described as TO HP WARM FLARE PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/SEP  /TO-PSV-20182,Pressure Safety Device
+ MACH SPACE LEVEL3/GVI described as Machinery space level -3 located at PAZ/FPSOH/HSG/STRUC/ MACH SPACE-LEVEL 3,FU Items
+ UTC + VIE described as Inert gas piping group located at PAZ/FPSOT/CRS/FWAT /IPN-_IR-TO01-01-F03,Piping
+ VIE described as STRIPPING COLUMN located at PAZ/FPSOT/GAS/DEHYD/TO-VC-3004,Pressure Vessel (VIE)
+ SCD + VIE described as Fuel gas piping group located at PAZ/FPSOT/COF/FG   /IPN-_FG-TO70-06-D49,Piping
+ SCD + VIE described as Fuel gas piping group located at PAZ/FPSOT/COF/FG   /IPC-_FG-TO70-08-D49,Piping
+ Scrap/Replace described as D.E. PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/STAB /TO-PSV-210546B1,Pressure Safety Device
+ Scrap/Replace described as N.D.E. PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/STAB /TO-PSV-210545B1,Pressure Safety Device
+ Replace/Scrap described as D.E. PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/STAB /TO-PSV-210546B2,Pressure Safety Device
+ UTC + VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/TRANS/IPN-_HC-TO23-07-J03,Piping
+ Overhaul described as OUTLET PRESSURE SAFETY VALVE A located at PAZ/FPSOT/COF/CHEM /TO-PSV-75064A,Pressure Safety Device
+ Overhaul described as 2ND STAGE OUTLET PRESSURE SAFETY VALVE 2 located at PAZ/FPSOT/GAS/COMP /TO-PSV2-31229,Pressure Safety Device
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/OIL/STAB /IPN-_HG-TO21-01-D03,Piping
+ Overhaul described as OUTLET TO BUFFER DRUMS PSV located at PAZ/FPSOT/COF/CHEM /TO-PSV-75033A,Pressure Safety Device
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/STORE/IPN-_HL-TO24-01-B03,Piping
+ Visual inspection of tertiary structure described as TELECOM MAST located at PAZ/FPSOA/HSG/STRUC/TELECOM_MAST,Structure
+ BV tasks & intrusive major inspection described as BILGE WATER TANK located at PAZ/FPSOH/OIL/OWAT /HU-TZ-2726A,FU Items
+ BV tasks & intrusive major inspection described as DIRTY OIL TANK located at PAZ/FPSOH/OIL/OWAT /HU-TZ-2727A,FU Items
+ Overhaul described as OUTLET TO DRUMS PSV located at PAZ/FPSOT/COF/CHEM /TO-PSV-75073C,Pressure Safety Device
+ VIE described as Produced water piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_PW-TO27-08-B03,Piping
+ BV tasks & external inspection described as OVERFLOW TANK located at PAZ/FPSOH/COF/FO   /HU-T_-7102,FU Items
+ BV tasks & intrusive major inspection described as AHU CONDENSING WATER COLLECTING TANK located at PAZ/FPSOH/HSG/ACCOM/HU-TZ-8251,FU Items
+ BV tasks & intrusive major inspection described as SEWAGE RETENTION TANK located at PAZ/FPSOH/HSG/ACCOM/HU-TZ-8231,FU Items
+ BV tasks & external inspection described as FRESH WATER STORAGE TANK located at PAZ/FPSOH/HSG/UPWAT/HU-TA-8513A,FU Items
+ BV tasks & intrusive major inspection described as DIRTY OIL TANK located at PAZ/FPSOH/OIL/OWAT /HU-TZ-2727B,FU Items
+ BV tasks & intrusive major inspection described as SLUDGE TANK located at PAZ/FPSOH/OIL/OWAT /HU-T_-2721A,FU Items
+ BV tasks & intrusive major inspection described as SLUDGE TANK located at PAZ/FPSOH/OIL/OWAT /HU-T_-2721B,FU Items
+ Non-Intrusive Intermediate Inspection described as SLUDGE & WATER TANK B located at PAZ/FPSOH/OIL/OWAT /HU-TZ-2721B,Non Structural Tank
+ VIE described as Inert gas piping group located at PAZ/FPSOH/COF/INERT/IPN-_IG-HU74-01-_03,Piping
+ Overhaul described as OUTLET TO A/B METHANOL BUFFER DRUMS PSV located at PAZ/FPSOT/COF/CHEM /TO-PSV-75073A,Pressure Safety Device
+ PAZ/TO-PSVB-9163-Scrap/Replace described as LP SUPPLY SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/TO-PSVB-9163,Pressure Safety Device
+ MOORING CHAINS TOPSIDE INSP described as FPSO Mooring System located at PAZ/FPSOH/HSG/STRUC/MOORING,FU Items
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/LOAD /IPN-_HL-TO25-05-D03,Piping
+ TANKER CHAFFING CHAIN SB/WEAR MEASUR described as SB MOORING TANKER SIDE located at PAZ/BUOY /OIL/LOAD /SB MOORING TANKER,FU Items
+ UTC + VIE described as Tank measuring piping group located at PAZ/FPSOH/HSG/STRUC/IPN-_TM-HU86-01-_03,Piping
+ BV tasks & intrusive major inspection described as CENTRAL C.O TK 8C located at PAZ/FPSOH/OIL/STORE/HU-T_-2408,FU Items
+ CLASS PSV-Overhaul described as CENTRAL C.O TK  P-V SAFETY VALVE located at PAZ/FPSOH/OIL/STORE/HU-PVSV-24171,Pressure Safety Device
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/GAS/DEHYD/IPN-_HL-TO30-02-H49,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/OIL/SEP  /IPN-_HG-TO20-01-D70,Piping
+ VIE described as MAIN CHILLED WATER UNIT A EVAPORATOR A located at PAZ/FPSOH/CRS/HVAC /HU-EW-0911A,Pressure Vessel (VIE)
+ VIE described as P8 CHILLED WAT UNIT CONDENSER COOLING located at PAZ/FPSOT/CRS/HVAC /TO-EL-0920A,Pressure Vessel (VIE)
+ VIE described as Desalinated water piping group located at PAZ/FPSOT/WAT/WDEOX/IPN-_RW-TO53-03-B49,Piping
+ VIE described as Sea water piping group located at PAZ/FPSOT/WAT/WDEOX/IPN-_SW-TO53-07-B49,Piping
+ CLASS PSV-Overhaul described as HC BLANKETING HEADER PVSV located at PAZ/FPSOH/COF/INERT/TO-PVSV-31015A,Pressure Safety Device
+ VIE described as METHANOL BUFFER DRUM located at PAZ/FPSOT/COF/CHEM /TO-V_-7511A,Pressure Vessel (VIE)
+ UTC + VIE described as Desalinated water piping group located at PAZ/FPSOT/OIL/DRAIN/IPN-_RW-TO28-01-B03,Piping
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-05-H03,Piping
+ VIE described as Sea water piping group located at PAZ/FPSOT/WAT/WATLF/IPN-_SW-TO50-11-B92,Piping
+ VIE described as Hydraulic fluid piping group located at PAZ/FPSOH/CRS/AIR  /IPN-_HH-HU07-03-_50,Piping
+ VIE described as ELECTROSTATIC DEHYDRATOR TRAIN A located at PAZ/FPSOT/OIL/STAB /TO-V_-2111A,Pressure Vessel (VIE)
+ VIE described as Sea water piping group located at PAZ/FPSOT/WAT/WATLF/IPN-_SW-TO50-08-B92,Piping
+ Overhaul described as AIR COMPRESSOR PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/AIR  /TO-PSV-070506A,Pressure Safety Device
+ VIE described as O9 PRODUCED WATER HYDROCYCLONE located at PAZ/FPSOT/OIL/OWAT /TO-UF-2712,Pressure Vessel (VIE)
+ VIE described as Sea water piping group located at PAZ/FPSOT/WAT/WATLF/IPN-_SW-TO50-06-B92,Piping
+ BV Class Intermediate Survey described as PORT WING BALLAST 6P located at PAZ/FPSOH/HSG/STRUC/HU-T_-8611F,FU Items
+ BV Class Intermediate Survey described as STARBOARD WING BALLAST 7S located at PAZ/FPSOH/HSG/STRUC/HU-T_-8612G,FU Items
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-25-J70N,Piping
+ Overhaul described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/AIR  /TO-PSV-07014,Pressure Safety Device
+ SCD + VIE described as Fuel gas piping group located at PAZ/FPSOT/COF/FG   /IPC-_FG-TO70-07-D49,Piping
+ VIE described as METHANOL BUFFER DRUM located at PAZ/FPSOT/COF/CHEM /TO-V_-7511A,Pressure Vessel (VIE)
+ TANKER CHAFFING CHAIN PS/WEAR MEASUR described as PS MOORING TANKER SIDE located at PAZ/BUOY /OIL/LOAD /PS MOORING TANKER,FU Items
+ VIE described as MP COMPRESSOR SUCTION SCRUBBER A located at PAZ/FPSOT/GAS/COMP /TO-V_-3140A,Pressure Vessel (VIE)
+ VII described as LP COMPRESSOR SUCTION SCRUBBER B located at PAZ/FPSOT/GAS/COMP /TO-V_-3130B,Pressure Vessel (VII)
+ UTC + VIE described as Cooling water piping group located at PAZ/FPSOH/COF/COOLW/IPC-_CW-HU76-01-_01,Piping
+ VIE described as MAIN CHW UNIT A CONDENSER COOLING A located at PAZ/FPSOH/CRS/HVAC /HU-EL-0911A,Pressure Vessel (VIE)
+ VIE described as P8 CHILLED WATER UNIT A EVAPORATOR A located at PAZ/FPSOT/CRS/HVAC /TO-EW-00920A,Pressure Vessel (VIE)
+ VIE described as Produced water piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_PW-TO27-03-B03,Piping
+ UTC + VIE described as Produced water piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_PW-TO27-09-B03,Piping
+ VIE described as Produced water piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_PW-TO27-25-B03,Piping
+ VIE described as Produced water piping group located at PAZ/FPSOT/OIL/OWAT /IPN-_PW-TO27-27-D03,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOH/OIL/STAB /IPN-_HL-HU21-10-_03,Piping
+ VIE described as Diesel oil piping group located at PAZ/FPSOT/COF/FO   /IPN-_DO-TO71-01-_03,Piping
+ MACH SPACE LEVEL4/GVI described as Machinery space level -4 located at PAZ/FPSOH/HSG/STRUC/ MACH SPACE-LEVEL 4,FU Items
+ Overhaul described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/OWAT /TO-PSV1-27066,Pressure Safety Device
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/SDS  /IPC-_HL-TO29-02-H03,Piping
+ Replace/Scrap described as A-B INTERFACE THERMAL SAFETY VALVE located at PAZ/FPSOT/OIL/SDS  /TO-TSV-29030,Pressure Safety Device
+ VIE described as DEHYDRATION INLET COOLER A HEATER A located at PAZ/FPSOT/GAS/DEHYD/TO-ES-3001A,Pressure Vessel (VIE)
+ VIE described as Demineralised water piping group located at PAZ/FPSOT/HSG/UPWAT/IPN-_TW-TO85-02-B49,Piping
+ Overhaul described as TO HP WARM FLARE PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/FG   /TO-PSV2-70010,Pressure Safety Device
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/STAB /IPC-_HL-TO21-02-D03,Piping
+ Replace/Scrap described as PRESSURE SAFETY VALVE located at PAZ/FPSOH/OIL/OWAT /HU-PSV-279466A,Pressure Safety Device
+ Lifting Inspection & test /HU-JZ-7892 described as BOW CRANE located at PAZ/FPSOH/COF/LIFT /HU-JZ-7892,Lifting 
+ VIE described as SRU MEMBRANE HOUSING TRAIN 2 located at PAZ/FPSOT/WAT/WDEOX/TO-VZ-5320B,Pressure Vessel (VIE)
+ 12 Monthly Coupon Survey described as CORROSION MONITORING DEVICES located at PAZ/FPSOT/COF/CORR /TO-CORR_MONIT,Corrosion Monitoring
+ BV tasks & intrusive major inspection described as DESALTING TANK 2P located at PAZ/FPSOH/OIL/STAB /HU-T_-2112B,FU Items
+ NDT + VIE described as High pressure flare piping group located at PAZ/FPSOT/GAS/FLARE/IPN-_FH-TO36-01-B23,Piping
+ CLASS PSV-Overhaul described as DESALTING TANK B P-V SAFETY VALVE located at PAZ/FPSOH/OIL/STAB /HU-PVSV-21070B,Pressure Safety Device
+ CLASS PSV-OB-PSSV1-25309 REVISION described as TANK PRESSURE SURGE SAFETY VALVE located at PAZ/BUOY /OIL/LOAD /OB-PSSV1-25309,Pressure Safety Device
+ VII described as LLP SEPARATOR TRAIN A located at PAZ/FPSOT/OIL/STAB /TO-V_-2113A,Pressure Vessel (VII)
+ VII described as LLP SEPARATOR TRAIN B located at PAZ/FPSOT/OIL/STAB /TO-V_-2113B,Pressure Vessel (VII)
+ VII described as ELECTROSTATIC DEHYDRATOR TRAIN B located at PAZ/FPSOT/OIL/STAB /TO-V_-2111B,Pressure Vessel (VII)
+ VII described as MAIN TGB FUEL GAS SEPARATOR located at PAZ/FPSOT/ELE/PWG  /TO-VZ-6040B,Pressure Vessel (VII)
+ CLASS PSV-Overhaul described as APZP25043-Overhaul located at PAZ/FPSOT/OIL/LOAD /TO-PSSV-25043,Pressure Safety Device
+ VIE described as FWD PORT CHAIN JACK CYLINDER B located at PAZ/FPSOH/HSG/STRUC/HU-JX-7847B,Pressure Vessel (VIE)
+ COR - CP MONITORING / DROP CELLS described as Hull Anodes located at PAZ/FPSOH/HSG/STRUC/HULL ANODES,Corrosion Monitoring
+ Overhaul described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/AIR  /TO-PSV-072502B,Pressure Safety Device
+ Overhaul described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/AIR  /TO-PSV-072501B,Pressure Safety Device
+ Overhaul described as ESSENTIAL SW COARSE FILTRAT PSV located at PAZ/FPSOT/WAT/WFLT /TO-PSV1-51002,Pressure Safety Device
+ Overhaul described as TO SEAWATER CAISSON PRESS. SAFETY VALVE1 located at PAZ/FPSOT/WAT/WINJ /TO-PSV1-54004,Pressure Safety Device
+ Overhaul described as UM WATER INJ. PRESS. SAFETY VALVE 2 located at PAZ/FPSOT/WAT/WINJ /TO-PSV2-54018A,Pressure Safety Device
+ Overhaul described as BUFFER DRUMS PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/CHEM /TO-PSV1-75114E,Pressure Safety Device
+ Overhaul described as DRINK WATER CALO PRESSURE SAFETY VALVE located at PAZ/FPSOH/HSG/UPWAT/HU-PSV-852003A,Pressure Safety Device
+ APZP3390 Replacement described as P30 B.F PRESSURE SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/SS-PSV-3390,Pressure Safety Device
+ APZP3391 Replacement described as P30 B.F PRESSURE SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/SS-PSV-3391,Pressure Safety Device
+ Scrap/replace described as LUB OIL STANDBY COOLER TSV located at PAZ/FPSOT/ELE/PWG  /TO-TSV-602585B,Pressure Safety Device
+ PSV2389 Replacement described as P20 B.F PRESSURE SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/SS-PSV-2389,Pressure Safety Device
+ Overhaul described as GLYCOL FLASH DRUM PSV 2 located at PAZ/FPSOT/GAS/DEHYD/TO-PSV2-300502,Pressure Safety Device
+ Replace/Scrap described as LP FLARE KO PUMP B PRESSURE SAFETY VALVE located at PAZ/FPSOT/GAS/FLARE/TO-PSV-36032B,Pressure Safety Device
+ Overhaul described as GLYCOL FLASH DRUM PSV 1 located at PAZ/FPSOT/GAS/DEHYD/TO-PSV1-300502,Pressure Safety Device
+ Overhaul described as FOAM CONCENT TANK A PRES SAFETY VALVE located at PAZ/FPSOH/CRS/FWAT /HU-PSV-013013A,Pressure Safety Device
+ Overhaul described as UM WATER INJ. PRESS. SAFETY VALVE 1 located at PAZ/FPSOT/WAT/WINJ /TO-PSV1-54018A,Pressure Safety Device
+ Overhaul described as LUB SYSTEM PRESS. SAFETY VALVE located at PAZ/FPSOT/WAT/WINJ /TO-PSV-543530A,Pressure Safety Device
+ Overhaul described as UM WATER INJ. PRESS. SAFETY VALVE 3 located at PAZ/FPSOT/WAT/WINJ /TO-PSV3-54018A,Pressure Safety Device
+ Overhaul described as LUB SYSTEM PRESS. SAFETY VALVE located at PAZ/FPSOT/WAT/WINJ /TO-PSV-543530B,Pressure Safety Device
+ PSV-Replace/Scrap described as LUB SYSTEM PRESS. SAFETY VALVE located at PAZ/FPSOT/WAT/WINJ /TO-PSV-540530,Pressure Safety Device
+ Overhaul described as PRESSURE SAFETY VALVE A located at PAZ/FPSOT/GAS/COMP /TO-PSV2-31448A,Pressure Safety Device
+ Overhaul described as P1 CHILLED WATER PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/HVAC /TO-PSV-09901,Pressure Safety Device
+ Scrap/replace described as OUTLET FILTER UNIT THERMAL SAFETY VALVE located at PAZ/FPSOT/WAT/WFLT /TO-TSV-510565,Pressure Safety Device
+ Scrap/replace described as DOUBLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-012001A,Pressure Safety Device
+ Overhaul described as PRESSURE SAFETY VALVE located at PAZ/FPSOH/OIL/OWAT /HU-PSV-279401B,Pressure Safety Device
+ Scrap/replace described as FOAM MONITOR VALVE SKID PSV located at PAZ/FPSOT/CRS/FWAT /TO-PSV-012101C,Pressure Safety Device
+ Overhaul described as OUTLET PUMP A PRESSURE SAFETY VALVE located at PAZ/FPSOT/GAS/COMP /TO-PSV-31119A,Pressure Safety Device
+ Overhaul described as HEATER MANIFOLD PRESSURE SAFETY VALVE 2 located at PAZ/FPSOT/OIL/SDS  /TO-PSV2-29016,Pressure Safety Device
+ Overhaul described as METHANOL STORAGE TANK THERMAL SAFETY VLV located at PAZ/FPSOT/COF/CHEM /TO-TSV-75001A,Pressure Safety Device
+ Overhaul described as DW HYDRO TANK  PRESSURE SAFETY VALVE located at PAZ/FPSOH/HSG/UPWAT/HU-PSV-852002,Pressure Safety Device
+ Scrap/Replace described as GLYCOL CIRC PUMP A PRESSURE SAFETY VALVE located at PAZ/FPSOT/GAS/DEHYD/TO-PSV-300506A,Pressure Safety Device
+ Scrap/replace described as DOUBLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-011801A,Pressure Safety Device
+ Scrap/replace described as DOUBLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-011901A,Pressure Safety Device
+ Overhaul described as TO LP FLARE PRESSURE SAFETY VALVE 1 located at PAZ/FPSOT/COF/CHEM /TO-PSV1-75024B,Pressure Safety Device
+ Scrap/replace described as FOAM MONITOR VALVE SKID PSV located at PAZ/FPSOT/CRS/FWAT /TO-PSV-012101H,Pressure Safety Device
+ Scrap/replace described as DOUBLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-011101A,Pressure Safety Device
+ Scrap/replace described as DOUBLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-011501A,Pressure Safety Device
+ Scrap/replace described as DOUBLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-011701A,Pressure Safety Device
+ Scrap/replace described as DOUBLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-011601A,Pressure Safety Device
+ Overhaul described as INLET SCRUBBER PRESSURE SAFETY VALVE located at PAZ/FPSOT/GAS/COMP /TO-PSV2-31603,Pressure Safety Device
+ Overhaul described as O9 P.W DEGASSING PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/OWAT /TO-PSV3-27083,Pressure Safety Device
+ Overhaul described as O9 P40 FLN 1 PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/SEP  /TO-PSV-20007A,Pressure Safety Device
+ Overhaul described as TO LP FLARE PRESSURE SAFETY VALVE 1 located at PAZ/FPSOT/COF/CHEM /TO-PSV1-75024A,Pressure Safety Device
+ Overhaul described as INLET SCRUBBER PRESSURE SAFETY VALVE located at PAZ/FPSOT/GAS/COMP /TO-PSV1-31603,Pressure Safety Device
+ Overhaul described as C.O OFF. TANDEM PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/LOAD /TO-PSV-25046,Pressure Safety Device
+ Overhaul described as P.W SAND BAGGING PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/OWAT /TO-PSV-271523,Pressure Safety Device
+ Overhaul described as DISPOSAL CAISSON PRESSURE SAFETY VALVE located at PAZ/FPSOT/WAT/WDEOX/TO-PSV-53020,Pressure Safety Device
+ Overhaul described as DISCHARGE PUMP PRESSURE SAFETY VALVE located at PAZ/FPSOH/HSG/ACCOM/HU-PSV-820501A,Pressure Safety Device
+ Overhaul described as FEED PUMP PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/STAB /TO-PSV1-21005A,Pressure Safety Device
+ Overhaul described as PRESS. SAFETY VALVE located at PAZ/FPSOT/ELE/PWG  /TO-PSV-603529B,Pressure Safety Device
+ Scrap/replace described as PRESSURE SAFETY VALVE located at PAZ/FPSOH/OIL/OWAT /HU-PSV-27529,Pressure Safety Device
+ PAZ/ TO-PSV-9143 - Replace/scrap described as HYDRAULIC PUMP PRESSURE SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/TO-PSV-9143,Pressure Safety Device
+ PAZ/ TO-PSV-9144 - Replace/Scrap described as HYDRAULIC PUMP PRESSURE SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/TO-PSV-9144,Pressure Safety Device
+ PAZ/ TO-PSV-9156 - Replace/Scrap described as ACCUMULATOR PRESSURE SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/TO-PSV-9156,Pressure Safety Device
+ Overhaul described as OUTLET TO DRUMS PSV located at PAZ/FPSOT/COF/CHEM /TO-PSV-75033C,Pressure Safety Device
+ Overhaul described as AIR COMPRESSOR PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/AIR  /TO-PSV-070505B,Pressure Safety Device
+ Overhaul described as PRESS. SAFETY VALVE located at PAZ/FPSOT/ELE/PWG  /TO-PSV-603529C,Pressure Safety Device
+  Replacement/Scrap described as SYSTEM TANK PRESSURE SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/SS-PSV-1387,Pressure Safety Device
+ Overhaul described as OPEN DRAIN THERMAL SAFETY VALVE located at PAZ/FPSOT/ELE/PWG  /TO-TSV-72035E,Pressure Safety Device
+ Overhaul described as PIG TRAP A PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/SEP  /TO-PSV-20117A,Pressure Safety Device
+ Overhaul described as SW COARSE FILT PRESSURE SAFETY VALVE located at PAZ/FPSOT/WAT/WFLT /TO-PSV-51001B,Pressure Safety Device
+ Overhaul described as OUTLET PUMP E PRESSURE SAFETY VALVE located at PAZ/FPSOT/WAT/WDEOX/TO-PSV-530525E,Pressure Safety Device
+ Overhaul described as GAS DEHYDRATION CONTACTOR PSV located at PAZ/FPSOT/GAS/DEHYD/TO-PSV-30037,Pressure Safety Device
+ Overhaul described as PRESS. SAFETY VALVE 2 located at PAZ/FPSOT/WAT/WINJ /TO-PSV2-54018B,Pressure Safety Device
+ Overhaul described as OUTLET TO DRUMS PSV located at PAZ/FPSOT/COF/CHEM /TO-PSV-75073B,Pressure Safety Device
+ Overhaul described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/GAS/COMP /TO-PSV1-31503,Pressure Safety Device
+ Overhaul described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/SEP  /TO-PSV-20220A,Pressure Safety Device
+ Overhaul described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/STAB /TO-PSV1-21011B1,Pressure Safety Device
+ Overhaul described as SEAWATER SUPPLY PRESSURE SAFETY VALVE located at PAZ/FPSOT/WAT/ELCL /TO-PSV-520503,Pressure Safety Device
+ Overhaul described as SW COARSE FILT PRESSURE SAFETY VALVE located at PAZ/FPSOT/WAT/WFLT /TO-PSV-51001C,Pressure Safety Device
+ Overhaul described as TO LP FLARE PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/COOLW/TO-PSV2-76042,Pressure Safety Device
+ Overhaul described as TO LP FLARE PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/COOLW/TO-PSV1-76042,Pressure Safety Device
+ Overhaul described as MANIFOLD PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/CHEM /TO-PSV2-75099A,Pressure Safety Device
+ Overhaul described as MANIFOLD PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/CHEM /TO-PSV1-75099A,Pressure Safety Device
+ Overhaul described as PIG TRAP PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/SEP  /TO-PSV-20077,Pressure Safety Device
+ PAZ/TO-PSV-9145- Replace/Scrap described as HYDRAULIC PUMP PRESSURE SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/TO-PSV-9145,Pressure Safety Device
+ Scrap/replace described as SINGLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-010101B,Pressure Safety Device
+ Scrap/replace described as SINGLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-010801A,Pressure Safety Device
+ Replace/Scrap described as SINGLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-010201B,Pressure Safety Device
+ Replace/Scrap described as SINGLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-010201A,Pressure Safety Device
+ Scrap/replace described as FOAM MONITOR VALVE SKID PSV located at PAZ/FPSOT/CRS/FWAT /TO-PSV-012101K,Pressure Safety Device
+ Scrap/replace described as SINGLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-012201A,Pressure Safety Device
+ Overhaul described as TO DIPSOSAL CAISSON PRESS. SAFETY VALVE1 located at PAZ/FPSOT/WAT/WINJ /TO-PSV1-54020,Pressure Safety Device
+ Overhaul described as PRESS. SAFETY VALVE 3 located at PAZ/FPSOT/WAT/WINJ /TO-PSV3-54018B,Pressure Safety Device
+ Overhaul described as TO DIPSOSAL CAISSON PRESS. SAFETY VALVE3 located at PAZ/FPSOT/WAT/WINJ /TO-PSV3-54020,Pressure Safety Device
+ Scrap/replace described as SINGLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-010301B,Pressure Safety Device
+ Scrap/replace described as SINGLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-010301A,Pressure Safety Device
+ Scrap/replace described as SINGLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-010401B,Pressure Safety Device
+ Scrap/replace described as SINGLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-010401A,Pressure Safety Device
+ Scrap/Replace described as OUTLET FILTER UNIT THERMAL SAFETY VALVE located at PAZ/FPSOT/WAT/WFLT /TO-TSV-510505B,Pressure Safety Device
+ Scrap/replace described as LIMIT PILOT GAS PRESSURE SAFETY VALVE B located at PAZ/FPSOT/GAS/COMP /TO-PSV-314547B,Pressure Safety Device
+ Overhaul described as OPEN DRAIN THERMAL SAFETY VALVE located at PAZ/FPSOT/ELE/PWG  /TO-TSV-72035B,Pressure Safety Device
+ Overhaul described as HEATER  PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/STAB /TO-PSV1-21011B2,Pressure Safety Device
+ Overhaul described as DISCHARGE PUMP PRESSURE SAFETY VALVE located at PAZ/FPSOH/HSG/ACCOM/HU-PSV-820502A,Pressure Safety Device
+ Overhaul described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/STAB /TO-PSV1-21011A1,Pressure Safety Device
+ Overhaul described as PIG TRAP PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/SEP  /TO-PSV-20067,Pressure Safety Device
+ Scrap/replace described as SINGLE DELUGE/AFFF PRESSURE SAFETY VALVE located at PAZ/FPSOT/CRS/FWAT /TO-PSV-010701B,Pressure Safety Device
+ Scrap/Replace described as PRODUCED WATER SAND JETTING PSV located at PAZ/FPSOT/OIL/SEP  /TO-PSV-271533,Pressure Safety Device
+ Replace/Scrap described as PRESSURE SAFETY VALVE located at PAZ/FPSOH/OIL/OWAT /HU-PSV-27531A,Pressure Safety Device
+  Replace/Scrap described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/TO-PSV-9158,Pressure Safety Device
+  Replace/Scrap described as PRESSURE SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/TO-PSV-9159,Pressure Safety Device
+ Scrap/Replace described as OUTLET FILTER UNIT THERMAL SAFETY VALVE located at PAZ/FPSOT/WAT/WFLT /TO-TSV-510545A,Pressure Safety Device
+ Overhaul described as MANIFOLD PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/CHEM /TO-PSV1-75099B,Pressure Safety Device
+ Overhaul described as MANIFOLD PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/CHEM /TO-PSV2-75099B,Pressure Safety Device
+ Scrap/Replace described as OUTLET FILTER UNIT THERMAL SAFETY VALVE located at PAZ/FPSOT/WAT/WFLT /TO-TSV-510545B,Pressure Safety Device
+ Overhaul described as MANIFOLD PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/CHEM /TO-PSV1-75099C,Pressure Safety Device
+ Overhaul described as MANIFOLD PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/CHEM /TO-PSV2-75099C,Pressure Safety Device
+ Scrap/Replace described as OUTLET FILTER UNIT THERMAL SAFETY VALVE located at PAZ/FPSOT/WAT/WFLT /TO-TSV-510505C,Pressure Safety Device
+ Overhaul described as PSD-2024//VPASS-PSV-31535 PASSING REPAIR located at PAZ/FPSOT/GAS/COMP /TO-PSV-31535,Pressure Safety Device
+" Scrap/replace described as PSD-2024//HU-UZ-0101C:	PSV-016069C SCRAP located at PAZ/FPSOH/CRS/FWAT /HU-PSV-016069C",Pressure Safety Device
+ Overhaul described as PSD-2024//TO-SZ-0106B: PSV-010601A SCRAP located at PAZ/FPSOT/CRS/FWAT /TO-PSV-010601A,Pressure Safety Device
+ Overhaul described as VPASS - PSV2-70044 PASSING REPAIR // VI located at PAZ/FPSOT/COF/FG   /TO-PSV2-70044,Pressure Safety Device
+ Overhaul described as PSD-2024//TO-V_-7001: PSV2-70009  VISUAL located at PAZ/FPSOT/COF/FG   /TO-PSV2-70009,Pressure Safety Device
+ Overhaul described as VPASS - PSV1-31448A PASSING // VI located at PAZ/FPSOT/GAS/COMP /TO-PSV1-31448A,Pressure Safety Device
+ Scrap/replace described as TO-UZ-6032E:TSV-602585E Exchange located at PAZ/FPSOT/ELE/PWG  /TO-TSV-602585E,Pressure Safety Device
+ Scrap/replace described as ES-6062E1: TSV-602575E Exchange located at PAZ/FPSOT/ELE/PWG  /TO-TSV-602575E,Pressure Safety Device
+ Replace/Scrap described as PSD-2024//TO-P_-2901C: TSV-29020 located at PAZ/FPSOT/OIL/SDS  /TO-TSV-29020,Pressure Safety Device
+ Replace/Scrap described as PSD-2024//TO-P_-2901B:TSV-29031 exchange located at PAZ/FPSOT/OIL/SDS  /TO-TSV-29031,Pressure Safety Device
+ BV tasks & intrusive major inspection described as PORT WING BALLAST 1P located at PAZ/FPSOH/HSG/STRUC/HU-T_-8611A,FU Items
+ COR - WB5S - CP Measurement described as STARBOARD WING BALLAST 5S located at PAZ/FPSOH/HSG/STRUC/HU-T_-8612E,Corrosion Monitoring
+ VII described as LP GAS CONDENSER B located at PAZ/FPSOT/GAS/COMP /TO-ES-3133B,Pressure Vessel (VII)
+ VII described as HP COMPRESSOR SUCTION SCRUBBER located at PAZ/FPSOT/GAS/COMP /TO-V_-3150,Pressure Vessel (VII)
+ VII described as LP FUEL GAS SCRUBBER located at PAZ/FPSOT/COF/FG   /TO-V_-7002,Pressure Vessel (VII)
+ VII described as FLARE & HC BLANKET PACKAG TUBE EXCHANGER located at PAZ/FPSOT/GAS/COMP /TO-ES-3170,Pressure Vessel (VII)
+ SCD + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/DEHYD/IPC-_HG-TO30-01-G49,Piping
+ VIE described as Fuel gas piping group located at PAZ/FPSOT/COF/FG   /IPC-_FG-TO70-09-F01,Piping
+ VII described as HHP COMPRESSOR AFTER COOLER located at PAZ/FPSOT/GAS/COMP /TO-ES-3166,Pressure Vessel (VII)
+ Overhaul described as OUTLET GAS COMPRESSOR PRES SAFETY VALV B located at PAZ/FPSOT/GAS/COMP /TO-PSV2-31330B,Pressure Safety Device
+ UTC + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/STAB /IPC-_HL-TO21-04-D03,Piping
+ VIE described as AIR START GAS VESSEL A5 located at PAZ/FPSOH/CRS/FWAT /HU-VB-0101A5,Pressure Vessel (VIE)
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-22-H21,Piping
+ UTC + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-02-H49P,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/STAB /IPC-_HL-TO21-05-D03,Piping
+ BV Class Intermediate Survey described as STARBOARD CENTRAL BALLAST 1S located at PAZ/FPSOH/HSG/STRUC/HU-T_-8610A,FU Items
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-17-D70,Piping
+ VIE described as MAIN TGD FUEL GAS SEPARATOR located at PAZ/FPSOT/ELE/PWG  /TO-VZ-6040D,Pressure Vessel (VIE)
+ VIE described as HULL CHILLED WATER BUFFER TANK located at PAZ/FPSOH/CRS/HVAC /HU-VZ-0912,Pressure Vessel (VIE)
+ BV Class Intermediate Survey described as AFT PEAK TANK PORT located at PAZ/FPSOH/HSG/STRUC/HU-T_-8603,FU Items
+ BV Class Intermediate Survey described as AFT PEAK TANK CENTRAL located at PAZ/FPSOH/HSG/STRUC/HU-T_-8604,FU Items
+ BV Class Intermediate Survey described as AFT PEAK TANK STARBOARD located at PAZ/FPSOH/HSG/STRUC/HU-T_-8605,FU Items
+ BV Class Intermediate Survey described as FORE PEAK TANK PORT located at PAZ/FPSOH/HSG/STRUC/HU-T_-8606,FU Items
+ BV Class Intermediate Survey described as FORE PEAK TANK STARBOARD located at PAZ/FPSOH/HSG/STRUC/HU-T_-8608,FU Items
+ BV Intermediate inspection described as PORT CENTRAL BALLAST 2P located at PAZ/FPSOH/HSG/STRUC/HU-T_-8609B,FU Items
+ BV tasks & intrusive major inspection described as PORT WING BALLAST 7P located at PAZ/FPSOH/HSG/STRUC/HU-T_-8611G,FU Items
+ SCD + VIE described as Fuel gas piping group located at PAZ/FPSOT/COF/FG   /IPC-_FG-TO70-04-D49,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-16-D70,Piping
+ VII described as P.W SURGE DRUM located at PAZ/FPSOT/OIL/OWAT /TO-V_-2713,Pressure Vessel (VII)
+ VII described as FUEL GAS START-UP COOLER located at PAZ/FPSOT/COF/FG   /TO-ES-7002,Pressure Vessel (VII)
+ Remote Int. Inspection-TO-FH-3610 described as HP FLARE TIP located at PAZ/FPSOT/GAS/FLARE/TO-FH-3610,Flare Tip
+ Remote Int. Inspection-TO-FL-3620 described as LP FLARE TIP located at PAZ/FPSOT/GAS/FLARE/TO-FL-3620,Flare Tip
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-07-D03,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-06-D49,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-20-G21,Piping
+ COR - WBC1P - CP Measurement described as PORT CENTRAL BALLAST 1P located at PAZ/FPSOH/HSG/STRUC/HU-T_-8609A,Corrosion Monitoring
+ COR - WBC1S - CP Measurement described as STARBOARD CENTRAL BALLAST 1S located at PAZ/FPSOH/HSG/STRUC/HU-T_-8610A,Corrosion Monitoring
+ BV tasks & intrusive major inspection described as METHANOL TANK A located at PAZ/FPSOH/COF/CHEM /HU-T_-7511A,FU Items
+ BP_SB-visual inspection of tertiary stru described as BOATLANDING PLATFORM STARBOARD AFT located at PAZ/FPSOH/HSG/STRUC/BOATLANDING STBD AFT,FU Items
+ BV tasks & intrusive major inspection described as METHANOL STORAGE TANK TANK B located at PAZ/FPSOH/COF/CHEM /HU-T_-7511B,FU Items
+ BV tasks & intrusive major inspection described as MAIN PROD WATER ATM. DECAN. TANK 2711B located at PAZ/FPSOH/OIL/OWAT /HU-T_-2711B,FU Items
+ VIE described as Hydrocarbon G/L piping group located at PAZ/FPSOT/OIL/STAB /IPC-_HC-TO21-05-D03,Piping
+ VIE described as Fuel gas piping group located at PAZ/FPSOT/COF/FG   /IPC-_FG-TO70-01-F01,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/TRANS/IPN-_HG-TO34-04-H49P,Piping
+ NDT + VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-28-B03,Piping
+ NDT + VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/STAB /IPC-_HL-TO21-03-D03,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-24-J21N,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-29-B03,Piping
+ VIE described as Hydrocarbon liquid piping group located at PAZ/FPSOT/OIL/STAB /IPC-_HL-TO21-06-D03,Piping
+ VIE described as Hydrocarbon gas piping group located at PAZ/FPSOT/GAS/COMP /IPC-_HG-TO31-05-D49,Piping
+ VIE described as Utility water piping group located at PAZ/FPSOH/COF/COOLW/IPC-_UW-HU76-02-_95,Piping
+ CLASS PSV-Overhaul described as TANK PRESSURE VACUUM SAFETY VALVE located at PAZ/FPSOH/OIL/OWAT /HU-PVSV-27037B,Pressure Safety Device
+ Overhaul described as TO V-2011B  PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/SEP  /TO-PSV2-20145B,Pressure Safety Device
+ Overhaul described as TO V-2011B  PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/SEP  /TO-PSV5-20145B,Pressure Safety Device
+ CLASS PVSV-Overhaul described as METHANOL STORAGE TANK PVSV located at PAZ/FPSOH/COF/CHEM /HU-PVSV-75013A,Pressure Safety Device
+ VII described as LP SEPARATOR A located at PAZ/FPSOT/OIL/SEP  /TO-V_-2011A,Pressure Vessel (VII)
+ VII described as LP SEPARATOR B located at PAZ/FPSOT/OIL/SEP  /TO-V_-2011B,Pressure Vessel (VII)
+ VII described as ELECTROSTATIC DEHYDRATOR TRAIN A located at PAZ/FPSOT/OIL/STAB /TO-V_-2111A,Pressure Vessel (VII)
+ VII described as HP FLARE K.O. DRUM located at PAZ/FPSOT/GAS/FLARE/TO-V_-3610,Pressure Vessel (VII)
+ VII described as PRODUCED WATER SAND JETTING FILTER UNIT located at PAZ/FPSOT/OIL/SEP  /TO-VF-2001,Pressure Vessel (VII)
+ MTANDEM CHAFFING CHAIN SB/WEAR MEASUR described as TANDEM CHAFFING CHAIN SB located at PAZ/FPSOT/OIL/LOAD /TO-V_-2501 SB MT,FU Items
+ MTANDEM CHAFFING CHAIN PS/WEAR MEASUR described as TANDEM CHAFFING CHAIN PS located at PAZ/FPSOT/OIL/LOAD /TO-V_-2501 PS MT,FU Items
+ Overhaul described as TO HP COLD FLARE PRESSURE SAFETY VALVE located at PAZ/FPSOT/COF/FG   /TO-PSV1-70009,Pressure Safety Device
+ CLASS PSV-Overhaul described as METHANOL STORAGE TANK PVSV located at PAZ/FPSOH/COF/CHEM /HU-PVSV-75013B,Pressure Safety Device
+ APZP2386 Replacement described as SYSTEM TANK PRESSURE SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/SS-PSV-2386,Pressure Safety Device
+ APZP2390 Replacement described as P20 B.F PRESSURE SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/SS-PSV-2390,Pressure Safety Device
+ APZP2387 Replacement described as SYSTEM TANK PRESSURE SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/SS-PSV-2387,Pressure Safety Device
+ APZP3386 Replacement described as SYSTEM TANK PRESSURE SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/SS-PSV-3386,Pressure Safety Device
+ APZP3387 Replacement described as SYSTEM TANK PRESSURE SAFETY VALVE located at PAZ/FPSOT/EXT/EWELL/SS-PSV-3387,Pressure Safety Device
+ Overhaul described as OUTLET GAS PRESSURE SAFETY VALVE 1 located at PAZ/FPSOT/GAS/COMP /TO-PSV1-31519,Pressure Safety Device
+ Overhaul described as TO V-2011A  PRESSURE SAFETY VALVE located at PAZ/FPSOT/OIL/SEP  /TO-PSV5-20145A,Pressure Safety Device
+ Overhaul described as TO DIPSOSAL CAISSON PRESS. SAFETY VALVE1 located at PAZ/FPSOT/WAT/WINJ /TO-PSV1-54017,Pressure Safety Device
+ BV Class Intermediate Survey described as STARBOARD SLOP TANK located at PAZ/FPSOH/OIL/DRAIN/HU-T_-2801B,FU Items
+ 12 Monthly Dead Leg Radiographic Survey described as CLOV - TOPSIDES located at CLV/FPSOT,Campaign
+ CLV/ Flexible hoses inspection VIE described as CLOV - TOPSIDES located at CLV/FPSOT,Campaign
+ CLOV Color coding Campaign described as Lifting equipment located at CLV/FPSOH/COF/LIFT,Campaign
+ 12 Monthly Dead Leg Radiographic Survey described as CLOV - HULL located at CLV/FPSOH,Campaign
+ CLV Gas cylinders inspection campaign described as CLV-GAS CYLINDERS & ACCUMULATORS located at CLV/FPSOT/CRS/SAFE /GC-ACC,Campaign
+ CLOV Color coding Campaign described as Lifting equipment located at CLV/FPSOH/COF/LIFT,Campaign
+ PROD-RING-P10 - Int Pigging / 60M described as PROD-RING-P10-INSPECTION located at CLV/SUB  /EXT/EWELL/PROD-RING-P10,Intelligent Pigging
+ Remote External inspection VIE described as HP FLARE TIP located at CLV/FPSOT/GAS/FLARE/TO-FL-3610,Flare TIP
+ Remote External inspection VIE described as LP FLARE TIP located at CLV/FPSOT/GAS/FLARE/TO-FL-3620,Flare TIP
+ COR - APT_P_CP Measurement described as PORT WING BALLAST BUFFER TANK B located at CLV/FPSOH/HSG/STRUC/HU-TR-8631B,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as PORT WING BALLAST BUFFER TANK C located at CLV/FPSOH/HSG/STRUC/HU-TR-8631C,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as PORT WING BALLAST BUFFER TANK D located at CLV/FPSOH/HSG/STRUC/HU-TR-8631D,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as PORT WING BALLAST BUFFER TANK E located at CLV/FPSOH/HSG/STRUC/HU-TR-8631E,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as PORT WING BALLAST BUFFER TANK F1 located at CLV/FPSOH/HSG/STRUC/HU-TR-8631F1,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as PORT WING BALLAST BUFFER TANK F2 located at CLV/FPSOH/HSG/STRUC/HU-TR-8631F2,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as STARBOARD WING BALLAST BUFFER TANK A1 located at CLV/FPSOH/HSG/STRUC/HU-TR-8632A1,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as STARBOARD WING BALLAST BUFFER TANK A2 located at CLV/FPSOH/HSG/STRUC/HU-TR-8632A2,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as PORT WING BALLAST BUFFER TANK A1 located at CLV/FPSOH/HSG/STRUC/HU-TR-8631A1,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as PORT WING BALLAST BUFFER TANK A2 located at CLV/FPSOH/HSG/STRUC/HU-TR-8631A2,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as STARBOARD WING BALLAST BUFFER TANK B located at CLV/FPSOH/HSG/STRUC/HU-TR-8632B,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as STARBOARD WING BALLAST BUFFER TANK C located at CLV/FPSOH/HSG/STRUC/HU-TR-8632C,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as STARBOARD WING BALLAST BUFFER TANK D located at CLV/FPSOH/HSG/STRUC/HU-TR-8632D,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as STARBOARD WING BALLAST BUFFER TANK E located at CLV/FPSOH/HSG/STRUC/HU-TR-8632E,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as STARBOARD WING BALLAST BUFFER TANK F1 located at CLV/FPSOH/HSG/STRUC/HU-TR-8632F1,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as STARBOARD WING BALLAST BUFFER TANK F2 located at CLV/FPSOH/HSG/STRUC/HU-TR-8632F2,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as AFT PORT BALLAST WATER TANK located at CLV/FPSOH/HSG/STRUC/HU-TR-8621,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as AFT CENTRAL BALLAST WATER TANK located at CLV/FPSOH/HSG/STRUC/HU-TR-8622,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as AFT STARBOARD BALLAST WATER TANK located at CLV/FPSOH/HSG/STRUC/HU-TR-8623,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as FORWARD PORT BALLAST WATER TANK located at CLV/FPSOH/HSG/STRUC/HU-TR-8626,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as ULTRA FILTRATION BACKWASH TANK located at CLV/FPSOT/WAT/WFLT /TO-TZ-5120,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as FORWARD CENTRAL BALLAST WATER TANK located at CLV/FPSOH/HSG/STRUC/HU-TR-8627,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as FORWARD STARBORD BALLAST WATER TANK located at CLV/FPSOH/HSG/STRUC/HU-TR-8628,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as PORT MAIN BUFFER TANK located at CLV/FPSOH/HSG/STRUC/HU-TR-8629,Corrosion Monitoring
+ COR - APT_P_CP Measurement described as STARBOARD MAIN BUFFER TANK located at CLV/FPSOH/HSG/STRUC/HU-TR-8630,Corrosion Monitoring
+ CLOV - hull potential measurement described as Cathodic protection located at CLV/FPSOH/HSG/CATPR,Corrosion Monitoring
+" Internal & External inspection described as FLAME ARRESTOR, VENT SLP_S, HU-TR-2750B located at CLV/FPSOH/OIL/OWAT /TO-V-35682",Flame Arrestor
+" Internal & External inspection described as FLAME ARRESTOR, EXHAUST DIESEL ENG FWP A located at CLV/FPSOH/CRS/FWAT /TO-FA-0110A1",Flame Arrestor
+" Internal & External inspection described as FLAME ARRESTOR, EXHAUST DIESEL ENG FWP B located at CLV/FPSOH/CRS/FWAT /TO-FA-0110B2",Flame Arrestor
+" Internal & External inspection described as FLAME ARRESTOR, EXHAUST DIESEL ENG FWP C located at CLV/FPSOH/CRS/FWAT /TO-FA-0110C1",Flame Arrestor
+" Internal & External inspection described as FLAME ARRESTOR, EXHAUST DIESEL ENG FWP C located at CLV/FPSOH/CRS/FWAT /TO-FA-0110C2",Flame Arrestor
+" Internal & External inspection described as FLAME ARRESTOR, EXHAUST DIESEL ENG FWP D located at CLV/FPSOH/CRS/FWAT /TO-FA-0110D1",Flame Arrestor
+" Internal & External inspection described as FLAME ARRESTOR, EXHAUST DIESEL ENG FWP D located at CLV/FPSOH/CRS/FWAT /TO-FA-0110D2",Flame Arrestor
+ Internal & External inspection described as EsD ENGINE A START SYSTEM FLAME ARRESTOR located at CLV/FPSOH/CRS/EPWG /HU-FA-0509A,Flame Arrestor
+ Internal & External inspection described as EsD ENGINE B START SYSTEM FLAME ARRESTOR located at CLV/FPSOH/CRS/EPWG /HU-FA-0509B,Flame Arrestor
+" Internal & External inspection described as FLAME ARRESTOR, VENT COT_7S, HU-TR-2427 located at CLV/FPSOH/OIL/STORE/TO-V-35695",Flame Arrestor
+" Internal & External inspection described as FLAME ARRESTOR, VENT CST_S, HU-TR-2140B located at CLV/FPSOH/OIL/STAB /TO-V-35705",Flame Arrestor
+" Internal & External inspection described as FLAME ARRESTOR, VENT COT_1C, HU-TR-2401 located at CLV/FPSOH/OIL/STORE/TO-V-35680",Flame Arrestor
+" Internal & External inspection described as FLAME ARRESTOR, EXHAUST DIESEL ENG FWP A located at CLV/FPSOH/CRS/FWAT /TO-FA-0110A2",Flame Arrestor
+" Internal & External inspection described as FLAME ARRESTOR, EXHAUST DIESEL ENG FWP B located at CLV/FPSOH/CRS/FWAT /TO-FA-0110B1",Flame Arrestor
+" Internal & External inspection described as FLAME ARRESTOR, ACID TANK VENT located at CLV/FPSOT/GAS/FLARE/TO-V-30178",Flame Arrestor
+ CLV/FPSOT/JA7830A - 60 MO Inspection described as PEDESTAL CRANE located at CLV/FPSOT/COF/LIFT /TO-JA-7830A,Lifting
+ CLV/FPSOH/JE0202B - 12 MO Inspection described as FREE FALL LIFEBOAT DAVIT (NO2) located at CLV/FPSOH/CRS/SAFE /HU-JE-0202B,Lifting
+ CLV/FPSOH/JE0202C - 12 MO Inspection described as FREE FALL LIFEBOAT DAVIT (NO3) located at CLV/FPSOH/CRS/SAFE /HU-JE-0202C,Lifting
+ CLV/FPSOH/JE0202D - 12 MO Inspection described as FREE FALL LIFEBOAT DAVIT (NO4) located at CLV/FPSOH/CRS/SAFE /HU-JE-0202D,Lifting
+ CLV/FPSOH/JE0202E - 12 MO Inspection described as FREE FALL LIFEBOAT DAVIT (NO5) located at CLV/FPSOH/CRS/SAFE /HU-JE-0202E,Lifting
+ CLV/FPSOH/JE0202F - 12 MO Inspection described as FREE FALL LIFEBOAT DAVIT (NO6-FWD) located at CLV/FPSOH/CRS/SAFE /HU-JE-0202F,Lifting
+ CLV/FPSOH/JE0202A - 12 MO Inspection described as FREE FALL LIFEBOAT DAVIT (NO1) located at CLV/FPSOH/CRS/SAFE /HU-JE-0202A,Lifting
+ CLV/FPSOT/JA7830B - 60 MO Inspection described as PEDESTAL CRANE located at CLV/FPSOT/COF/LIFT /TO-JA-7830B,Lifting
+ CLV/FPSOT/JA7830B - 6 MO Inspection described as PEDESTAL CRANE located at CLV/FPSOT/COF/LIFT /TO-JA-7830B,Lifting
+ CLV/FPSOH/JZ7892 - 6 MO Inspection described as BOW CRANE (12TONX20M RADIUS) located at CLV/FPSOH/COF/LIFT /HU-JZ-7892,Lifting
+ CLV/FPSOH/JZ7892 - 6 MO Inspection described as BOW CRANE (12TONX20M RADIUS) located at CLV/FPSOH/COF/LIFT /HU-JZ-7892,Lifting
+ CLV/FPSOT/JA7830A - 6 MO Inspection described as PEDESTAL CRANE located at CLV/FPSOT/COF/LIFT /TO-JA-7830A,Lifting
+ CLV/FPSOT/JA7830B - 6 MO Inspection described as PEDESTAL CRANE located at CLV/FPSOT/COF/LIFT /TO-JA-7830B,Lifting
+ CLV/FPSOH/JZ7892 - 6 MO Inspection described as BOW CRANE (12TONX20M RADIUS) located at CLV/FPSOH/COF/LIFT /HU-JZ-7892,Lifting
+ VIE described as BUOY-DECK located at CLV/BUOY /HSG/STRUC/DECK,FU Items
+ CLV/BUOY /HAWSER - 12 MO Inspection described as BUOY HAWSER SYSTEM located at CLV/BUOY /HSG/STRUC/OB-HAWSER,FU Items
+ Internal & external inspection + NDT described as STARBOARD WING BALLAST BUFFER TANK C located at CLV/FPSOH/HSG/STRUC/HU-TR-8632C,FU Items
+ Internal & external inspection + NDT described as NO5 CENTER CARGO TANK located at CLV/FPSOH/OIL/STORE/HU-TR-2405,FU Items
+ Visual Inspection described as BUOY COMPARTMENT located at CLV/BUOY /HSG/STRUC/COMP C4,FU Items
+ Internal & external inspection + NDT described as NO1 PORT CARGO TANK located at CLV/FPSOH/OIL/STORE/HU-TR-2411,FU Items
+ Internal & external inspection + NDT described as NO3 CENTER CARGO TANK located at CLV/FPSOH/OIL/STORE/HU-TR-2403,FU Items
+ Internal & external inspection + NDT described as METHANOL STORAGE TANK B located at CLV/FPSOH/COF/CHEM /HU-TR-7550B,FU Items
+ Internal & external inspection + NDT described as NO6 CENTER CARGO TANK located at CLV/FPSOH/OIL/STORE/HU-TR-2406,FU Items
+ VIE External inspection described as RISER BALCONY PORTSIDE located at CLV/FPSOT/HSG/STRUC/RISER-BALCONY-PS,FU Items
+ Insp. CLV/BUOY/OB-JZ-8660B_Buoy Side described as BUOY MOORING HAWSER ASSEMBLY located at CLV/BUOY /HSG/STRUC/OB-JZ-8660B,FU Items
+ CLV/BUOY/OB-JZ-8660A_Tanker Side described as BUOY MOORING HAWSER ASSEMBLY located at CLV/BUOY /HSG/STRUC/OB-JZ-8660A,FU Items
+ Hawser hook weaer measurement described as BUOY QUICK RELEASE HOOK A located at CLV/BUOY /HSG/STRUC/OB-JL-8660A,FU Items
+ Internal & external inspection + NDT described as STARBOARD CONTINUOUS SETTLING TANK located at CLV/FPSOH/OIL/STAB /HU-TR-2140B,FU Items
+ Internal & external inspection + NDT described as STARBOARD SLOP TANK located at CLV/FPSOH/OIL/OWAT /HU-TR-2750B,FU Items
+ Visual Inspection described as BUOY COMPARTMENT located at CLV/BUOY /HSG/STRUC/COMP C6,FU Items
+ Visual Inspection described as BUOY COMPARTMENT located at CLV/BUOY /HSG/STRUC/COMP C7,FU Items
+ Visual Inspection described as BUOY COMPARTMENT located at CLV/BUOY /HSG/STRUC/COMP C12,FU Items
+ Visual Inspection described as BUOY COMPARTMENT located at CLV/BUOY /HSG/STRUC/COMP C11,FU Items
+ Internal & external inspection + NDT described as PORT WING BALLAST BUFFER TANK E located at CLV/FPSOH/HSG/STRUC/HU-TR-8631E,FU Items
+ Internal & external inspection + NDT described as MOORING DEVICES located at CLV/FPSOH/HSG/STRUC/HU-MOORING,FU Items
+ Internal & external inspection + NDT described as FPSO HULL located at CLV/FPSOH/HSG/STRUC/HULL,FU Items
+ Internal & external inspection + NDT described as NO7 PORT CARGO TANK located at CLV/FPSOH/OIL/STORE/HU-TR-2417,FU Items
+ Internal & external inspection + NDT described as NO7 CENTER CARGO TANK located at CLV/FPSOH/OIL/STORE/HU-TR-2407,FU Items
+ Internal & external inspection + NDT described as PORT WING BALLAST BUFFER TANK B located at CLV/FPSOH/HSG/STRUC/HU-TR-8631B,FU Items
+ Internal & external inspection + NDT described as GREY WATER TANK located at CLV/FPSOH/HSG/ACCOM/HU-TZ-8221,FU Items
+ Internal & external inspection + NDT described as STARBOARD WING BALLAST BUFFER TANK B located at CLV/FPSOH/HSG/STRUC/HU-TR-8632B,FU Items
+ Internal & external inspection + NDT described as BUOY HULL located at CLV/BUOY /HSG/STRUC/HULL,FU Items
+ Internal & external inspection + NDT described as STARBOARD WING BALLAST BUFFER TANK F2 located at CLV/FPSOH/HSG/STRUC/HU-TR-8632F2,FU Items
+ AFTER MOORING PLATFORM PORT SIDE described as AFTER MOORING PLATFORM PORT SIDE located at CLV/FPSOH/HSG/STRUC/HU-AFT-MOOR-PLAT-PS,FU Items
+ AFTER MOORING PLATFORM STARBORDSIDE described as AFTER MOORING PLATFORM STARBORD SIDE located at CLV/FPSOH/HSG/STRUC/HU-AFT-MOOR-PLAT-SB,FU Items
+ Visual Inspection described as BUOY COMPARTMENT located at CLV/BUOY /HSG/STRUC/COMP B3,FU Items
+ Visual Inspection described as BUOY COMPARTMENT located at CLV/BUOY /HSG/STRUC/COMP B4,FU Items
+ Visual Inspection described as BUOY COMPARTMENT located at CLV/BUOY /HSG/STRUC/COMP B6,FU Items
+ Visual Inspection described as BUOY TURNTABLE located at CLV/BUOY /HSG/STRUC/TURNTABLE,FU Items
+ FORWARD MOORING PLATFORM STARBORD described as FORWARD MOORING PLATFORM PORT SIDE located at CLV/FPSOH/HSG/STRUC/HU-FWD-MOOR-PLAT- PS,FU Items
+ FORWARD MOORING PLATFORM STARBORD described as FORWARD MOORING PLATFORM STARBORD SIDE located at CLV/FPSOH/HSG/STRUC/HU-FWD-MOOR-PLAT-SB,FU Items
+ Insp. CLV/BUOY/OB-JZ-8660B_Buoy Side described as BUOY MOORING HAWSER ASSEMBLY located at CLV/BUOY /HSG/STRUC/OB-JZ-8660B,FU Items
+ Hawser hook weaer measurement described as BUOY QUICK RELEASE HOOK B located at CLV/BUOY /HSG/STRUC/OB-JL-8660B,FU Items
+ Visual Inspection described as BUOY COMPARTMENT located at CLV/BUOY /HSG/STRUC/COMP B2,FU Items
+ Internal & external inspection + NDT described as FPSO DECK located at CLV/FPSOH/HSG/STRUC/HULL_DECK,FU Items
+ CLV/BUOY/OB-JZ-8660A_Buoy Side described as BUOY MOORING HAWSER ASSEMBLY located at CLV/BUOY /HSG/STRUC/OB-JZ-8660A,FU Items
+ VIE+UTC described as OOL MAIN WINCH HPU HYDRAULIC TANK located at CLV/BUOY /CRS/AIR  /EX-TZ-0761,Non Structural Tank
+ VII described as F.W. PUMP A FUEL DAY TANK located at CLV/FPSOH/CRS/FWAT /HU-TA-0110A,Non Structural Tank
+ VII described as F.W. PUMP D FUEL DAY TANK located at CLV/FPSOH/CRS/FWAT /HU-TA-0110D,Non Structural Tank
+ VIE described as HYDRAULIC OIL TANK located at CLV/FPSOH/CRS/FWAT /HU-TZ-0110A2,Non Structural Tank
+ VIE described as HYDRAULIC OIL START SYSTEM TANK located at CLV/FPSOH/CRS/FWAT /HU-TZ-0110A4,Non Structural Tank
+ VIE+UTC described as HYDRAULIC OIL TANK located at CLV/FPSOH/CRS/FWAT /HU-TZ-0110B2,Non Structural Tank
+ VIE+UTC described as HYDRAULIC OIL START SYSTEM TANK located at CLV/FPSOH/CRS/FWAT /HU-TZ-0110B4,Non Structural Tank
+ VIE described as HYDRAULIC OIL TANK located at CLV/FPSOH/CRS/FWAT /HU-TZ-0110C2,Non Structural Tank
+ VIE described as HYDRAULIC OIL START SYSTEM TANK located at CLV/FPSOH/CRS/FWAT /HU-TZ-0110C4,Non Structural Tank
+ VIE described as HYDRAULIC OIL TANK located at CLV/FPSOH/CRS/FWAT /HU-TZ-0110D2,Non Structural Tank
+ VIE described as HYDRAULIC OIL START SYSTEM TANK located at CLV/FPSOH/CRS/FWAT /HU-TZ-0110D4,Non Structural Tank
+ VIE+NDT described as REVERSE DEMULSIFIER STORAGE TANK located at CLV/FPSOT/COF/CHEM /TO-TZ-7503,Non Structural Tank
+ BV tasks & intrusive major inspection described as PORT LDHI STORAGE TANK located at CLV/FPSOH/COF/CHEM /HU-TR-7525A,FU Items
+ VIE+NDT described as LUB OIL STORAGE TANK B located at CLV/FPSOH/CRS/EPWG /HU-TZ-0550B,Non Structural Tank
+ VII described as STARBOARD LDHI STORAGE TANK located at CLV/FPSOH/COF/CHEM /HU-TR-7525B,FU Items
+ VIE+NDT described as SRU CIP TANK located at CLV/FPSOT/WAT/WDEOX/TO-TZ-5340,Non Structural Tank
+ VIE+UTC described as AUXILIARY HYDRAULIC UNIT A OIL TANK located at CLV/FPSOH/CRS/AIR  /HU-TZ-0750A,Non Structural Tank
+ VIE+UTC described as AUXILIARY HYDRAULIC UNIT B OIL TANK located at CLV/FPSOH/CRS/AIR  /HU-TZ-0750B,Non Structural Tank
+ VIE+UTC described as POWER UNIT A HYDRAULIC OIL TANK located at CLV/FPSOH/CRS/AIR  /HU-TZ-0780A,Non Structural Tank
+ VIE described as POWER UNIT B HYDRAULIC OIL TANK located at CLV/FPSOH/CRS/AIR  /HU-TZ-0780B,Non Structural Tank
+ VIE described as LP COMPRESSORS LUBE OIL RUN DOWN TANK located at CLV/FPSOT/GAS/COMP /TO-TZ-3110,Non Structural Tank
+ VIE+UTC described as LUBE OIL TANK located at CLV/FPSOT/GAS/COMP /TO-TZ-3110-1,Non Structural Tank
+ VIE+UTC described as HP1 COMPRESSOR A LUBE OIL RUN DOWN TANK located at CLV/FPSOT/GAS/COMP /TO-TZ-3130A,Non Structural Tank
+ VIE+UTC described as HP1 COMPRESSOR B LUBE OIL RUN DOWN TANK located at CLV/FPSOT/GAS/COMP /TO-TZ-3130B,Non Structural Tank
+ VIE+UTC described as HP COMPRESSORS A LUBE OIL RUN DOWN TANK located at CLV/FPSOT/GAS/COMP /TO-TZ-3140A,Non Structural Tank
+ VIE+UTC described as HP COMPRESSORS B LUBE OIL RUN DOWN TANK located at CLV/FPSOT/GAS/COMP /TO-TZ-3140B,Non Structural Tank
+ VIE+UTC described as OIL TANK A located at CLV/FPSOT/WAT/WATLF/TO-TZ-5010A,Non Structural Tank
+ VIE+UTC described as OIL TANK B located at CLV/FPSOT/WAT/WATLF/TO-TZ-5010B,Non Structural Tank
+ VIE+UTC described as OIL TANK C located at CLV/FPSOT/WAT/WATLF/TO-TZ-5010C,Non Structural Tank
+ VIE+UTC described as OIL TANK D located at CLV/FPSOT/WAT/WATLF/TO-TZ-5010D,Non Structural Tank
+ VIE+NDT described as SEAWATER BIOCIDE TANK located at CLV/FPSOT/COF/CHEM /TO-TZ-7508,Non Structural Tank
+ VIE+NDT described as CORROSION INHIBITOR STORAGE TANK located at CLV/FPSOT/COF/CHEM /TO-TZ-7506,Non Structural Tank
+ VIE+NDT described as ACID STORAGE TANK located at CLV/FPSOT/COF/CHEM /TO-TZ-7507,Non Structural Tank
+ VII described as HYDROCHLORIC ACID WASHING TANK located at CLV/FPSOT/WAT/ELCL /TO-TZ-5206,Non Structural Tank
+ VIE+NDT described as SLUDGE TANK A located at CLV/FPSOH/COF/FO   /HU-TZ-7170A,Non Structural Tank
+ VIE+NDT described as SLUDGE TANK B located at CLV/FPSOH/COF/FO   /HU-TZ-7170B,Non Structural Tank
+ VIE described as HELIDECK MONITOR SKID J FOAM TANK located at CLV/FPSOH/CRS/FWAT /HU-TZ-0121J,Non Structural Tank
+ VIE+NDT described as PROCESS DEMULSIFIER 1 STORAGE TANK located at CLV/FPSOT/COF/CHEM /TO-TZ-7504A,Non Structural Tank
+ VIE+NDT described as PROCESS DEMULSIFIER 2 STORAGE TANK located at CLV/FPSOT/COF/CHEM /TO-TZ-7504B,Non Structural Tank
+ VIE described as HP2/HP3 COMP. B LUBE OIL RESERVOIR located at CLV/FPSOT/GAS/COMP /TO-TZ-3140B-1,Non Structural Tank
+ VIE described as OIL TANK B located at CLV/FPSOH/WAT/WATLF/HU-TZ-5020B,Non Structural Tank
+ VIE described as PORT RPS HPU DIESEL TANK located at CLV/FPSOH/COF/LIFT /HU-TZ-7811A,Non Structural Tank
+ VIE+UTC described as HYDRAULIC OIL RESERVOIR located at CLV/BUOY /CRS/AIR  /OB-TR-0756,Non Structural Tank
+ VIE+UTC described as OOL AUXILIARY WINCH HPU HYDRAULIC TANK located at CLV/BUOY /CRS/AIR  /OB-TZ-0755,Non Structural Tank
+ VIE+UTC described as OOL AUXILIARY WINCH HPU DIESEL TANK located at CLV/BUOY /CRS/AIR  /OB-TZ-0756,Non Structural Tank
+ VIE described as OIL TANK A located at CLV/FPSOH/WAT/WATLF/HU-TZ-5020A,Non Structural Tank
+ VIE+NDT described as SEAWATER SCALE INHIBITOR 1 TANK located at CLV/FPSOT/COF/CHEM /TO-TZ-7509,Non Structural Tank
+ VIE+NDT described as SEAWATER OXYGEN SCAVENGER 1 STORAGE TANK located at CLV/FPSOT/COF/CHEM /TO-TZ-7511A,Non Structural Tank
+ VIE+NDT described as SEAWATER OXYGEN SCAVENGER 2 STORAGE TANK located at CLV/FPSOT/COF/CHEM /TO-TZ-7511B,Non Structural Tank
+ VIE+NDT described as SEAWATER SCALE INHIBITOR 2 TANK located at CLV/FPSOT/COF/CHEM /TO-TZ-7512,Non Structural Tank
+ VIE+NDT described as SEAWATER CORROSION INHIBITOR TANK located at CLV/FPSOT/COF/CHEM /TO-TZ-7513,Non Structural Tank
+ VIE+NDT described as SPARE TANK located at CLV/FPSOT/COF/CHEM /TO-TZ-7514,Non Structural Tank
+ VIE+NDT described as SUBSEA MULTIFUNCTION INHIB. 1 STORAGE TK located at CLV/FPSOT/COF/CHEM /TO-TZ-7515A,Non Structural Tank
+ VIE+NDT described as SUBSEA MULTIFUNCTION INHIB. 2 STORAGE TK located at CLV/FPSOT/COF/CHEM /TO-TZ-7515B,Non Structural Tank
+ Visual inspection of tertiary struc described as M115 STR Module HP1A & HP1B GAS COMP located at CLV/FPSOT/HSG/STRUC/M115,Structure
+ Visual inspection of tertiary struc described as M116 Structural Module GLYCOL GENERATION located at CLV/FPSOT/HSG/STRUC/M116,Structure
+ Visual inspection of tertiary struc described as M111 STR Module POWER GENERATION 1 A&B located at CLV/FPSOT/HSG/STRUC/M111,Structure
+ VIE External inspection described as M121 Structural Module UTILITIES located at CLV/FPSOT/HSG/STRUC/M121,Structure
+ VIE + UTC described as ESS CHILLED WATER EXPANSION VESSEL located at CLV/FPSOH/CRS/HVAC /HU-TX-092602,Pressure Vessel (VIE)
+ VIE + UTC described as HV01 CHILLED WATER EXPANSION VESSEL located at CLV/FPSOT/CRS/HVAC /HU-TX-092603,Pressure Vessel (VIE)
+ FI Visual Inspection of complete struct. described as Secondary structure of R146 Piperack located at CLV/FPSOT/HSG/STRUC/R146-SEC_STR,Structure
+ FI Visual Inspection of complete struct. described as Secondary structure of R147 Piperack located at CLV/FPSOT/HSG/STRUC/R147-SEC_STR,Structure
+ Visual inspection of tertiary struc described as M114 STR Module PANCAKE FOR WELL FLUIDS located at CLV/FPSOT/HSG/STRUC/M114,Structure
+ VIE External inspection described as M123 Structural Module WATER INJECTION located at CLV/FPSOT/HSG/STRUC/M123,Structure
+ Visual inspection of tertiary struc described as M125 STR Module LP1 & LP2 GAS COMP located at CLV/FPSOT/HSG/STRUC/M125,Structure
+ Visual inspection of tertiary struc described as M112 STR Module POWER GENERATION 2 C&D located at CLV/FPSOT/HSG/STRUC/M112,Structure
+ FI Visual Inspection of complete struct. described as M126 STR Module HP2A&B/3A & 3B GAS COMP located at CLV/FPSOT/HSG/STRUC/M126,Structure
+ FI Visual Inspection of complete struct. described as Primary structure of TELECOM MAST located at CLV/FPSOA/HSG/STRUC/TELECOM_MAST-PRM_STR,Structure
+ FI Visual Inspection of complete struct. described as M110 Structural Module PALLET LAYDOWN located at CLV/FPSOT/HSG/STRUC/M110,Structure
+ FI Visual Inspection of complete struct. described as M120 Structural Module PALLET LAYDOWN located at CLV/FPSOT/HSG/STRUC/M120,Structure
+ FI Visual Inspection of complete struct. described as Secondary structure of R144 Piperack located at CLV/FPSOT/HSG/STRUC/R144-SEC_STR,Structure
+ General Visual Inspection described as Primary structure of HELIDECK module located at CLV/FPSOH/HSG/STRUC/HELID-DECK-PRM_STR,Structure
+ FI Visual Inspection of complete struct. described as Secondary structure of R141 Piperack located at CLV/FPSOT/HSG/STRUC/R141-SEC_STR,Structure
+ FI Visual Inspection of complete struct. described as Secondary structure of R142 Piperack located at CLV/FPSOT/HSG/STRUC/R142-SEC_STR,Structure
+ FI Visual Inspection of complete struct. described as Structure of M131 Flare Area located at CLV/FPSOT/HSG/STRUC/M131,Structure
+ FI Visual Inspection of complete struct. described as Secondary structure of R143 Piperack located at CLV/FPSOT/HSG/STRUC/R143-SEC_STR,Structure
+ FI Visual Inspection of complete struct. described as Secondary structure of R145 Piperack located at CLV/FPSOT/HSG/STRUC/R145-SEC_STR,Structure
+ FI Visual Inspection of complete struct. described as M151 Structural Module Flare Area located at CLV/FPSOT/HSG/STRUC/M151,Structure
+ FI Visual Inspection of complete struct. described as M124 Structural Module SEPARATION located at CLV/FPSOT/HSG/STRUC/M124,Structure
+ FI Visual Inspection of complete struct. described as M122 Structural Module WATER TREATMENT located at CLV/FPSOT/HSG/STRUC/M122,Structure
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/DEHYD/IPN-_HG-TO30-11-G49,Piping
+ VIE described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HG-TO36-62-B03,Piping
+ VIE described as Closed drain piping group located at CLV/FPSOT/OIL/DRAIN/IPN-_CD-TO28-25-F49,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-47-H23,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/EXP  /IPN-_HG-TO35-48-J21S,Piping
+ VIE described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HG-TO36-64-B03,Piping
+ VIE described as Closed drain piping group located at CLV/FPSOT/OIL/DRAIN/IPN-_CD-TO28-26-B01,Piping
+ VIE described as Subsea inhibitor piping group located at CLV/FPSOT/COF/CHEM /IPN-_MI-TO75-01-_50,Piping
+ VIE+NDT described as Hydrocarbon liquid piping group located at CLV/FPSOT/EXT/EWELL/IPN-_HL-TO10-01-D03,Piping
+ VIE+NDT described as Hydrocarbon liquid piping group located at CLV/FPSOT/GAS/COMP /IPN-_HL-TO31-45-H23,Piping
+ VIE+NDT described as Hydrocarbon liquid piping group located at CLV/FPSOT/GAS/COMP /IPN-_HL-TO31-47-H23,Piping
+ VIE+NDT described as Closed drain piping group located at CLV/FPSOT/OIL/DRAIN/IPN-_CD-TO28-16-F49,Piping
+ VIE+NDT described as Service air piping group located at CLV/FPSOH/CRS/AIR  /IPN-_SA-HU07-01-_49,Piping
+ VIE+NDT described as Closed drain piping group located at CLV/FPSOH/OIL/DRAIN/IPN-_CD-HU28-01-_03,Piping
+ VIE described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HG-TO36-66-B03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-18-H23N,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/EXT/MSEP /IPN-_HG-TO11-02-D49,Piping
+ VIE+NDT described as Lube oil piping group located at CLV/FPSOH/COF/HTOIL/IPN-_LO-HU73-01-_49,Piping
+ VIE+NDT described as Methanol piping group located at CLV/FPSOT/COF/CHEM /IPN-_ME-TO75-03-_49,Piping
+ VIE+NDT described as Closed drain piping group located at CLV/FPSOT/OIL/DRAIN/IPN-_CD-TO28-11-D49,Piping
+ VIE described as Biocide piping group located at CLV/FPSOH/COF/CHEM /IPN-_BI-HU75-02-_03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-33-H21N,Piping
+ VIE+NDT described as Methanol piping group located at CLV/FPSOT/COF/CHEM /IPN-_ME-TO75-02-_03,Piping
+ VIE+NDT described as High pressure flare piping group located at CLV/FPSOT/GAS/FLARE/IPN-_FH-TO36-17-J45,Piping
+ VIE+NDT described as Closed drain piping group located at CLV/FPSOT/OIL/DRAIN/IPN-_CD-TO28-12-D49,Piping
+ VIE+NDT described as Closed drain piping group located at CLV/FPSOT/OIL/DRAIN/IPN-_CD-TO28-31-F49,Piping
+ VIE described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/DEHYD/IPN-_HG-TO30-14-F01N,Piping
+ VIE+NDT described as Closed drain piping group located at CLV/FPSOT/OIL/DRAIN/IPN-_CD-TO28-02-F03,Piping
+ VIE described as Antifoam piping group located at CLV/FPSOT/COF/CHEM /IPN-_AF-TO75-01-_50,Piping
+ VIE described as Antifoam piping group located at CLV/FPSOT/COF/CHEM /IPN-_AF-TO75-02-_50,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/OIL/LOAD /IPN-_HG-TO25-38-B03,Piping
+ VIE+NDT described as Lube oil piping group located at CLV/FPSOH/COF/HTOIL/IPN-_LO-HU73-02-_03,Piping
+ VIE+NDT described as High pressure flare piping group located at CLV/FPSOT/GAS/FLARE/IPC-_FH-TO36-04-B49,Piping
+ VIE+NDT described as Closed drain piping group located at CLV/FPSOT/OIL/DRAIN/IPN-_CD-TO28-13-G49,Piping
+ VIE+NDT described as Closed drain piping group located at CLV/FPSOT/OIL/DRAIN/IPN-_CD-TO28-17-G49,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-41-B01,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-45-B49,Piping
+ VIE+NDT described as Closed drain piping group located at CLV/FPSOT/OIL/DRAIN/IPN-_CD-TO28-05-J03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-40-B49,Piping
+ VIE described as Fuel gas piping group located at CLV/FPSOT/COF/FG   /IPN-_FG-TO70-01-D49,Piping
+ VIE described as Fuel gas piping group located at CLV/FPSOT/COF/FG   /IPN-_FG-TO70-02-D01,Piping
+ VIE described as Fuel gas piping group located at CLV/FPSOT/COF/FG   /IPN-_FG-TO70-08-F01,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/DEHYD/IPN-_HG-TO30-17-F03N,Piping
+ VIE described as Corrosion inhibitor piping group located at CLV/FPSOT/COF/CHEM /IPN-_CI-TO75-02-_50,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-20-H21N,Piping
+ VIE described as High pressure flare piping group located at CLV/FPSOT/GAS/FLARE/IPC-_FH-TO36-01-B03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-07-F49,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-30-H23N,Piping
+ VIE+NDT described as Closed drain piping group located at CLV/FPSOT/OIL/DRAIN/IPN-_CD-TO28-03-D03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-25-J21S,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOH/COF/INERT/IPN-_HG-HU74-04-B03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOH/COF/INERT/IPN-_HG-HU74-26-B03,Piping
+ VIE+NDT described as Nitrogen piping group located at CLV/FPSOH/COF/INERT/IPN-_NG-HU74-02-_06,Piping
+ VIE+NDT described as Closed drain piping group located at CLV/FPSOT/OIL/DRAIN/IPN-_CD-TO28-21-H21N,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-21-H21N,Piping
+ VIE+NDT described as Hydrocarbon Gas/Liquid piping group located at CLV/FPSOT/EXT/EWELL/IPN-_HC-TO10-21-J49,Piping
+ VIE+NDT described as Hydrocarbon Gas/Liquid piping group located at CLV/FPSOT/EXT/EWELL/IPN-_HC-TO10-50-D50,Piping
+ VIE+NDT described as Cooling water piping group located at CLV/FPSOT/COF/COOLW/IPC-_CW-TO76-24-D01,Piping
+ VIE described as Fuel gas piping group located at CLV/FPSOT/COF/FG   /IPC-_FG-TO70-09-F49,Piping
+ VIE+NDT described as Hot water piping group located at CLV/FPSOT/COF/HEATL/IPC-_HW-TO54-05-D01,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-19-H21N,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-34-B49,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-42-B03,Piping
+ VIE+NDT described as Hydrocarbon liquid piping group located at CLV/FPSOT/OIL/TRANS/IPN-_HL-TO23-11-H03,Piping
+ VIE+NDT described as Biocide piping group located at CLV/FPSOH/COF/CHEM /IPN-_BI-HU75-01-_50,Piping
+ VIE+NDT described as Hydrocarbon Gas/Liquid piping group located at CLV/FPSOT/EXT/EWELL/IPN-_HC-TO10-22-J49,Piping
+ VIE+NDT described as Hydrocarbon Gas/Liquid piping group located at CLV/FPSOT/EXT/EWELL/IPN-_HC-TO10-23-J49,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-04-F49,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HG-TO36-60-B03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/DEHYD/IPN-_HG-TO30-16-F01N,Piping
+ VIE described as Demulsifier piping group located at CLV/FPSOH/COF/CHEM /IPN-_DE-HU75-01-_50,Piping
+ VIE described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HG-TO36-65-B03,Piping
+ VIE described as Corrosion inhibitor piping group located at CLV/FPSOH/COF/CHEM /IPN-_CI-HU75-01-_50,Piping
+ VIE described as Dosage hydrate inhibitor piping group located at CLV/FPSOH/COF/CHEM /IPN-_LD-HU75-01-_49,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOH/COF/INERT/IPN-_HG-HU74-13-B03,Piping
+ VIE+NDT described as HYDROCARBON LIQUID PIPING GROUP located at CLV/BUOY /OIL/LOAD /IPN-_HL-OB25-53-B03,Piping
+ VIE+NDT described as HYDROCARBON LIQUID PIPING GROUP located at CLV/BUOY /OIL/LOAD /IPN-_HL-OB25-51-D03,Piping
+ VIE+NDT described as High pressure flare piping group located at CLV/FPSOT/GAS/FLARE/IPN-_FH-TO36-06-B49,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/COMP /IPN-_HG-TO31-31-H21N,Piping
+ VIE described as Produced water (Oily water) piping group located at CLV/FPSOT/OIL/OWAT /IPN-_PW-TO27-03-B03,Piping
+ VIE+NDT described as Hydrocarbon liquid piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HL-TO36-39-B03,Piping
+ VIE+NDT described as Hydrocarbon liquid piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HL-TO36-40-B03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOH/COF/INERT/IPN-_HG-HU74-16-B03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/OIL/SEP  /IPN-_HG-TO20-27-B03,Piping
+ VIE+NDT described as Hydrocarbon liquid piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HL-TO36-38-B03,Piping
+ VIE+NDT described as Hydrocarbon liquid piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HL-TO36-37-B03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HG-TO36-67-B03,Piping
+ VIE+NDT described as Fuel gas piping group located at CLV/FPSOT/COF/FG   /IPC-_FG-TO70-06-F01,Piping
+ VIE described as Corrosion inhibitor piping group located at CLV/FPSOT/COF/CHEM /IPN-_CI-TO75-01-_50,Piping
+ VIE described as Biocide piping group located at CLV/FPSOT/COF/CHEM /IPN-_BI-TO75-01-_50,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/DEHYD/IPN-_HG-TO30-15-G49,Piping
+ VIE+NDT described as High pressure flare piping group located at CLV/FPSOT/GAS/FLARE/IPN-_FH-TO36-23-D49,Piping
+ VIE+SCD described as Fuel gas piping group located at CLV/FPSOT/COF/FG   /IPN-_FG-TO70-10-F49,Piping
+ VIE+NDT described as High pressure flare piping group located at CLV/FPSOT/GAS/FLARE/IPC-_FH-TO36-03-J45,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/DEHYD/IPN-_HG-TO30-12-G49,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HG-TO36-63-B03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HG-TO36-59-B03,Piping
+ VIE+NDT described as Low pressure flare piping group located at CLV/FPSOT/GAS/FLARE/IPN-_FL-TO36-01-B03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/EXT/MSEP /IPN-_HG-TO11-01-D49,Piping
+ VIE+NDT described as Hydrocarbon Gas/Liquid piping group located at CLV/FPSOT/EXT/EWELL/IPN-_HC-TO10-12-H03,Piping
+ VIE+NDT described as Methanol piping group located at CLV/FPSOH/COF/CHEM /IPN-_ME-HU75-02-_03,Piping
+ VIE+NDT described as Low pressure flare piping group located at CLV/FPSOT/GAS/FLARE/IPN-_FL-TO36-02-D49,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOH/COF/INERT/IPN-_HG-HU74-17-B03,Piping
+ VIE+NDT described as Hydrocarbon Gas/Liquid piping group located at CLV/FPSOT/EXT/EWELL/IPN-_HC-TO10-02-H03,Piping
+ VIE+NDT described as Produced water (Oily water) piping group located at CLV/FPSOH/OIL/OWAT /IPN-_PW-HU27-06-D03,Piping
+ VIE+NDT described as Fire water piping group located at CLV/FPSOT/CRS/FWAT /IPN-_FW-TO01-02-_92,Piping
+ VIE+NDT described as Hydrochloric acid piping group located at CLV/FPSOT/COF/CHEM /IPN-_HA-TO75-01-_86,Piping
+ VIE+NDT described as High pressure flare piping group located at CLV/FPSOT/GAS/FLARE/IPN-_FH-TO36-19-J49,Piping
+ VIE+NDT described as Produced water (Oily water) piping group located at CLV/FPSOH/OIL/STAB /IPN-_PW-HU21-03-B03,Piping
+ VIE described as Diesel oil piping group located at CLV/FPSOT/COF/FO   /IPN-_DO-TO71-01-_49,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOH/GAS/COMP /IPN-_HG-HU31-02-B03,Piping
+ VIE described as Acetic acid piping group located at CLV/FPSOT/COF/CHEM /IPN-_AA-TO75-02-_86,Piping
+ VIE+NDT described as Produced water (Oily water) piping group located at CLV/FPSOH/OIL/OWAT /IPN-_PW-HU27-08-B49,Piping
+ VIE+SCD described as Produced water (Oily water) piping group located at CLV/FPSOH/OIL/OWAT /IPN-_PW-HU27-09-D49,Piping
+ VIE+SCD described as Produced water (Oily water) piping group located at CLV/FPSOH/OIL/STAB /IPN-_PW-HU21-02-B49,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HG-TO36-52-B03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HG-TO36-53-B03,Piping
+ VIE+SCD described as Produced water (Oily water) piping group located at CLV/FPSOH/OIL/STAB /IPN-_PW-HU21-01-B49,Piping
+ VIE+NDT described as Methanol piping group located at CLV/FPSOH/COF/CHEM /IPN-_ME-HU75-01-_01,Piping
+ VIE+NDT described as Deoiler/Reverse demusifier piping group located at CLV/FPSOT/COF/CHEM /IPN-_RE-TO75-01-_50,Piping
+ VIE described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HG-TO36-61-B03,Piping
+ VIE+NDT described as Closed drain piping group located at CLV/FPSOT/OIL/DRAIN/IPN-_CD-TO28-04-B03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOH/COF/INERT/IPN-_HG-HU74-11-B03,Piping
+ VIE+NDT described as Hypochlorite piping group located at CLV/FPSOH/COF/CHEM /IPN-_HY-HU75-01-_86,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOH/COF/INERT/IPN-_HG-HU74-14-B03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOH/COF/INERT/IPN-_HG-HU74-07-B03,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOH/COF/INERT/IPN-_HG-HU74-09-B03,Piping
+ VIE+NDT described as Dosage hydrate inhibitor piping group located at CLV/FPSOH/COF/CHEM /IPN-_LD-HU75-04-_50,Piping
+ VIE described as Dosage hydrate inhibitor piping group located at CLV/FPSOH/COF/CHEM /IPN-_LD-HU75-02-_49,Piping
+ VIE described as Hypochlorite piping group located at CLV/FPSOT/COF/CHEM /IPN-_HY-TO75-01-_86,Piping
+ VIE+NDT described as Hydrocarbon gas piping group located at CLV/FPSOH/OIL/STAB /IPN-_HG-HU21-31-B03,Piping
+ VIE described as CIRCUIT 1 ECONOMIZER EXCHANGER located at CLV/FPSOH/CRS/HVAC /HU-EP-092607,Pressure Vessel (VIE)
+ VIE+NDT described as POTABLE WATER COOLING PLATE EXCHANGER A located at CLV/FPSOH/CRS/HVAC /HU-EP-092001A,Pressure Vessel (VIE)
+ VIE+NDT described as POTABLE WATER COOLING PLATE EXCHANGER B located at CLV/FPSOH/CRS/HVAC /HU-EP-092001B,Pressure Vessel (VIE)
+ VIE+NDT described as GLYCOL GAS FILTER COALESCER B located at CLV/FPSOT/GAS/DEHYD/TO-VF-3010B,Pressure Vessel (VIE)
+ GVI described as GAS HEADER OUTLET ANALYSER TRANSMITTER located at CLV/FPSOT/COF/INERT/TO-AT-31801,Pressure Vessel (VIE)
+ VIE described as FROM 1ST STAGE SEPARATOR HEAT EXCHANGER located at CLV/FPSOT/WAT/WDEOX/TO-EP-5320,Pressure Vessel (VIE)
+ VIE+UTC described as SLOP WATER HEATER A located at CLV/FPSOH/OIL/OWAT /HU-ES-2780A,Pressure Vessel (VIE)
+ VIE+NDT described as HEAT EXCHANGER A located at CLV/FPSOH/WAT/WATLF/HU-EP-5020A,Pressure Vessel (VIE)
+ GVI described as SAMPLE COND. SYSTEM A MOISTURE ANALYSER located at CLV/FPSOT/GAS/EXP  /TO-AT-35152,Pressure Vessel (VIE)
+ VIE+NDT described as HEAT EXCHANGER C located at CLV/FPSOT/WAT/WATLF/TO-EP-5010C,Pressure Vessel (VIE)
+ VIE described as HULL S.W. / COOLING WATER EXCHANGER B located at CLV/FPSOH/COF/COOLW/HU-EP-7650B,Pressure Vessel (VIE)
+ VIE+NDT described as HEAT EXCHANGER B located at CLV/FPSOT/WAT/WATLF/TO-EP-5010B,Pressure Vessel (VIE)
+ VIE+NDT described as HEAT EXCHANGER D located at CLV/FPSOT/WAT/WATLF/TO-EP-5010D,Pressure Vessel (VIE)
+ VIE described as HEAT EXCHANGER B located at CLV/FPSOH/WAT/WATLF/HU-EP-5020B,Pressure Vessel (VIE)
+ VIE+UTC described as SLOP WATER HEATER B located at CLV/FPSOH/OIL/OWAT /HU-ES-2780B,Pressure Vessel (VIE)
+ VIE+UTC described as FWD HPU HEAT EXCHANGER located at CLV/FPSOH/HSG/STRUC/HU-EZ-8627B,Pressure Vessel (VIE)
+ VIE described as MAIN LUBE OIL COOLER located at CLV/FPSOT/GAS/COMP /TO-EP-3110-1A,Pressure Vessel (VIE)
+ VIE described as STANDBY LUBE OIL COOLER located at CLV/FPSOT/GAS/COMP /TO-EP-3110-1B,Pressure Vessel (VIE)
+ VIE+NDT described as CST WASHING WATER CIP CARTRIDGE FILTER located at CLV/FPSOT/HSG/UPWAT/TO-VF-8520,Pressure Vessel (VIE)
+ VIE described as STANDBY LUBE OIL COOLER located at CLV/FPSOT/GAS/COMP /TO-EP-3140B-1B,Pressure Vessel (VIE)
+ VIE+NDT described as RICH TEG FLASH DRUM located at CLV/FPSOT/GAS/DEHYD/TO-VZ-3020A,Pressure Vessel (VIE)
+ VIE described as MAIN LUBE OIL COOLER located at CLV/FPSOT/GAS/COMP /TO-EP-3140A-1A,Pressure Vessel (VIE)
+ VIE described as STANDBY LUBE OIL COOLER located at CLV/FPSOT/GAS/COMP /TO-EP-3140A-1B,Pressure Vessel (VIE)
+ VIE+NDT described as HEAT EXCHANGER A located at CLV/FPSOT/WAT/WATLF/TO-EP-5010A,Pressure Vessel (VIE)
+ VIE described as COMP. A LUBE OIL COOLER located at CLV/FPSOT/WAT/WDEOX/TO-ES-5320A,Pressure Vessel (VIE)
+ VIE described as COMPR. B LUBE OIL COOLER located at CLV/FPSOT/WAT/WDEOX/TO-ES-5320B,Pressure Vessel (VIE)
+ VIE described as COMP. A LUBE OIL COOLER located at CLV/FPSOT/WAT/WDEOX/TO-ES-5321A,Pressure Vessel (VIE)
+ VIE described as COMPR. B LUBE OIL COOLER located at CLV/FPSOT/WAT/WDEOX/TO-ES-5321B,Pressure Vessel (VIE)
+ VIE described as HC BLANKET GAS COOLER located at CLV/FPSOT/GAS/COMP /TO-EP-3180,Pressure Vessel (VIE)
+ VIE described as COMPR. A ANTISURGE/RECYCLE COOLER located at CLV/FPSOT/WAT/WDEOX/TO-ES-5322A,Pressure Vessel (VIE)
+ VIE+UTC described as COMPR. B ANTISURGE/RECYCLE COOLER located at CLV/FPSOT/WAT/WDEOX/TO-ES-5322B,Pressure Vessel (VIE)
+ VIE described as WASH WATER HEATER located at CLV/FPSOT/OIL/STAB /TO-EP-2110,Pressure Vessel (VIE)
+ VIE described as MAIN LUBE OIL COOLER located at CLV/FPSOT/GAS/COMP /TO-EP-3140B-1A,Pressure Vessel (VIE)
+ VIE+NDT described as 1ST STAGE SEPARATOR located at CLV/FPSOT/OIL/SEP  /TO-VZ-2010,Pressure Vessel (VIE)
+ VIE+NDT described as 2ND STAGE SEPARATOR located at CLV/FPSOT/OIL/SEP  /TO-VZ-2020,Pressure Vessel (VIE)
+ VIE described as HP2 COMPRESSOR SUCTION SCRUBBER A located at CLV/FPSOT/GAS/COMP /TO-VZ-3140A,Pressure Vessel (VIE)
+ VIE+NDT described as HP FUEL GAS SCRUBBER located at CLV/FPSOT/COF/FG   /TO-VZ-7010,Pressure Vessel (VIE)
+ VIE described as HP1 COMPRESSOR SUCTION COOLER TRAIN B located at CLV/FPSOT/GAS/COMP /TO-ES-3130B,Pressure Vessel (VIE)
+ VIE+NDT described as HP2 COMPRESSOR RECYCLE COOLER A located at CLV/FPSOT/GAS/COMP /TO-ES-3190A,Pressure Vessel (VIE)
+ VIE+NDT described as HP2 COMPRESSOR RECYCLE COOLER B located at CLV/FPSOT/GAS/COMP /TO-ES-3190B,Pressure Vessel (VIE)
+ VIE described as HP1 COMPRESSOR SUCTION SCRUBBER TRAIN B located at CLV/FPSOT/GAS/COMP /TO-VZ-3130B,Pressure Vessel (VIE)
+ VIE described as HP2 COMPRESSOR SUCTION SCRUBBER B located at CLV/FPSOT/GAS/COMP /TO-VZ-3140B,Pressure Vessel (VIE)
+ VIE described as HP3 COMPRESSOR SUCTION SCRUBBER A located at CLV/FPSOT/GAS/COMP /TO-VZ-3150A,Pressure Vessel (VIE)
+ VIE described as HP3 COMPRESSOR SUCTION SCRUBBER B located at CLV/FPSOT/GAS/COMP /TO-VZ-3150B,Pressure Vessel (VIE)
+ VIE+NDT described as RICH TEG FLASH DRUM B located at CLV/FPSOT/GAS/DEHYD/TO-VZ-3020B,Pressure Vessel (VIE)
+ VIE+NDT described as HP FLARE DRUM located at CLV/FPSOT/GAS/FLARE/TO-VZ-3610,Pressure Vessel (VIE)
+ VIE described as HP1 COMPRESSOR SUCTION COOLER TRAIN A located at CLV/FPSOT/GAS/COMP /TO-ES-3130A,Pressure Vessel (VIE)
+ VIE+NDT described as TEG REFLUX CONDENSER located at CLV/FPSOT/GAS/DEHYD/TO-ES-3021A,Pressure Vessel (VIE)
+ VIE+NDT described as STRIPPING COLUMN located at CLV/FPSOT/GAS/DEHYD/TO-VC-3021A,Pressure Vessel (VIE)
+ VIE+NDT described as TEG STORAGE DRUM located at CLV/FPSOT/GAS/DEHYD/TO-VZ-3023A,Pressure Vessel (VIE)
+ VIE+NDT described as DEAD OIL HEATER located at CLV/FPSOT/OIL/STORE/TO-ES-2450,Pressure Vessel (VIE)
+ VIE+NDT described as FUEL GAS KO POT located at CLV/FPSOT/ELE/PWG  /TO-VZ-6022D,Pressure Vessel (VIE)
+ VIE+NDT described as LUBE OIL COOLER A located at CLV/FPSOT/WAT/WINJ /TO-EP-5421A1,Pressure Vessel (VIE)
+ VIE described as AIR RESERVOIR located at CLV/FPSOT/ELE/PWG  /TO-VA-7210B,Pressure Vessel (VIE)
+ VIE+NDT described as SRU CIP FILTER located at CLV/FPSOT/WAT/WDEOX/TO-VF-5340,Pressure Vessel (VIE)
+ VIE described as HOT WATER DUMP COOLER located at CLV/FPSOT/COF/HEATL/TO-EP-7210,Pressure Vessel (VIE)
+ VIE+NDT described as SUBSEA METHANOL INJECTION FILTER A located at CLV/FPSOT/COF/CHEM /TO-VF-7541A,Pressure Vessel (VIE)
+ VIE+NDT described as FUEL GAS KO POT located at CLV/FPSOT/ELE/PWG  /TO-VZ-6022C,Pressure Vessel (VIE)
+ VIE+NDT described as SUBSEA METHANOL INJECTION FILTER B located at CLV/FPSOT/COF/CHEM /TO-VF-7541B,Pressure Vessel (VIE)
+ VIE described as SYNTHETIC OIL VAPOUR SEPARATOR located at CLV/FPSOT/ELE/PWG  /TO-VF-6018D,Pressure Vessel (VIE)
+ VIE described as LP2 COMPRESSOR SUCTION SCRUBBER located at CLV/FPSOT/GAS/COMP /TO-VZ-3120,Pressure Vessel (VIE)
+ VIE described as SEAL GAS BOOSTER FILTER located at CLV/FPSOT/GAS/COMP /TO-VF-3110-4A,Pressure Vessel (VIE)
+ VIE+UTC described as HP2/HP3 COMPRESSOR A LUBE OIL DEMISTER located at CLV/FPSOT/GAS/COMP /TO-VZ-3140A-2,Pressure Vessel (VIE)
+ VIE described as LP1 COMPRESSOR SUCTION SCRUBBER located at CLV/FPSOT/GAS/COMP /TO-VZ-3110,Pressure Vessel (VIE)
+ VIE+NDT described as COOLING WATER EXPANSION DRUM located at CLV/FPSOT/COF/COOLW/TO-VZ-7610,Pressure Vessel (VIE)
+ VIE+NDT described as HOT WATER EXPANSION DRUM located at CLV/FPSOT/COF/HEATL/TO-VZ-7210,Pressure Vessel (VIE)
+ VIE+NDT described as TEG REFLUX CONDENSER located at CLV/FPSOT/GAS/DEHYD/TO-ES-3021B,Pressure Vessel (VIE)
+ VIE+NDT described as STILL COLUMN located at CLV/FPSOT/GAS/DEHYD/TO-VC-3020B,Pressure Vessel (VIE)
+ VIE+NDT described as GLYCOL REBOILER B located at CLV/FPSOT/GAS/DEHYD/TO-VZ-3021B,Pressure Vessel (VIE)
+ VIE+NDT described as TEG STORAGE DRUM located at CLV/FPSOT/GAS/DEHYD/TO-VZ-3023B,Pressure Vessel (VIE)
+ VIE+NDT described as TEG DRAIN TANK located at CLV/FPSOT/GAS/DEHYD/TO-VZ-3024B,Pressure Vessel (VIE)
+ VIE+NDT described as CLOSED DRAIN DRUM located at CLV/FPSOT/OIL/DRAIN/TO-VZ-2810,Pressure Vessel (VIE)
+ VIE+NDT described as TEG SURGE DRUM located at CLV/FPSOT/GAS/DEHYD/TO-VZ-3022A,Pressure Vessel (VIE)
+ VIE described as PRESSURE SURGE VESSEL located at CLV/FPSOT/OIL/LOAD /TO-VZ-2510,Pressure Vessel (VIE)
+ VIE described as STANDBY LUBE OIL COOLER located at CLV/FPSOT/GAS/COMP /TO-EP-3130A-1B,Pressure Vessel (VIE)
+ VIE described as MAIN LUBE OIL COOLER located at CLV/FPSOT/GAS/COMP /TO-EP-3130B-1A,Pressure Vessel (VIE)
+ VII described as PRODUCED WATER CYCLONIC DESANDER A located at CLV/FPSOT/OIL/OWAT /TO-UF-2720A,Pressure Vessel (VII)
+ VII described as PRODUCED WATER CYCLONIC DESANDER B located at CLV/FPSOT/OIL/OWAT /TO-UF-2720B,Pressure Vessel (VII)
+ VII described as FUEL GAS HEATER located at CLV/FPSOT/COF/FG   /TO-ES-7010,Pressure Vessel (VII)
+ VII described as CRUDE OIL HEATER/COOLER A located at CLV/FPSOT/OIL/SEP  /TO-ES-2010A,Pressure Vessel (VII)
+ VII described as CRUDE OIL HEATER/COOLER B located at CLV/FPSOT/OIL/SEP  /TO-ES-2010B,Pressure Vessel (VII)
+ VII described as CRUDE OIL HEATER/COOLER C located at CLV/FPSOT/OIL/SEP  /TO-ES-2010C,Pressure Vessel (VII)
+ External inspection-Opportuntiy Intrusiv described as AIR PURGING SYSTEM MAIN FILTER located at CLV/FPSOT/GAS/COMP /TO-VF-3110-2A,Pressure Vessel (VII)
+ External inspection-Opportuntiy Intrusiv described as N2 STAND-BY FILTER located at CLV/FPSOT/GAS/COMP /TO-VF-3110-3B,Pressure Vessel (VII)
+ Replace/SCrap described as STBY COOLER OUTLET TEMP. SAFETY VALVE D2 located at CLV/FPSOT/ELE/PWG  /TO-TSV-60168D2,Pressure Safety Device
+ Replace/SCrap described as MAIN COOLER OUTLET TEMP. SAFETY VALVE C1 located at CLV/FPSOT/ELE/PWG  /TO-TSV-60168C1,Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as MAIN COOLER OUTLET TEMP. SAFETY VALVE B1 located at CLV/FPSOT/ELE/PWG  /TO-TSV-60168B1",Pressure Safety Device
+ Replace/SCrap described as STBY COOLER OUTLET TEMP. SAFETY VALVE B2 located at CLV/FPSOT/ELE/PWG  /TO-TSV-60168B2,Pressure Safety Device
+ CLOV/PSV Replacement described as CIRCUIT 1 ECONOMIZER HP PRE-SAFETY VALVE located at CLV/FPSOH/CRS/HVAC /HU-PSV-092613,Pressure Safety Device
+ CLOV/PSV Replacement described as CIRCUIT 1 ECONOMIZER LP PRE-SAFETY VALVE located at CLV/FPSOH/CRS/HVAC /HU-PSV-092614,Pressure Safety Device
+ CLOV/PSV Replacement described as CIRCUIT 2 ECONOMIZER LP PRE-SAFETY VALVE located at CLV/FPSOH/CRS/HVAC /HU-PSV-092623,Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as STBY COOLER OUTLET TEMP. SAFETY VALVE C2 located at CLV/FPSOT/ELE/PWG  /TO-TSV-60168C2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as MAIN COOLER OUTLET TEMP. SAFETY VALVE A1 located at CLV/FPSOT/ELE/PWG  /TO-TSV-60168A1",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as STBY COOLER OUTLET TEMP. SAFETY VALVE A2 located at CLV/FPSOT/ELE/PWG  /TO-TSV-60168A2",Pressure Safety Device
+ Replace/SCrap described as AIR RESERVOIR PRESSURE SAFETY VALVE located at CLV/FPSOT/ELE/PWG  /TO-PSV-72154B,Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as SW EXCHANGER A THERMAL SAFETY VALVE located at CLV/FPSOH/COF/COOLW/HU-TSV-50319A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as AUX. L.O. PUMP OUTLET PRESS. SAFE. VALVE located at CLV/FPSOT/WAT/WINJ /TO-PSV-54253A",Pressure Safety Device
+ CLOV/PSV Replacement described as CIRCUIT 2 ECONOMIZER HP PRE-SAFETY VALVE located at CLV/FPSOH/CRS/HVAC /HU-PSV-092632,Pressure Safety Device
+ CLOV/PSV Replacement described as CIRCUIT 1 ECONOMIZER HP PRE-SAFETY VALVE located at CLV/FPSOH/CRS/HVAC /HU-PSV-092633,Pressure Safety Device
+ CLOV/PSV Replacement described as CIRCUIT 1 ECONOMIZER LP PRE-SAFETY VALVE located at CLV/FPSOH/CRS/HVAC /HU-PSV-092634,Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TO-VB-2450A1 OUTLET PRESS SAFE VALVE A1 located at CLV/FPSOT/EXT/TRANS/TO-PSV-24551A1",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TO-VB-2450A2 OUTLET PRESS SAFE VALVE A2 located at CLV/FPSOT/EXT/TRANS/TO-PSV-24551A2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TO-VB-2450B1A OUTLET PRESS SAFE VALVE B1 located at CLV/FPSOT/EXT/TRANS/TO-PSV-24551B1",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HP1 COMP. B PRESS. SAFETY VALVE B1 located at CLV/FPSOT/GAS/COMP /TO-PSV-31318B1",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HU-TR-2403 PRESSURE VACUUM SAFETY VALVE located at CLV/FPSOH/OIL/STORE/HU-PVSV-24011C",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HW EXPANSION DRUM PRESS. SAFETY VALVE B located at CLV/FPSOT/COF/HEATL/TO-PSV-72104B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as FEED PUMP B PRESSURE SAFETY VALVE located at CLV/FPSOH/COF/FO   /HU-PSV-71714B",Pressure Safety Device
+ Replace/SCrap described as HP3 SUCT. COOLER B PRESS. SAF. VALVE B1 located at CLV/FPSOT/GAS/COMP /TO-PSV-31422B1,Pressure Safety Device
+ CLOV/PSV Replacement described as EVAPORATOR B CIRCUIT 2 PRE-SAFETY VALVE located at CLV/FPSOH/CRS/HVAC /HU-PSV-092639,Pressure Safety Device
+ CLOV/PSV Replacement described as EVAPORATOR B CIRCUIT 2 PRE-SAFETY VALVE located at CLV/FPSOH/CRS/HVAC /HU-PSV-092640,Pressure Safety Device
+ CLOV/PSV Replacement described as EVAPORATOR B CIRCUIT 2 PRE-SAFETY VALVE located at CLV/FPSOH/CRS/HVAC /HU-PSV-092641,Pressure Safety Device
+ CLOV/PSV Replacement described as CIRCUIT 2 ECONOMIZER LP PRE-SAFETY VALVE located at CLV/FPSOH/CRS/HVAC /HU-PSV-092643,Pressure Safety Device
+ CLOV/PSV Replacement described as CIRCUIT 2 ECONOMIZER HP PRE-SAFETY VALVE located at CLV/FPSOH/CRS/HVAC /HU-PSV-092644,Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as LEAN TEG COOLER OUTLET THERM. SAF. VALVE located at CLV/FPSOT/GAS/DEHYD/TO-TSV-30253B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as STARTING AIR RECEIVER A PSV located at CLV/FPSOH/CRS/EPWG /HU-PSV-05611A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HU-TR-2406 PRESSURE VACUUM SAFETY VALVE located at CLV/FPSOH/OIL/STORE/HU-PVSV-24011E",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TO-EP-2110 OUTLET PRESS. SAFETY VALVE A located at CLV/FPSOT/OIL/STAB /TO-PSV-21102A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as CW EXPANSION DRUM PRESSURE SAFETY VALVE located at CLV/FPSOH/COF/COOLW/HU-PSV-76308",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as FEED PUMP A PRESSURE SAFETY VALVE located at CLV/FPSOH/COF/FO   /HU-PSV-71714A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as METHANOL STORAGE DRUM PSV A located at CLV/FPSOT/COF/CHEM /TO-PSV-75304A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HULL FILTER A OUTLET PRESS. SAFE. VALVE located at CLV/FPSOH/COF/FO   /HU-PSV-71316A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as FUEL GAS FILTER A PRESSURE SAFETY VALVE located at CLV/FPSOT/COF/FG   /TO-PSV-70116A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HP1 LUBE OIL PRESSURE SAFETY VALVE located at CLV/FPSOT/GAS/COMP /TO-PSV-31353BA",Pressure Safety Device
+ Replace/Scrap described as DEAD OIL HEATER FIRE PRESS. SAF. VLV A located at CLV/FPSOT/OIL/STORE/TO-PSV-24503A,Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as SW THERMAL SAFETY VALVE FOR EP-7620A1A located at CLV/FPSOH/CRS/EPWG /HU-TSV-50440A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as MAIN PUMP MOTOR PRESS SAFETY VALVE located at CLV/FPSOT/GAS/COMP /TO-PSV-31153A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as BLACK WATER PUMP A2 PRESS. SAFETY VALVE located at CLV/FPSOH/HSG/ACCOM/HU-PSV-82912A2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HU-TR-2750B PRESSURE VACUUM SAFETY VALVE located at CLV/FPSOH/OIL/OWAT /HU-PVSV-28851B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as SW CHLORINATION PACK. PRESS SAFETY VALVE located at CLV/FPSOT/WAT/ELCL /TO-PSV-52101A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as SW/CW EXCHANGER A THERMAL SAFETY VALVE located at CLV/FPSOT/COF/COOLW/TO-TSV-76121A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HU-TR-7550A PRESSURE VACUUM SAFETY VALVE located at CLV/FPSOH/COF/CHEM /HU-PVSV-75111A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HP2 COMP. SCRUBBER A PRESS. SAF. VLV A2 located at CLV/FPSOT/GAS/COMP /TO-PSV-31406A2",Pressure Safety Device
+ PSV-Replace/Scrap described as DIE. OIL PUMP A OUTLET PRESS. SAF. VALVE located at CLV/FPSOT/COF/INERT/TO-PSV-74260A,Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as L.O. MAIN PUMP OUTLET  PRESS SAFE VALVE located at CLV/FPSOT/ELE/PWG  /TO-PSV-60170C1",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as DIESEL FILTER A OUTLET PRESS. SAF. VALVE located at CLV/FPSOH/COF/FO   /HU-PSV-71510A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as LP1 COMP. SCRUBBER PRESS. SAF. VLV A located at CLV/FPSOT/GAS/COMP /TO-PSV-31104A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as ANTI-FOAM TANK PRESS. VACUUM SAFE. VALVE located at CLV/FPSOT/COF/CHEM /TO-PVSV-75159",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as GLYCOL CONT. A PRESS. SAFETY VALVE A1 located at CLV/FPSOT/GAS/DEHYD/TO-PSV-30110A1",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TO-TC-5010 INLET PRESSURE SAFETY VALVE A located at CLV/FPSOT/WAT/WATLF/TO-PSV-54104A",Pressure Safety Device
+ CLOV/PSV Replacement described as CIRCUIT 1 ECONOMIZER LP PRE-SAFETY VALVE located at CLV/FPSOH/CRS/HVAC /HU-PSV-092666,Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TEG MAKE-UP FILT. INLET PRESS SAFE VALVE located at CLV/FPSOT/GAS/DEHYD/TO-PSV-30265B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HYDROCYCLONE B OUTLET PRESS. SAFE. VALVE located at CLV/FPSOT/OIL/OWAT /TO-PSV-27155B",Pressure Safety Device
+ Overhaul described as FILTER COAL. OUTLET THERMAL SAFETY VALVE located at CLV/FPSOH/HSG/HELID/HU-TSV-81154,Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as SW COARSE FILTER A THERMAL SAFETY VALVE located at CLV/FPSOT/WAT/WFLT /TO-TSV-51153A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HULL FILTER B OUTLET PRESS. SAFE. VALVE located at CLV/FPSOH/COF/FO   /HU-PSV-71316B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as BUFFER VESSEL 1 PRESSURE SAFETY VALVE located at CLV/FPSOT/GAS/FLARE/TO-PSV-36154A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as DIESEL FILTER B OUTLET PRESS. SAF. VALVE located at CLV/FPSOH/COF/FO   /HU-PSV-71510B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as SW THERMAL SAFETY VALVE FOR EP-7620A1B located at CLV/FPSOH/CRS/EPWG /HU-TSV-50440B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as METHANOL STORAGE DRUM PSV B located at CLV/FPSOT/COF/CHEM /TO-PSV-75304B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as DEAD OIL HEATER FIRE PRESS. SAF. VLV B located at CLV/FPSOT/OIL/STORE/TO-PSV-24503B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as BLACK WATER PUMP A1 PRESS. SAFETY VALVE located at CLV/FPSOH/HSG/ACCOM/HU-PSV-82912A1",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HU-TR-2407 PRESSURE VACUUM SAFETY VALVE located at CLV/FPSOH/OIL/STORE/HU-PVSV-24011F",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HU-TR-2416 PRESSURE VACUUM SAFETY VALVE located at CLV/FPSOH/OIL/STORE/HU-PVSV-24011L",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as DIESEL FILT. B OUTLET PRESS. SAFE. VALVE located at CLV/FPSOH/COF/FO   /HU-PSV-71104B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as BLADDER TANK PRESSURE SAFETY VALVE located at CLV/FPSOH/CRS/FWAT /HU-PSV-01871",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as PROD. LINE TO FLARE PRESS. SAF. VLV B located at CLV/FPSOT/EXT/EWELL/TO-PSV-10318B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as DIESEL TRANS. PUMP A OUTLET P.S. VALVE located at CLV/FPSOH/COF/FO   /HU-PSV-71117A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as FUEL GAS FILTER B PRESSURE SAFETY VALVE located at CLV/FPSOT/COF/FG   /TO-PSV-70116B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as DIESEL TRANS. PUMP B OUTLET P.S. VALVE located at CLV/FPSOH/COF/FO   /HU-PSV-71117B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as SW HEAT EXCHANGER PRESSURE SAFETY VALVE located at CLV/FPSOH/CRS/EPWG /HU-PSV-50312",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as ESS CW UNIT A PRESSURE-SAFETY VALVE located at CLV/FPSOH/CRS/HVAC /HU-PSV-092606",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as CALORIFIER B PRESSURE SAFETY VALVE located at CLV/FPSOH/HSG/UPWAT/HU-PSV-85564B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as PUMP A OUTLET PRESSURE SAFETY VALVE located at CLV/FPSOT/OIL/DRAIN/TO-PSV-28108A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as FUEL GAS HEATER PRESSURE SAFETY VALVE B located at CLV/FPSOT/COF/FG   /TO-PSV-70111B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as EL. MOTOR COOLER TEMP. SAFETY VALVE located at CLV/FPSOT/GAS/COMP /TO-TSV-31368B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as 2ND STG SEP. PRESSURE SAFETY VALVE A located at CLV/FPSOT/OIL/SEP  /TO-PSV-20208A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TO-TC-5010 INLET PRESSURE SAFETY VALVE located at CLV/FPSOT/WAT/WATLF/TO-PSV-54212A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as AERATION BLOWER A2 PRESSURE SAFETY VALVE located at CLV/FPSOH/HSG/ACCOM/HU-PSV-82911A2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as STANDBY LUBE OIL COOLER THERMAL SAF. VLV located at CLV/FPSOT/GAS/COMP /TO-TSV-31159",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as SW HEAT EXCHANGER PRESSURE SAFETY VALVE located at CLV/FPSOH/CRS/EPWG /HU-PSV-50310",Pressure Safety Device
+ CLV/TO-PSV-70107A-Overhaul described as HP FUEL GAS SCRUBBER PRESS. SAF. VALVE A located at CLV/FPSOT/COF/FG   /TO-PSV-70107A,Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HW EXPANSION DRUM PRESS. SAFETY VALVE A located at CLV/FPSOT/COF/HEATL/TO-PSV-72104A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as LOADING DIESEL FILTER PRESS. SAFE. VALVE located at CLV/FPSOH/COF/FO   /HU-PSV-71108",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as ACID PUMP B OUTLET PRESS. SAFE. VALVE located at CLV/FPSOT/COF/CHEM /TO-PSV-75198B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as LP1 COMP. PRESSURE SAFETY VALVE B located at CLV/FPSOT/GAS/COMP /TO-PSV-31118B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as FUEL GAS FILTERS PRESSURE SAFETY VALVE located at CLV/FPSOT/COF/FG   /TO-PSV-70119A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as WATER TANK PRESSURE SAFETY VALVE located at CLV/FPSOH/CRS/FWAT /HU-PSV-01754C",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TO LOADING MANIFOLD PRESS. SAF. VLV A located at CLV/FPSOT/EXT/TRANS/TO-PSV-24513A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as STARTING AIR RECEIVER B PSV located at CLV/FPSOH/CRS/EPWG /HU-PSV-05611B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as SW THERMAL SAFETY VALVE FOR EP-7620B1B located at CLV/FPSOH/CRS/EPWG /HU-TSV-50362B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TO HP FLARE PRESSURE SAFETY VALVE located at CLV/FPSOT/ELE/PWG  /TO-PSV-60158D",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as LP2 COMP. SCRUBBER PRESS. SAF. VLV A located at CLV/FPSOT/GAS/COMP /TO-PSV-31204A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as NES CW UNIT B PRE-SAFETY VALVE located at CLV/FPSOH/CRS/HVAC /HU-PSV-092604",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TANK OUTLET PRESS. VACUUM SAFE. VALVE located at CLV/FPSOT/COF/CHEM /TO-PVSV-75280B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as PRESSURE SURGE VESSEL PRESS. SAF. VALVE located at CLV/FPSOT/OIL/LOAD /TO-PSV-25106",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as DEAD OIL HTR TUBE RUPT. PRESS. SAF. VLV located at CLV/FPSOT/OIL/STORE/TO-PSV-24505",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as CW EXPANSION DRUM PRESS. SAFETY VALVE A located at CLV/FPSOT/COF/COOLW/TO-PSV-76130A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as LP2 COMP. PRESSURE SAFETY VALVE A located at CLV/FPSOT/GAS/COMP /TO-PSV-31218A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TO-P_-5410ABC OUTLET PSV A2 located at CLV/FPSOT/WAT/WINJ /TO-PSV-54207A2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as DRAIN PUMP PRESSURE SAFETY VALVE located at CLV/FPSOT/OIL/DRAIN/TO-PSV-28053A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as SW HEAT EXCHANGER PRESSURE SAFETY VALVE located at CLV/FPSOH/CRS/EPWG /HU-PSV-50314",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as ANTIFOAM TK OUTLET PRESS VAC. SAFE VALVE located at CLV/FPSOT/COF/CHEM /TO-PVSV-75294",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as PROD. MANIF. TO FLARE PRESS. SAF. VLV A located at CLV/FPSOT/EXT/EWELL/TO-PSV-10119A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as LP2 COMP. SCRUBBER PRESS. SAF. VLV B located at CLV/FPSOT/GAS/COMP /TO-PSV-31204B",Pressure Safety Device
+ Replace/SCrap described as UTILITY MEOH PUMP OUTLET PRS SAF. VLV A located at CLV/FPSOT/COF/CHEM /TO-PSV-75306A,Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as CRUDE OIL MANI OUTLET PRESS SAFETY VALVE located at CLV/FPSOT/EXT/TRANS/TO-PSV-23504A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HP3 PRESSURE SAFETY VALVE B2 located at CLV/FPSOT/GAS/COMP /TO-PSV-31518B2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as L.O. STBY PUMP OUTLET PRESS SAFETY VALVE located at CLV/FPSOT/ELE/PWG  /TO-PSV-60170A2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HP3 PRESSURE SAFETY VALVE B1 located at CLV/FPSOT/GAS/COMP /TO-PSV-31518B1",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HU-TR-7550B PRESSURE VACUUM SAFETY VALVE located at CLV/FPSOH/COF/CHEM /HU-PVSV-75111B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as STBY COOLER OUTLET TEMP. SAFE. VALVE D2 located at CLV/FPSOT/ELE/PWG  /TO-TSV-60177D2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as DOWNSTREAM PCV PRESSURE SAFETY VALVE located at CLV/FPSOH/CRS/FWAT /HU-PSV-01753C",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as DOWNSTREAM PCV PRESSURE SAFETY VALVE located at CLV/FPSOH/CRS/FWAT /HU-PSV-01753D",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as ESDG EXPANSION DRUM A PSV located at CLV/FPSOH/COF/COOLW/HU-PSV-76408",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as SW EXCHANGER B THERMAL SAFETY VALVE located at CLV/FPSOH/COF/COOLW/HU-TSV-50319B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as FEED PUMP B PRESSURE SAFETY VALVE located at CLV/FPSOH/CRS/EPWG /HU-PSV-05501B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HU-TR-2140A PRESSURE VACUUM SAFETY VALVE located at CLV/FPSOH/OIL/STAB /HU-PVSV-21301A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as LP1 COMP. SCRUBBER PRESS. SAF. VLV B located at CLV/FPSOT/GAS/COMP /TO-PSV-31104B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as WATER TANK PRESSURE SAFETY VALVE located at CLV/FPSOH/CRS/FWAT /HU-PSV-01754A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TO-P_-7530 OUTLET PRESS. SAFETY VALVE A located at CLV/FPSOT/COF/CHEM /TO-PSV-75309A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as GREY WATER DISCHARGE PUMP C2 PSV located at CLV/FPSOH/HSG/ACCOM/HU-PSV-82912C2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as ESDG EXPANSION DRUM B PSV located at CLV/FPSOH/COF/COOLW/HU-PSV-76413",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as F.W. PUMP PACK D OUTLET PRESS SAFE VALVE located at CLV/FPSOH/CRS/FWAT /HU-PSV-01751D",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as FUEL GAS FILTERS PRESSURE SAFETY VALVE located at CLV/FPSOT/COF/FG   /TO-PSV-70119B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as ESDG EXPANSION DRUM C PSV located at CLV/FPSOH/COF/COOLW/HU-PSV-76418",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as DEAD OIL HEATER BKFLOW PRESS. SAF. VLV B located at CLV/FPSOT/OIL/STORE/TO-PSV-24504B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as DESICCANT VESSEL 2 PRESSURE SAFETY VALVE located at CLV/FPSOT/CRS/AIR  /TO-PSV-07253A2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HP1 COMP. A PRESS. SAFETY VALVE A2 located at CLV/FPSOT/GAS/COMP /TO-PSV-31318A2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as WATER TANK PRESSURE SAFETY VALVE located at CLV/FPSOH/CRS/FWAT /HU-PSV-01754B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as WATER TANK PRESSURE SAFETY VALVE located at CLV/FPSOH/CRS/FWAT /HU-PSV-01754D",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as CYCL. DESAND. B OUTLET PRESS. SAF. VALVE located at CLV/FPSOT/OIL/OWAT /TO-PSV-27252B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TO-P_-7530 OUTLET PRESS. SAFETY VALVE B located at CLV/FPSOT/COF/CHEM /TO-PSV-75309B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as P.W. BOOSTER PUMP C PRESSURE SAFETY VLV located at CLV/FPSOT/OIL/OWAT /TO-PSV-27106C",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as DESICCANT VESSEL 1 PRESSURE SAFETY VALVE located at CLV/FPSOT/CRS/AIR  /TO-PSV-07253B1",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as METHANOL INJECT. FILTER PRESS SFTY VALVE located at CLV/FPSOT/COF/CHEM /TO-PSV-75412A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as LP FLARE HEADER INLET PRESS. SAFE. VALVE located at CLV/FPSOT/GAS/DEHYD/TO-PSV-30233A2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as CYCL. DESAND. A OUTLET PRESS. SAF. VALVE located at CLV/FPSOT/OIL/OWAT /TO-PSV-27252A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as SW THERMAL SAFETY VALVE FOR EP-7620B1A located at CLV/FPSOH/CRS/EPWG /HU-TSV-50362A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as AERATION BLOWER B2 PRESSURE SAFETY VALVE located at CLV/FPSOH/HSG/ACCOM/HU-PSV-82911B2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as BLACK WATER PUMP B2 PRESS. SAFETY VALVE located at CLV/FPSOH/HSG/ACCOM/HU-PSV-82912B2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as GAS METH. FILTER OUTLET PRESS SAFE VALVE located at CLV/FPSOT/COF/CHEM /TO-PSV-75416",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TANK OUTLET PRESS. VACUUM SAFE. VALVE located at CLV/FPSOT/COF/CHEM /TO-PVSV-75280A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TO-VF-7610 OUTLET PRESSURE SAFETY VALVE located at CLV/FPSOT/COF/COOLW/TO-PSV-76116",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as FUEL GAS HEATER PRESSURE SAFETY VALVE A located at CLV/FPSOT/COF/FG   /TO-PSV-70111A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TEG DRAIN TANK PRESSURE SAFETY VALVE located at CLV/FPSOT/GAS/DEHYD/TO-PSV-30270B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TEG DRAIN TANK PRESSURE SAFETY VALVE located at CLV/FPSOT/GAS/DEHYD/TO-PSV-30270A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as DESICCANT VESSEL 2 PRESSURE SAFETY VALVE located at CLV/FPSOT/CRS/AIR  /TO-PSV-07253B2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as LP FLARE HEADER INLET PRESS. SAFE. VALVE located at CLV/FPSOT/GAS/DEHYD/TO-PSV-30233A1",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as LP FLARE HEADER INLET PRESS. SAFE. VALVE located at CLV/FPSOT/GAS/DEHYD/TO-PSV-30233B1",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TO-P_-5410ABC OUTLET PSV B1 located at CLV/FPSOT/WAT/WINJ /TO-PSV-54207B1",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as LP FLARE HEADER INLET PRESS. SAFE. VALVE located at CLV/FPSOT/GAS/DEHYD/TO-PSV-30233B2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as LP2 COMP. PRESSURE SAFETY VALVE B located at CLV/FPSOT/GAS/COMP /TO-PSV-31218B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as F.W. PUMP PACK A OUTLET PRESS SAFE VALVE located at CLV/FPSOH/CRS/FWAT /HU-PSV-01751A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as P.W. BOOSTER PUMP A PRESSURE SAFETY VLV located at CLV/FPSOT/OIL/OWAT /TO-PSV-27106A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HYDROCYCLONE A OUTLET PRESS. SAFE. VALVE located at CLV/FPSOT/OIL/OWAT /TO-PSV-27155A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as MAKE-UP FILTER INLET PRESS SAFE VALVE located at CLV/FPSOT/GAS/DEHYD/TO-PSV-30265A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as F.W. PUMP PACK C OUTLET PRESS SAFE VALVE located at CLV/FPSOH/CRS/FWAT /HU-PSV-01751C",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TEST MANIF. TO FLARE PRESS. SAF. VLV B located at CLV/FPSOT/EXT/EWELL/TO-PSV-10120B",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as PRESSURE SAFETY VALVE located at CLV/FPSOT/EXT/EWELL/TO-PSV-10312",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as SAND ACCUMULATOR PRESS. SAFETY VALVE located at CLV/FPSOT/OIL/OWAT /TO-PSV-27359",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as DEAD OIL HEATER BKFLOW PRESS. SAF. VLV A located at CLV/FPSOT/OIL/STORE/TO-PSV-24504A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as MAIN LUBE OIL COOLER THERMAL SAF. VLV located at CLV/FPSOT/GAS/COMP /TO-TSV-31358A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HP1 LUBE OIL PRESSURE SAFETY VALVE located at CLV/FPSOT/GAS/COMP /TO-PSV-31353BB",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as MAIN L.O. PUMP OUTLET PRESS. SAFE. VALVE located at CLV/FPSOT/WAT/WINJ /TO-PSV-54254A",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HP3 COMP. SCRUBBER A PRESS. SAF. VLV A1 located at CLV/FPSOT/GAS/COMP /TO-PSV-31503A1",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HP3 COMP. A PRESS. SAFETY VALVE A2 located at CLV/FPSOT/GAS/COMP /TO-PSV-31518A2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as PRESSURE SAFETY VALVE located at CLV/FPSOT/GAS/DEHYD/TO-PSV-30104B2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as TO-P_-5420A OUTLET PRESS SAFETY VALVE A1 located at CLV/FPSOT/WAT/WINJ /TO-PSV-54206A1",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as HP3 COMP. SCRUBBER A PRESS. SAF. VLV A2 located at CLV/FPSOT/GAS/COMP /TO-PSV-31503A2",Pressure Safety Device
+" Pre-Pop test, overhaul & recalibration described as PRESSURE SURGE VESSEL FLOW RELIEF VALVE located at CLV/FPSOT/OIL/LOAD /TO-PSV-25107",Pressure Safety Device
+ Overhaul described as Overhaul located at CLV/FPSOT/WAT/WDEOX/TO-PSV-53265,Pressure Safety Device
+ CLV/FPSOT/JA7830A - 6 MO Inspection described as PEDESTAL CRANE located at CLV/FPSOT/COF/LIFT /TO-JA-7830A,Lifting
+ BUOY COMPART_INTRUSIVE described as BUOY COMPARTMENT located at CLV/BUOY /HSG/STRUC/COMP C1,FU Items
+ BUOY COMPART_INTRUSIVE described as BUOY COMPARTMENT located at CLV/BUOY /HSG/STRUC/COMP C10,FU Items
+ BUOY COMPART_INTRUSIVE described as BUOY COMPARTMENT located at CLV/BUOY /HSG/STRUC/COMP C9,FU Items
+ BUOY SURGE TANK_INTRUSIVE described as TURNTABLE SURGE TANK located at CLV/BUOY /OIL/LOAD /OB-VZ-2541,FU Items
+ PROD-RING-P20 - Int Pigging / 60M described as PRODUCTION RING located at CLV/SUB/EXT/EWELL/PROD-RING-P20,Intelligent Pigging
+ 12 Monthly Inspection Of Coupon CLOV described as CORROSION COUPONS located at CLV/FPSOT/COF/CORR /TO-CORR_MONIT_CC,Corrosion Monitoring
+" CLV/TO-V-35699 FLAME ARRESTOR described as FLAME ARRESTOR, VENT MEOH_S, HU-TR-7550B located at CLV/FPSOH/COF/CHEM /TO-V-35699",Flame Arrestor
+" CLV/TO-V-35697 FLAME ARRESTOR described as FLAME ARRESTOR, VENT COT_3C, HU-TR-2403 located at CLV/FPSOH/OIL/STORE/TO-V-35697",Flame Arrestor
+" Major Intrus. insp_TO-FA-36103FL.ARRAST described as FLAME ARRESTOR, VENT, 4-VE-TO-36103-B49 located at CLV/FPSOT/GAS/FLARE/TO-FA-36103",Flame Arrestor
+" MajorIntrus.insp_CLV/TO-FA-36104-FL.ARRE described as FLAME ARRESTOR, VENT, 2-VE-TO-36104-B49 located at CLV/FPSOT/GAS/FLARE/TO-FA-36104",Flame Arrestor
+" Major Intrus.insp_CLV/TO-FA-36105-FL.ARR described as FLAME ARRESTOR, VENT, 2-VE-TO-36105-B49 located at CLV/FPSOT/GAS/FLARE/TO-FA-36105",Flame Arrestor
+" CLV/TO-V-35685 FLAME ARRESTOR described as FLAME ARRESTOR, VENT COT_7C, HU-TR-2407 located at CLV/FPSOH/OIL/STORE/TO-V-35685",Flame Arrestor
+ Major Intrus.insp_TO-FA-30308 FL.ARRAST described as SYNTH. OIL VAP. SEP. FLAME ARRESTOR located at CLV/FPSOT/ELE/PWG  /TO-FA-30308,Flame Arrestor
+ HU-TR-8625 FU/TEPA GVI Intermed. insp. described as AFT STARBOARD BUFFER TANK located at CLV/FPSOH/HSG/STRUC/HU-TR-8625,FU Items
+ BV tasks & intrusive major inspection described as AFT PORT BUFFER TANK located at CLV/FPSOH/HSG/STRUC/HU-TR-8624,FU Items
+ BV tasks & intrusive major inspection described as NO2 STBD CARGO TANK located at CLV/FPSOH/OIL/STORE/HU-TR-2422,FU Items
+ UTC + VIE described as Hydrocarbon gas piping group located at CLV/FPSOT/GAS/FLARE/IPN-_HG-TO36-74-B03,Piping
+ Overhaul described as HU-TR-2421 PRESSURE VACUUM SAFETY VALVE located at CLV/FPSOH/OIL/STORE/HU-PVSV-24011N,Pressure Safety Device
+ CLASS PSV-Overhaul described as HU-TR-2411 PRESSURE VACUUM SAFETY VALVE located at CLV/FPSOH/OIL/STORE/HU-PVSV-24011G,Pressure Safety Device
+ CLASS PSV-Overhaul described as HU-TR-2422 PRESSURE VACUUM SAFETY VALVE located at CLV/FPSOH/OIL/STORE/HU-PVSV-24011P,Pressure Safety Device
+ CLASS PSV-Overhaul described as HU-TR-7525A PRESSURE VACUUM SAFETY VALVE located at CLV/FPSOH/COF/CHEM /HU-PVSV-75211A,Pressure Safety Device
+ CLASS PSV-Overhaul described as HU-TR-2405 PRESSURE VACUUM SAFETY VALVE located at CLV/FPSOH/OIL/STORE/HU-PVSV-24011D,Pressure Safety Device
+ CLASS PSV-Overhaul described as HU-TR-7525B PRESSURE VACUUM SAFETY VALVE located at CLV/FPSOH/COF/CHEM /HU-PVSV-75211B,Pressure Safety Device
+ VII described as SANDJET WATER CYCLONIC DESANDER located at CLV/FPSOT/OIL/OWAT /TO-UF-2730,Pressure Vessel (VII)
+ BV tasks & intrusive major inspection described as AFT PORT BALLAST WATER TANK located at CLV/FPSOH/HSG/STRUC/HU-TR-8621,FU Items
+ BV tasks & intrusive major inspection described as STARBOARD WING BALLAST BUFFER TANK F1 located at CLV/FPSOH/HSG/STRUC/HU-TR-8632F1,FU Items
+ BV tasks & intrusive major inspection described as PORT WING BALLAST BUFFER TANK D located at CLV/FPSOH/HSG/STRUC/HU-TR-8631D,FU Items
+ HU-TR-8632D FU/TEPA GVI Intermed. insp. described as STARBOARD WING BALLAST BUFFER TANK D located at CLV/FPSOH/HSG/STRUC/HU-TR-8632D,FU Items
+ HU-TR-8632A2 FU/TEPA GVI Intermed. insp. described as STARBOARD WING BALLAST BUFFER TANK A2 located at CLV/FPSOH/HSG/STRUC/HU-TR-8632A2,FU Items
+ HU-TR-8632E FU/TEPA GVI Intermed. insp. described as STARBOARD WING BALLAST BUFFER TANK E located at CLV/FPSOH/HSG/STRUC/HU-TR-8632E,FU Items
+ CLV/BUOY/OB-JZ-8660A_Tanker Side described as BUOY MOORING  ASSEMBLY located at CLV/BUOY /HSG/STRUC/OB-JZ-8660A,FU Items
+ CLV/BUOY/OB-JZ-8660A_Buoy Side described as BUOY MOORING  ASSEMBLY located at CLV/BUOY /HSG/STRUC/OB-JZ-8660A,FU Items
+ HU-TR-2140A FU/TEPA GVI Intermed. insp. described as PORT CONTINUOUS SETTLING TANK located at CLV/FPSOH/OIL/STAB /HU-TR-2140A,FU Items
+ CVI described as EsD ENGINE C START SYSTEM FLAME ARRESTOR located at CLV/FPSOH/CRS/EPWG /HU-FA-0509C,Flame Arrestor
+" CVI described as FLAME ARRESTOR, VENT WTB_S, HU-TR-2120B located at CLV/FPSOH/OIL/STAB /TO-V-35703",Flame Arrestor
+" CVI described as FLAME ARRESTOR, VENT COT_1P, HU-TR-2411 located at CLV/FPSOH/OIL/STORE/TO-V-35696",Flame Arrestor
+ VII + UTC described as HP2/HP3 COMPRESSOR A LUBE OIL DEMISTER located at CLV/FPSOT/GAS/COMP /TO-VZ-3140A-2,Pressure Vessel (VII)
+ BV tasks & intrusive major inspection described as NO6 PORT CARGO TANK located at CLV/FPSOH/OIL/STORE/HU-TR-2416,FU Items
