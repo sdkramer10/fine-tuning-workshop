@@ -1,0 +1,9 @@
+conversation: {}
+
+# The Hugging Face model name of the base model.
+base_model: meta-llama/Meta-Llama-3-8B-Instruct
+
+# adjust hyperparameters
+epochs: 2
+lora_rank: 32
+learning_rate: 0.0002

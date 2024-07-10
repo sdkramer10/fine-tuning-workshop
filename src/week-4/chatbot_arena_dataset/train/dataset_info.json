@@ -1,0 +1,214 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "chatbot_arena_conversations",
+  "dataset_size": 81221714,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/lmsys/chatbot_arena_conversations@1b6335d42a1d2c7e34870c905d03ab964f7f2bd8/data/train-00000-of-00001-cced8514c7ed782a.parquet": {
+      "num_bytes": 41572998,
+      "checksum": null
+    }
+  },
+  "download_size": 41572998,
+  "features": {
+    "question_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "model_a": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "model_b": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "winner": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "judge": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "conversation_a": [
+      {
+        "content": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "role": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "conversation_b": [
+      {
+        "content": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "role": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "turn": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "anony": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "language": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "tstamp": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "openai_moderation": {
+      "categories": {
+        "harassment": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "harassment/threatening": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "hate": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "hate/threatening": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "self-harm": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "self-harm/instructions": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "self-harm/intent": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "sexual": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "sexual/minors": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "violence": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "violence/graphic": {
+          "dtype": "bool",
+          "_type": "Value"
+        }
+      },
+      "category_scores": {
+        "harassment": {
+          "dtype": "float64",
+          "_type": "Value"
+        },
+        "harassment/threatening": {
+          "dtype": "float64",
+          "_type": "Value"
+        },
+        "hate": {
+          "dtype": "float64",
+          "_type": "Value"
+        },
+        "hate/threatening": {
+          "dtype": "float64",
+          "_type": "Value"
+        },
+        "self-harm": {
+          "dtype": "float64",
+          "_type": "Value"
+        },
+        "self-harm/instructions": {
+          "dtype": "float64",
+          "_type": "Value"
+        },
+        "self-harm/intent": {
+          "dtype": "float64",
+          "_type": "Value"
+        },
+        "sexual": {
+          "dtype": "float64",
+          "_type": "Value"
+        },
+        "sexual/minors": {
+          "dtype": "float64",
+          "_type": "Value"
+        },
+        "violence": {
+          "dtype": "float64",
+          "_type": "Value"
+        },
+        "violence/graphic": {
+          "dtype": "float64",
+          "_type": "Value"
+        }
+      },
+      "flagged": {
+        "dtype": "bool",
+        "_type": "Value"
+      }
+    },
+    "toxic_chat_tag": {
+      "roberta-large": {
+        "flagged": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "probability": {
+          "dtype": "float64",
+          "_type": "Value"
+        }
+      },
+      "t5-large": {
+        "flagged": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "score": {
+          "dtype": "float64",
+          "_type": "Value"
+        }
+      }
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 122794712,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 81221714,
+      "num_examples": 33000,
+      "dataset_name": "chatbot_arena_conversations"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
