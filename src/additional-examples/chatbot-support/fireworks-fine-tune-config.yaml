@@ -1,0 +1,4 @@
+conversation: {}
+
+# The name of the fireworks model
+base_model: accounts/fireworks/models/llama-v3p1-8b-instruct
